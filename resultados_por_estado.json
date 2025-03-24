@@ -693,7 +693,7 @@
             "estado_nombre": "Veracruz"
         }
     ],
-    "Yucatan": [
+    "Yucatán": [
         {
             "sentimiento": {
                 "positivo": 20,
@@ -1478,7 +1478,7 @@
             "estado_nombre": "Chihuahua"
         }
     ],
-    "Ciudad de méxico": [
+    "Ciudad de México": [
         {
             "sentimiento": {
                 "positivo": 45,
@@ -2389,7 +2389,7 @@
             "estado_nombre": "Nayarit"
         }
     ],
-    "Nuevo leon": [
+    "Nuevo León": [
         {
             "sentimiento": {
                 "positivo": 35,
@@ -2893,7 +2893,7 @@
             "estado_nombre": "Quintana Roo"
         }
     ],
-    "San luis potosi": [
+    "San Luis Potosí": [
         {
             "sentimiento": {
                 "positivo": 15,

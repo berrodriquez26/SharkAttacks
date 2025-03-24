@@ -1,0 +1,2496 @@
+{
+    "Chiapas": [
+        {
+            "sentimiento": {
+                "positivo": 15,
+                "neutro": 20,
+                "negativo": 65
+            },
+            "percepcion": {
+                "descripcion": "Los comentarios reflejan una percepción mayoritariamente negativa de los aranceles propuestos por Trump. Los ciudadanos de Chiapas perciben estos aranceles como una amenaza directa a la economía local, especialmente para sectores clave como la agricultura y el café. Existe un escepticismo generalizado sobre la capacidad del gobierno mexicano para negociar favorablemente, y muchos consideran que las pausas temporales en los aranceles son solo soluciones a corto plazo que no resuelven el problema de fondo. La población teme que el impacto económico recaerá principalmente en los ciudadanos de menores ingresos."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Los aranceles podrían presionar a México para mejorar el control migratorio en la frontera sur",
+                    "Podrían forzar al gobierno mexicano a tomar medidas más efectivas contra el narcotráfico",
+                    "Representan una oportunidad para diversificar mercados y reducir la dependencia de EE.UU."
+                ],
+                "encontra": [
+                    "Afectarían gravemente a la economía local de Chiapas, especialmente a pequeños productores",
+                    "Aumentarían los precios de productos básicos para la población más vulnerable",
+                    "Representan una medida unilateral que viola el espíritu del T-MEC",
+                    "Son utilizados como herramienta política más que económica",
+                    "Podrían provocar una guerra comercial perjudicial para ambos países"
+                ]
+            },
+            "preocupaciones": [
+                "Aumento en el costo de vida para la población de Chiapas",
+                "Impacto negativo en los pequeños productores agrícolas y cafeteros",
+                "Posible militarización de la frontera sur para controlar la migración",
+                "Pérdida de empleos en sectores exportadores",
+                "Subordinación de la soberanía nacional a intereses estadounidenses",
+                "Falta de estrategias efectivas del gobierno mexicano para enfrentar la situación"
+            ],
+            "tendencias": [
+                "Fuerte rechazo a la figura de Donald Trump y sus políticas comerciales",
+                "Desconfianza en la capacidad del gobierno mexicano para negociar efectivamente",
+                "Polarización política que influye en la percepción de las negociaciones",
+                "Preocupación por el impacto económico en los sectores más vulnerables",
+                "Llamados a la unidad nacional frente a presiones externas",
+                "Propuestas de boicot a productos estadounidenses como respuesta"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Sector cafetero",
+                    "empresas": [
+                        "Cafeterías locales"
+                    ]
+                },
+                {
+                    "nombre": "Agricultura y exportaciones agrícolas",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Acero y aluminio",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Comercio fronterizo",
+                    "empresas": []
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Negociaciones México-EEUU",
+                    "porcentaje": 30,
+                    "descripcion": "Comentarios sobre el proceso de negociación entre ambos países, la pausa temporal de aranceles y las estrategias diplomáticas empleadas por el gobierno mexicano."
+                },
+                {
+                    "tema": "Críticas a Donald Trump",
+                    "porcentaje": 25,
+                    "descripcion": "Expresiones de rechazo a las políticas y la figura de Trump, calificándolo frecuentemente de irracional o utilizando lenguaje despectivo."
+                },
+                {
+                    "tema": "Críticas al gobierno mexicano",
+                    "porcentaje": 20,
+                    "descripcion": "Cuestionamientos a la estrategia del gobierno federal y su capacidad para defender los intereses nacionales frente a las presiones estadounidenses."
+                },
+                {
+                    "tema": "Impacto económico",
+                    "porcentaje": 15,
+                    "descripcion": "Preocupaciones sobre cómo los aranceles afectarían la economía local de Chiapas, especialmente a sectores vulnerables y productores pequeños."
+                },
+                {
+                    "tema": "Migración y seguridad",
+                    "porcentaje": 10,
+                    "descripcion": "Referencias a la relación entre los aranceles y las exigencias de EE.UU. en materia migratoria y de seguridad, particularmente relevante para Chiapas por su frontera con Guatemala."
+                }
+            ],
+            "informacion_adicional": "Los comentarios de Chiapas reflejan una preocupación particular por el sector cafetero, un pilar económico importante para el estado. La propuesta de cambiar el 'café americano' por 'café de olla mexicano' o 'café canadiense' muestra un intento de respuesta simbólica desde este sector. También se observa que el gobernador de Chiapas, Eduardo Ramírez, ha expresado apoyo público a la presidenta Sheinbaum en su manejo de la crisis, lo que sugiere un alineamiento político entre el gobierno estatal y federal. La posición fronteriza de Chiapas con Guatemala añade una capa adicional de complejidad, ya que cualquier medida relacionada con el control migratorio tendría un impacto directo en la dinámica social y económica del estado. Algunos comentarios sugieren que la población percibe que las élites políticas no sufrirán el impacto económico de los aranceles, mientras que los ciudadanos comunes, especialmente en estados como Chiapas con altos índices de pobreza, serán los más afectados.",
+            "estado_nombre": "Chiapas"
+        }
+    ],
+    "Chihuahua": [
+        {
+            "sentimiento": {
+                "positivo": 25,
+                "neutro": 15,
+                "negativo": 60
+            },
+            "percepcion": {
+                "descripcion": "Los comentarios reflejan una percepción predominantemente negativa sobre los aranceles propuestos por Trump, considerándolos como una amenaza directa a la economía de Chihuahua. La mayoría ve los aranceles como un factor que generará incertidumbre, pérdida de empleos y aumento de precios. Existe una división clara entre quienes apoyan la respuesta de imposición de aranceles por parte del gobierno mexicano como muestra de dignidad nacional, y quienes consideran que esta estrategia agravará los problemas económicos del estado, especialmente por la dependencia de Chihuahua a las exportaciones y maquiladoras."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Representa una defensa de la soberanía nacional frente a presiones externas",
+                    "Podría impulsar el consumo de productos locales y reducir la dependencia de EE.UU.",
+                    "Es una respuesta necesaria para mostrar dignidad ante las imposiciones de Trump",
+                    "Podría diversificar los mercados comerciales de México hacia otros países como China"
+                ],
+                "encontra": [
+                    "Provocará pérdida de empleos en maquiladoras y empresas exportadoras de Chihuahua",
+                    "Aumentará los precios de productos básicos importados como el maíz",
+                    "Los consumidores mexicanos terminarán pagando el costo de los aranceles",
+                    "La economía de Chihuahua es altamente dependiente de EE.UU. y no resistiría una guerra comercial",
+                    "Sería más efectivo combatir al narcotráfico que entrar en una guerra de aranceles"
+                ]
+            },
+            "preocupaciones": [
+                "Posible reubicación de empresas automotrices como Nissan fuera de México",
+                "Incertidumbre para los exportadores sobre cómo proceder con sus envíos",
+                "Aumento en el costo de productos básicos importados como maíz y gasolina",
+                "Pérdida masiva de empleos en el sector maquilador de Chihuahua",
+                "Impacto en el tipo de cambio y posible devaluación del peso",
+                "Efectos negativos para agricultores y ganaderos que dependen de exportaciones"
+            ],
+            "tendencias": [
+                "Polarización entre quienes apoyan la respuesta del gobierno y quienes la critican",
+                "Vinculación del tema de aranceles con el narcotráfico y la política de seguridad",
+                "Llamados al consumo local como respuesta a los aranceles",
+                "Escepticismo sobre la capacidad de México para sostener una guerra comercial",
+                "Críticas a la estrategia gubernamental de confrontación en lugar de negociación",
+                "Preocupación por el impacto en la economía familiar y el empleo local"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Automotriz",
+                    "empresas": [
+                        "Nissan",
+                        "Honda",
+                        "Toyota"
+                    ]
+                },
+                {
+                    "nombre": "Maquiladoras",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Agrícola",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Ganadero",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Comercio minorista",
+                    "empresas": []
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Narcotráfico y aranceles",
+                    "porcentaje": 30.0,
+                    "descripcion": "Discusión sobre la relación entre los aranceles impuestos por Trump y el combate al narcotráfico, con opiniones divididas sobre si el gobierno mexicano debería priorizar el combate al crimen organizado en lugar de responder con aranceles"
+                },
+                {
+                    "tema": "Impacto económico en empleos y empresas",
+                    "porcentaje": 25.0,
+                    "descripcion": "Preocupaciones sobre la posible reubicación de empresas, especialmente del sector automotriz, y la pérdida de empleos en maquiladoras de Chihuahua como consecuencia directa de los aranceles"
+                },
+                {
+                    "tema": "Respuesta del gobierno mexicano",
+                    "porcentaje": 20.0,
+                    "descripcion": "Opiniones sobre la decisión del gobierno de imponer aranceles recíprocos, con apoyo de algunos ciudadanos que ven esto como una defensa de la soberanía y críticas de otros que consideran esta estrategia contraproducente"
+                },
+                {
+                    "tema": "Soberanía nacional vs. dependencia económica",
+                    "porcentaje": 15.0,
+                    "descripcion": "Debate sobre la capacidad de México para enfrentar a EE.UU. en una guerra comercial, considerando la alta dependencia económica de Chihuahua de las exportaciones y la inversión estadounidense"
+                },
+                {
+                    "tema": "Consumo local como alternativa",
+                    "porcentaje": 10.0,
+                    "descripcion": "Propuestas para impulsar el consumo de productos mexicanos y reducir la dependencia de importaciones estadounidenses como respuesta a los aranceles"
+                }
+            ],
+            "informacion_adicional": "Los comentarios de Chihuahua reflejan una preocupación particular por el impacto en la industria maquiladora, que es fundamental para la economía del estado fronterizo. La cercanía geográfica con Estados Unidos (mencionada como '5 horas del gabacho') es vista como una ventaja competitiva que podría mitigar parcialmente el impacto de los aranceles. Existe un debate sobre si las empresas realmente se reubicarían, con algunos argumentando que el costo de la mano de obra mexicana sigue siendo significativamente menor (un comentario menciona que 'un trabajador de maquila mexicano solo necesita trabajar 24 minutos para desquitar su sueldo'). También se observa una tendencia a vincular la política de seguridad del gobierno mexicano ('abrazos, no balazos') con la imposición de aranceles, sugiriendo que la percepción en Chihuahua es que ambos temas están estrechamente relacionados. Finalmente, hay menciones específicas a la incertidumbre que enfrentan los exportadores chihuahuenses que no saben qué sucederá cuando sus productos lleguen a la aduana estadounidense.",
+            "estado_nombre": "Chihuahua"
+        }
+    ],
+    "Aguascalientes": [
+        {
+            "sentimiento": {
+                "positivo": 15,
+                "neutro": 20,
+                "negativo": 65
+            },
+            "percepcion": {
+                "descripcion": "Los comentarios reflejan una percepción mayoritariamente negativa sobre los aranceles propuestos por Trump, especialmente por su potencial impacto en la economía de Aguascalientes. Existe preocupación por el futuro de la planta de Nissan, aunque algunos comentarios sugieren que la empresa no tiene planes inmediatos de cerrar. Se percibe una tensión entre la necesidad de mantener buenas relaciones comerciales con EE.UU. y el deseo de defender la soberanía nacional. Muchos comentarios muestran escepticismo sobre la capacidad del gobierno mexicano para negociar efectivamente con la administración Trump."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Podrían presionar a México para combatir el narcotráfico y mejorar la seguridad",
+                    "Representan una oportunidad para diversificar mercados y depender menos de EE.UU.",
+                    "Podrían impulsar el consumo de productos nacionales"
+                ],
+                "encontra": [
+                    "Afectarían negativamente a la industria automotriz de Aguascalientes, especialmente a Nissan",
+                    "Podrían provocar pérdida de empleos en el estado",
+                    "Encarecerían productos básicos para los consumidores mexicanos",
+                    "Dañarían la economía mexicana, con una posible contracción del 0.5% en 2025",
+                    "No resolverían los problemas migratorios o de seguridad que Trump argumenta"
+                ]
+            },
+            "preocupaciones": [
+                "Posible cierre o reducción de operaciones de la planta de Nissan en Aguascalientes",
+                "Pérdida de empleos en el sector automotriz y manufacturero",
+                "Impacto económico negativo en la economía local de Aguascalientes",
+                "Capacidad del gobierno mexicano para negociar efectivamente con Trump",
+                "Posible escalada de tensiones comerciales entre México y EE.UU.",
+                "Efecto dominó en otros sectores económicos del estado"
+            ],
+            "tendencias": [
+                "Polarización política en las respuestas, con críticas tanto al gobierno federal como a políticos locales",
+                "Escepticismo generalizado sobre las negociaciones entre México y EE.UU.",
+                "Preocupación por el impacto económico específico en Aguascalientes más que por el impacto nacional",
+                "Críticas a políticos locales por no defender adecuadamente los intereses del estado",
+                "Uso de la situación para atacar a adversarios políticos tanto a nivel local como federal"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Industria automotriz",
+                    "empresas": [
+                        "Nissan"
+                    ]
+                },
+                {
+                    "nombre": "Industria acerera y del aluminio",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Comercio minorista",
+                    "empresas": [
+                        "McDonald's",
+                        "Walmart",
+                        "Coca-Cola"
+                    ]
+                },
+                {
+                    "nombre": "Exportaciones agrícolas",
+                    "empresas": []
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Impacto en la industria automotriz",
+                    "porcentaje": 30,
+                    "descripcion": "Discusiones sobre cómo los aranceles afectarían a Nissan en Aguascalientes y las consecuencias para el empleo local"
+                },
+                {
+                    "tema": "Relación México-EE.UU.",
+                    "porcentaje": 25,
+                    "descripcion": "Comentarios sobre las negociaciones entre ambos países, la postura de Trump y la respuesta del gobierno mexicano"
+                },
+                {
+                    "tema": "Respuesta del gobierno mexicano",
+                    "porcentaje": 20,
+                    "descripcion": "Opiniones sobre las acciones de la presidenta Sheinbaum y su gabinete frente a las amenazas arancelarias"
+                },
+                {
+                    "tema": "Críticas a políticos locales",
+                    "porcentaje": 15,
+                    "descripcion": "Cuestionamientos a la actuación de políticos de Aguascalientes frente a la situación, especialmente a figuras del PAN"
+                },
+                {
+                    "tema": "Migración",
+                    "porcentaje": 10,
+                    "descripcion": "Referencias a las políticas migratorias de Trump y su relación con los aranceles propuestos"
+                }
+            ],
+            "informacion_adicional": "Los comentarios revelan una dinámica política local importante en Aguascalientes, con críticas específicas al senador Juan Antonio Martín del Campo (PAN) y otros políticos locales. Existe una percepción de que los políticos locales no están defendiendo adecuadamente los intereses del estado frente a las amenazas arancelarias. La planta de Nissan en Aguascalientes representa un pilar económico fundamental para el estado, y aunque hay comentarios que sugieren que la empresa no tiene planes inmediatos de cerrar, persiste la preocupación por el impacto a largo plazo. También se menciona que la producción de Nissan es principalmente para el mercado nacional (90%), lo que podría mitigar parcialmente el impacto de los aranceles. Hay referencias a problemas locales como concesiones de agua y acusaciones de corrupción que se mezclan con la discusión sobre aranceles, mostrando cómo este tema se entrelaza con otras preocupaciones regionales.",
+            "estado_nombre": "Aguascalientes"
+        }
+    ],
+    "Baja California Sur": [
+        {
+            "sentimiento": {
+                "positivo": 15,
+                "neutro": 20,
+                "negativo": 65
+            },
+            "percepcion": {
+                "descripcion": "Los aranceles propuestos por Trump son percibidos mayoritariamente como una amenaza directa para la economía de Baja California Sur, especialmente para los sectores de pesca y agricultura que dependen fuertemente de las exportaciones a Estados Unidos. Existe incertidumbre sobre la implementación real de estos aranceles debido a los constantes cambios de fecha y las negociaciones en curso. Aunque algunos ven oportunidades para el mercado local, la mayoría considera que los aranceles representarían un golpe significativo a la economía regional."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Permitiría que productos como mariscos y pescados se queden para consumo local",
+                    "Podría resultar en precios más bajos para consumidores locales",
+                    "Obligaría a diversificar mercados y reducir dependencia de EE.UU.",
+                    "Podría mejorar la calidad de productos disponibles localmente"
+                ],
+                "encontra": [
+                    "Amenaza directa a las exportaciones de pesca y agricultura de Baja California Sur",
+                    "Genera incertidumbre económica para productores sudcalifornianos",
+                    "Afectaría negativamente a productores ya golpeados por la sequía",
+                    "Encarecería productos locales por el impacto en la cadena productiva",
+                    "Provocaría pérdida de empleos en sectores exportadores",
+                    "Causaría devaluación del peso frente al dólar"
+                ]
+            },
+            "preocupaciones": [
+                "Impacto directo en exportaciones agrícolas y pesqueras del estado",
+                "Incertidumbre económica por los constantes cambios en las fechas de implementación",
+                "Efectos combinados de aranceles y sequía en productores locales",
+                "Posible aumento de precios en productos básicos como tortillas y pan",
+                "Devaluación del peso mexicano frente al dólar",
+                "Falta de planes concretos del gobierno para enfrentar los aranceles",
+                "Uso de recursos públicos en eventos políticos en lugar de apoyar a sectores afectados"
+            ],
+            "tendencias": [
+                "Polarización política en la interpretación de los aranceles y la respuesta gubernamental",
+                "Escepticismo sobre la efectividad de las negociaciones diplomáticas",
+                "Críticas al gobierno por presunto mal uso de recursos públicos",
+                "Percepción de que los aranceles son una herramienta de presión política más que económica",
+                "Debate sobre priorizar mercado local versus mantener exportaciones",
+                "Vinculación del tema de aranceles con otros problemas como narcotráfico y migración"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Pesca y acuacultura",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Agricultura",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Ganadería",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Exportación de mariscos",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Producción de alimentos básicos",
+                    "empresas": []
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Impacto económico en exportaciones",
+                    "porcentaje": 30,
+                    "descripcion": "Preocupación por cómo los aranceles afectarían directamente a las exportaciones de productos pesqueros y agrícolas de Baja California Sur hacia Estados Unidos"
+                },
+                {
+                    "tema": "Respuesta del gobierno mexicano",
+                    "porcentaje": 25,
+                    "descripcion": "Discusión sobre las acciones, negociaciones y planes del gobierno federal para enfrentar la amenaza de aranceles"
+                },
+                {
+                    "tema": "Negociaciones con EE.UU.",
+                    "porcentaje": 20,
+                    "descripcion": "Seguimiento de las conversaciones entre México y Estados Unidos para evitar o posponer la implementación de aranceles"
+                },
+                {
+                    "tema": "Consumo local vs. exportación",
+                    "porcentaje": 10,
+                    "descripcion": "Debate sobre si los aranceles representan una oportunidad para redirigir productos de alta calidad al mercado local en lugar de exportarlos"
+                },
+                {
+                    "tema": "Críticas al gobierno",
+                    "porcentaje": 10,
+                    "descripcion": "Cuestionamientos sobre el uso de recursos públicos y la efectividad de las estrategias gubernamentales frente a los aranceles"
+                },
+                {
+                    "tema": "Sequía y otros problemas locales",
+                    "porcentaje": 5,
+                    "descripcion": "Mención de cómo los aranceles agravarían problemas existentes como la sequía que ya afecta a productores locales"
+                }
+            ],
+            "informacion_adicional": "Los comentarios revelan una situación compleja donde los aranceles propuestos por Trump se entrelazan con problemas estructurales preexistentes en Baja California Sur, como la sequía y la distribución inequitativa de recursos hídricos. Existe una percepción de que los aranceles son utilizados como herramienta de presión política relacionada con temas de migración y narcotráfico, más que por razones puramente económicas. La posposición temporal de los aranceles (hasta el 2 de abril según algunos comentarios) ha generado un alivio momentáneo pero no ha disipado la incertidumbre. También se observa una crítica recurrente al gobierno por organizar eventos políticos en lugar de desarrollar planes concretos de contingencia económica. Los productos específicos mencionados como vulnerables incluyen langosta, abulón, camarón y ostiones, que son particularmente importantes para la economía de Baja California Sur. Algunos comentarios sugieren que la dependencia excesiva de las exportaciones a EE.UU. ha sido un error estratégico y que esta crisis podría impulsar una necesaria diversificación de mercados.",
+            "estado_nombre": "Baja California Sur"
+        }
+    ],
+    "Baja California": [
+        {
+            "sentimiento": {
+                "positivo": 15,
+                "neutro": 25,
+                "negativo": 60
+            },
+            "percepcion": {
+                "descripcion": "Los habitantes de Baja California perciben los aranceles impuestos por Trump como una medida punitiva que tendrá efectos negativos tanto para México como para Estados Unidos. Existe una clara división entre quienes ven esta medida como una forma de presión necesaria para que el gobierno mexicano actúe contra el narcotráfico y la migración ilegal, y quienes la consideran un abuso que dañará la economía regional. Muchos comentarios reflejan escepticismo sobre la capacidad del gobierno mexicano para negociar efectivamente, mientras otros celebran las pausas temporales en la implementación como logros diplomáticos."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Obligará al gobierno mexicano a combatir el narcotráfico y la migración ilegal",
+                    "Presionará a México para sellar su frontera sur",
+                    "Forzará a las autoridades mexicanas a tomar acciones concretas contra los carteles",
+                    "Servirá como mecanismo de presión para que México cumpla con sus compromisos"
+                ],
+                "encontra": [
+                    "Afectarán negativamente a los consumidores y trabajadores estadounidenses",
+                    "Incrementarán el costo de vida en Estados Unidos",
+                    "Dañarán la relación comercial entre México y Estados Unidos",
+                    "Perjudicarán la economía de Baja California, especialmente en sectores clave como agricultura y manufactura",
+                    "Generarán inflación en Estados Unidos"
+                ]
+            },
+            "preocupaciones": [
+                "Impacto en los precios de productos básicos y exportaciones clave como cerveza, tequila y aguacate",
+                "Posible pérdida de empleos en sectores manufactureros y agrícolas",
+                "Deterioro de la relación bilateral México-Estados Unidos",
+                "Incapacidad del gobierno mexicano para negociar efectivamente",
+                "Sumisión percibida del gobierno mexicano ante las exigencias de Trump",
+                "Falta de acciones concretas por parte de EE.UU. para detener el flujo de armas hacia México"
+            ],
+            "tendencias": [
+                "Polarización política en la percepción de las negociaciones del gobierno mexicano",
+                "Escepticismo sobre las soluciones temporales como la prórroga de un mes en los aranceles",
+                "Crítica a la respuesta del gobierno mexicano, considerada por muchos como débil o sumisa",
+                "Vinculación del tema arancelario con problemas de narcotráfico y migración",
+                "Preocupación por el impacto económico en industrias locales de Baja California",
+                "Cuestionamiento sobre la efectividad de las medidas para combatir el narcotráfico"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Agroindustria",
+                    "empresas": [
+                        "Productores de aguacate"
+                    ]
+                },
+                {
+                    "nombre": "Industria de bebidas alcohólicas",
+                    "empresas": [
+                        "Cerveceras",
+                        "Productores de tequila"
+                    ]
+                },
+                {
+                    "nombre": "Manufactura",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Industria del acero y aluminio",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Comercio transfronterizo",
+                    "empresas": []
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Negociaciones diplomáticas",
+                    "porcentaje": 30.5,
+                    "descripcion": "Comentarios sobre las negociaciones entre el gobierno mexicano y la administración Trump, incluyendo la prórroga de un mes en la implementación de aranceles y la percepción de sumisión o fortaleza del gobierno mexicano."
+                },
+                {
+                    "tema": "Narcotráfico y seguridad",
+                    "porcentaje": 25.8,
+                    "descripcion": "Discusiones sobre la relación entre los aranceles y el combate al narcotráfico, incluyendo la extradición de narcotraficantes y el despliegue de fuerzas de seguridad en la frontera."
+                },
+                {
+                    "tema": "Impacto económico",
+                    "porcentaje": 22.3,
+                    "descripcion": "Análisis sobre cómo los aranceles afectarán a sectores específicos de la economía de Baja California y el costo de vida tanto en México como en Estados Unidos."
+                },
+                {
+                    "tema": "Migración",
+                    "porcentaje": 12.6,
+                    "descripcion": "Referencias al control migratorio como una de las exigencias de Trump para evitar los aranceles, incluyendo el despliegue de la Guardia Nacional en la frontera."
+                },
+                {
+                    "tema": "Política interna mexicana",
+                    "porcentaje": 8.8,
+                    "descripcion": "Críticas y apoyos al gobierno mexicano y su manejo de la situación, con frecuentes referencias a la polarización política nacional."
+                }
+            ],
+            "informacion_adicional": "Los comentarios revelan una situación particular en Baja California debido a su condición fronteriza, donde el impacto de los aranceles se percibe de manera más directa e inmediata que en otras regiones de México. Se observa una preocupación específica por el despliegue de 500 elementos de la Guardia Nacional en Tijuana como parte de los acuerdos para evitar los aranceles. También es notable la mención de medios locales como 'La Jornada BC' y 'Uniradio Baja', lo que confirma el enfoque regional de la discusión. Existe un paralelismo con la situación de Canadá, que también enfrenta aranceles similares y ha anunciado medidas recíprocas, generando comparaciones sobre cómo ambos países responden a las políticas comerciales de Trump. Los comentarios también reflejan una percepción de que las prórrogas en la implementación de aranceles son temporales y que Trump utilizará esta amenaza de forma recurrente como mecanismo de presión durante su mandato.",
+            "estado_nombre": "Baja California"
+        }
+    ],
+    "Campeche": [
+        {
+            "sentimiento": {
+                "positivo": 20,
+                "neutro": 25,
+                "negativo": 55
+            },
+            "percepcion": {
+                "descripcion": "Los comentarios de Campeche reflejan una percepción mayoritariamente negativa de los aranceles propuestos por Trump. Aunque se reconoce que la pausa temporal es positiva, existe un fuerte escepticismo sobre la efectividad de esta medida a largo plazo. Muchos consideran que estos aranceles son una herramienta de presión política más que económica, utilizados para forzar a México a implementar medidas contra el narcotráfico y la migración. Existe también la percepción de que los aranceles podrían ser parte de una estrategia más amplia para acceder a los recursos naturales de México, especialmente en estados ricos en recursos como Campeche."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Los aranceles presionarían a México para combatir efectivamente el narcotráfico y el tráfico de fentanilo",
+                    "Podrían forzar al gobierno mexicano a tomar medidas más estrictas contra el crimen organizado",
+                    "Algunos comentaristas ven los aranceles como una forma legítima de proteger la seguridad nacional de EE.UU."
+                ],
+                "encontra": [
+                    "Los aranceles afectan principalmente a los consumidores estadounidenses, no a los productores mexicanos",
+                    "Violan los acuerdos establecidos en el TMEC (Tratado México-Estados Unidos-Canadá)",
+                    "Representan una forma de presión e intervención en asuntos internos de México",
+                    "Podrían dañar la relación comercial bilateral y afectar negativamente a ambas economías",
+                    "Son percibidos como una estrategia para acceder a los recursos naturales de México"
+                ]
+            },
+            "preocupaciones": [
+                "Dependencia económica excesiva de México hacia Estados Unidos",
+                "Percepción de sumisión del gobierno mexicano ante las exigencias de EE.UU.",
+                "Posible uso de los aranceles como excusa para una mayor intervención en asuntos internos",
+                "Impacto en la economía local de Campeche, especialmente en sectores clave",
+                "Falta de inversión en infraestructura local mientras se destinan recursos a responder a crisis diplomáticas",
+                "Posible interés de EE.UU. en los recursos naturales de México, incluido el petróleo de Campeche"
+            ],
+            "tendencias": [
+                "Polarización política: los comentarios se dividen claramente entre defensores y críticos del gobierno actual",
+                "Desconfianza hacia las intenciones de EE.UU., percibido como interesado en los recursos mexicanos",
+                "Crítica al acarreo político desde Campeche para apoyar al gobierno federal",
+                "Cuestionamiento a medios locales (Tribuna Campeche) por presunta parcialidad",
+                "Comparación constante entre las prácticas del gobierno actual y gobiernos anteriores",
+                "Escepticismo sobre la efectividad de acuerdos temporales con Trump"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Automotriz",
+                    "empresas": [
+                        "Ford",
+                        "Chevrolet",
+                        "Chrysler"
+                    ]
+                },
+                {
+                    "nombre": "Petrolero",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Agrícola",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Turístico",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Medios de comunicación",
+                    "empresas": [
+                        "Tribuna Campeche"
+                    ]
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Negociación política",
+                    "porcentaje": 30,
+                    "descripcion": "Discusiones sobre la pausa temporal de aranceles, las negociaciones entre presidentes y la percepción de que México cedió ante las presiones de EE.UU."
+                },
+                {
+                    "tema": "Narcotráfico y seguridad",
+                    "porcentaje": 25,
+                    "descripcion": "Comentarios sobre el tráfico de fentanilo, el despliegue de la Guardia Nacional en la frontera y la responsabilidad compartida en el combate al narcotráfico"
+                },
+                {
+                    "tema": "Soberanía nacional",
+                    "porcentaje": 20,
+                    "descripcion": "Preocupaciones sobre la percepción de sumisión del gobierno mexicano ante EE.UU. y el posible interés en los recursos naturales de México"
+                },
+                {
+                    "tema": "Política partidista interna",
+                    "porcentaje": 15,
+                    "descripcion": "Críticas entre simpatizantes de MORENA y opositores, referencias a políticos locales de Campeche y comparaciones con gobiernos anteriores"
+                },
+                {
+                    "tema": "Impacto económico",
+                    "porcentaje": 10,
+                    "descripcion": "Análisis sobre quién realmente paga los aranceles y el impacto potencial en la economía local y nacional"
+                }
+            ],
+            "informacion_adicional": "Los comentarios de Campeche revelan una dimensión local importante en el debate sobre los aranceles. Existe una crítica significativa al uso de recursos para movilizar personas desde Campeche al Zócalo en apoyo al gobierno federal, cuando hay necesidades locales urgentes como la reparación de la carretera Santa Adelaida-Palizada. También se observa una fuerte crítica al medio local 'Tribuna Campeche', acusado de parcialidad política. La mención específica de políticos locales como Alejandro Moreno Cárdenas sugiere que el debate sobre aranceles se entrelaza con dinámicas políticas regionales. Además, siendo Campeche un estado petrolero, hay una preocupación subyacente sobre el posible interés de EE.UU. en sus recursos naturales, especialmente cuando algunos comentaristas sugieren que las presiones arancelarias podrían ser un pretexto para una mayor intervención económica.",
+            "estado_nombre": "Campeche"
+        }
+    ],
+    "Chiapas": [
+        {
+            "sentimiento": {
+                "positivo": 15,
+                "neutro": 20,
+                "negativo": 65
+            },
+            "percepcion": {
+                "descripcion": "Los comentarios reflejan una percepción mayoritariamente negativa de los aranceles propuestos por Trump. Los ciudadanos de Chiapas los ven como una medida injusta y arbitraria que afectará principalmente a la población de menores ingresos. Existe preocupación por el impacto en los precios de productos básicos y en sectores clave como el acero, aluminio y productos agrícolas. Se percibe también como una herramienta de presión política más que económica, especialmente en temas de migración y seguridad fronteriza, lo que genera particular inquietud en Chiapas por su condición de estado fronterizo con Guatemala."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Podría presionar al gobierno mexicano para mejorar la seguridad fronteriza y combatir el narcotráfico",
+                    "Podría forzar acuerdos diplomáticos más favorables para ambos países",
+                    "Serviría como incentivo para que México tome medidas más estrictas contra la migración ilegal"
+                ],
+                "encontra": [
+                    "Afectará negativamente a la economía mexicana y particularmente a los ciudadanos de menores ingresos",
+                    "Representa una medida arbitraria que viola los acuerdos del T-MEC",
+                    "Es una forma de presión política injusta que atenta contra la soberanía mexicana",
+                    "Generará inflación y aumento de precios en productos básicos",
+                    "Perjudicará las relaciones comerciales entre ambos países"
+                ]
+            },
+            "preocupaciones": [
+                "Aumento en el costo de productos básicos para la población de menores recursos",
+                "Impacto negativo en la economía local de Chiapas, especialmente en sectores agrícolas",
+                "Desvío de recursos de seguridad de Chiapas hacia la frontera norte",
+                "Percepción de que el gobierno mexicano cede ante presiones externas",
+                "Posible escalada de tensiones comerciales que afecten más sectores económicos",
+                "Falta de estrategias claras del gobierno mexicano para enfrentar los aranceles"
+            ],
+            "tendencias": [
+                "Fuerte polarización política en las opiniones sobre cómo manejar la situación",
+                "Críticas tanto al gobierno de Trump como al gobierno mexicano",
+                "Percepción de que las decisiones se toman sin considerar el impacto en la población",
+                "Escepticismo sobre las soluciones diplomáticas temporales",
+                "Preocupación por la seguridad en Chiapas ante el desvío de recursos hacia la frontera norte",
+                "Uso de humor y sarcasmo como mecanismo de respuesta ante la situación"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Acero y aluminio",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Cafeterías y restaurantes",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Sector agrícola",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Bebidas alcohólicas",
+                    "empresas": []
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Relación política México-EE.UU.",
+                    "porcentaje": 30,
+                    "descripcion": "Discusiones sobre la dinámica diplomática entre ambos países, las negociaciones y la postura del gobierno mexicano frente a las exigencias de Trump."
+                },
+                {
+                    "tema": "Impacto económico de aranceles",
+                    "porcentaje": 25,
+                    "descripcion": "Comentarios sobre cómo los aranceles afectarán la economía mexicana, los precios de productos básicos y sectores específicos como el acero y aluminio."
+                },
+                {
+                    "tema": "Críticas a Trump",
+                    "porcentaje": 20,
+                    "descripcion": "Opiniones negativas sobre las decisiones y el comportamiento del presidente estadounidense, calificándolo de arbitrario e irracional."
+                },
+                {
+                    "tema": "Críticas al gobierno mexicano",
+                    "porcentaje": 15,
+                    "descripcion": "Cuestionamientos a la estrategia del gobierno de Sheinbaum para manejar la situación, acusaciones de ceder ante presiones externas."
+                },
+                {
+                    "tema": "Migración y seguridad fronteriza",
+                    "porcentaje": 10,
+                    "descripcion": "Menciones sobre la relación entre los aranceles y las exigencias de EE.UU. en temas migratorios y de seguridad, con especial relevancia para Chiapas como estado fronterizo."
+                }
+            ],
+            "informacion_adicional": "Los comentarios de Chiapas reflejan una preocupación particular por ser un estado fronterizo con Guatemala, lo que lo coloca en una posición vulnerable ante las políticas migratorias. Existe inquietud por el desvío de recursos de seguridad hacia la frontera norte, dejando desprotegido al estado. También se observa un patrón de respuestas que sugiere que los ciudadanos de Chiapas perciben que las decisiones nacionales no consideran las realidades locales. Hay menciones a la propuesta de boicot a productos estadounidenses (como cambiar el 'café americano' por 'café de olla'), lo que indica una búsqueda de respuestas económicas desde lo local. La pausa temporal de aranceles anunciada por Sheinbaum es vista con escepticismo, considerándola más una postergación del problema que una solución definitiva.",
+            "estado_nombre": "Chiapas"
+        }
+    ],
+    "Chihuahua": [
+        {
+            "sentimiento": {
+                "positivo": 25,
+                "neutro": 15,
+                "negativo": 60
+            },
+            "percepcion": {
+                "descripcion": "Los comentarios reflejan una percepción mayoritariamente negativa hacia los aranceles propuestos por Trump, considerándolos como una amenaza directa a la economía de Chihuahua. Existe preocupación por el impacto en exportaciones, empleos en maquiladoras y la posible reubicación de empresas como Nissan. Aunque algunos apoyan la respuesta de aranceles recíprocos por parte del gobierno mexicano como muestra de dignidad nacional, la mayoría expresa inquietud por las consecuencias económicas negativas que recaerían sobre los consumidores y trabajadores. Se percibe un dilema entre defender la soberanía nacional y proteger la economía local altamente dependiente del comercio con EE.UU."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Defender la soberanía nacional frente a las imposiciones de EE.UU.",
+                    "Promover el consumo de productos nacionales y reducir la dependencia económica",
+                    "Responder con la misma medida para mostrar dignidad ('ojo por ojo')",
+                    "Oportunidad para diversificar mercados y buscar alternativas como China",
+                    "Presionar a EE.UU. que también depende de productos mexicanos como el aguacate"
+                ],
+                "encontra": [
+                    "Aumentará los precios de productos básicos importados como maíz y gas",
+                    "Provocará pérdida de empleos en maquiladoras y empresas exportadoras",
+                    "Chihuahua depende fuertemente del comercio con EE.UU. por su ubicación fronteriza",
+                    "Los consumidores mexicanos terminarán pagando los costos adicionales",
+                    "Podría provocar la reubicación de empresas como Nissan a otros países",
+                    "México tiene menos poder económico que EE.UU. en una guerra comercial"
+                ]
+            },
+            "preocupaciones": [
+                "Pérdida de empleos en maquiladoras y sector automotriz en Chihuahua",
+                "Aumento de precios en productos básicos importados",
+                "Incertidumbre para exportadores sobre procedimientos aduaneros",
+                "Posible reubicación de empresas como Nissan a otros países",
+                "Impacto en la economía local altamente dependiente del comercio fronterizo",
+                "Que el gobierno mexicano priorice proteger al narcotráfico sobre la economía",
+                "El 40% de productos mexicanos quedando en 'limbo' por cuestiones burocráticas"
+            ],
+            "tendencias": [
+                "División política clara entre quienes apoyan la respuesta del gobierno y quienes la critican",
+                "Vinculación del tema de aranceles con el narcotráfico y la política de seguridad",
+                "Llamados al nacionalismo económico y consumo de productos locales",
+                "Preocupación por el impacto específico en la economía fronteriza de Chihuahua",
+                "Críticas a la estrategia gubernamental de confrontación en lugar de negociación",
+                "Escepticismo sobre la capacidad de México para sostener una guerra comercial",
+                "Percepción de que los consumidores serán quienes paguen las consecuencias"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Industria automotriz",
+                    "empresas": [
+                        "Nissan",
+                        "Honda",
+                        "Toyota"
+                    ]
+                },
+                {
+                    "nombre": "Maquiladoras",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Agricultura y exportación de alimentos",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Importación de productos básicos",
+                    "empresas": [
+                        "LALA"
+                    ]
+                },
+                {
+                    "nombre": "Comercio minorista",
+                    "empresas": [
+                        "Outlets"
+                    ]
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Narcotráfico y política de seguridad",
+                    "porcentaje": 30,
+                    "descripcion": "Discusión sobre la relación entre los aranceles propuestos y la exigencia de EE.UU. de combatir al narcotráfico, con críticas a la postura del gobierno mexicano de no enfrentar a los carteles."
+                },
+                {
+                    "tema": "Impacto económico y empleo",
+                    "porcentaje": 25,
+                    "descripcion": "Preocupaciones sobre el efecto negativo en la economía de Chihuahua, especialmente en términos de pérdida de empleos en maquiladoras y aumento de precios para consumidores."
+                },
+                {
+                    "tema": "Respuesta del gobierno mexicano",
+                    "porcentaje": 20,
+                    "descripcion": "Opiniones divididas sobre la decisión de imponer aranceles recíprocos, con apoyo de algunos como muestra de dignidad nacional y críticas de otros por considerarla contraproducente."
+                },
+                {
+                    "tema": "Soberanía nacional vs dependencia económica",
+                    "porcentaje": 15,
+                    "descripcion": "Debate sobre la tensión entre defender la soberanía nacional y la realidad de la dependencia económica de México, especialmente en estados fronterizos como Chihuahua."
+                },
+                {
+                    "tema": "Reubicación de empresas",
+                    "porcentaje": 10,
+                    "descripcion": "Discusión sobre la posibilidad de que empresas como Nissan trasladen su producción fuera de México y el impacto que esto tendría en la economía local."
+                }
+            ],
+            "informacion_adicional": "Los comentarios reflejan la particular vulnerabilidad de Chihuahua ante los aranceles debido a su posición fronteriza y dependencia de la industria maquiladora. Existe un conocimiento relativamente sofisticado entre los comentaristas sobre cómo funcionan las cadenas de suministro transfronterizas, con varios señalando que la cercanía geográfica (\"5 horas del gabacho\") y los bajos costos laborales siguen siendo ventajas competitivas que podrían mitigar parcialmente el impacto de los aranceles. También se observa una polarización política que influye en las opiniones sobre los aranceles, con simpatizantes del gobierno defendiendo la respuesta de Sheinbaum y opositores criticándola por no abordar el tema del narcotráfico. Algunos comentarios sugieren alternativas como diversificar mercados hacia China o desarrollar industria nacional, pero predomina el escepticismo sobre la viabilidad de estas opciones a corto plazo para Chihuahua.",
+            "estado_nombre": "Chihuahua"
+        }
+    ],
+    "Ciudad de méxico": [
+        {
+            "sentimiento": {
+                "positivo": 45,
+                "neutro": 30,
+                "negativo": 25
+            },
+            "percepcion": {
+                "descripcion": "La mayoría de los comentaristas perciben los aranceles como un desafío que México puede superar, mostrando escepticismo hacia las predicciones negativas de los 'expertos'. Muchos ven esta situación como una oportunidad para fortalecer el mercado interno y diversificar las relaciones comerciales, aunque reconocen que habrá un impacto inflacionario. Existe una notable desconfianza hacia los medios tradicionales y sus pronósticos económicos, con frecuentes referencias a predicciones pasadas que no se cumplieron."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Oportunidad para fortalecer el consumo de productos nacionales",
+                    "Posibilidad de diversificar relaciones comerciales con otros bloques como BRICS y la UE",
+                    "Chance de reducir la dependencia económica de Estados Unidos",
+                    "Los aranceles afectarán más a los consumidores estadounidenses que a los mexicanos",
+                    "México tiene recursos naturales suficientes para ser autosuficiente"
+                ],
+                "encontra": [
+                    "Aumento de precios en productos básicos de la canasta familiar",
+                    "Mayor inflación para México que para Estados Unidos",
+                    "Escasez potencial de productos importados esenciales",
+                    "Impacto negativo en sectores exportadores mexicanos",
+                    "Afectación a la economía de las familias de clase media y baja"
+                ]
+            },
+            "preocupaciones": [
+                "Aumento en los precios de productos básicos como leche, tortillas, huevo y gasolina",
+                "Escasez potencial de granos y semillas importados",
+                "Impacto inflacionario mayor para México que para Estados Unidos",
+                "Dependencia excesiva de México hacia el mercado estadounidense",
+                "Falta de producción nacional suficiente para cubrir la demanda interna"
+            ],
+            "tendencias": [
+                "Fuerte escepticismo hacia los pronósticos de los 'expertos' y medios tradicionales",
+                "Nacionalismo económico y llamados a consumir productos mexicanos",
+                "Apoyo significativo al gobierno actual frente a las presiones externas",
+                "Crítica a administraciones anteriores por crear dependencia económica de EE.UU.",
+                "Percepción de que los aranceles afectarán más a EE.UU. que a México",
+                "Desconfianza hacia la información presentada por medios como El Universal"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Comercio minorista",
+                    "empresas": [
+                        "Walmart",
+                        "Tiendas de conveniencia"
+                    ]
+                },
+                {
+                    "nombre": "Alimentación y agricultura",
+                    "empresas": [
+                        "Productores de granos",
+                        "Centrales de abasto"
+                    ]
+                },
+                {
+                    "nombre": "Manufactura y automotriz",
+                    "empresas": [
+                        "Ford"
+                    ]
+                },
+                {
+                    "nombre": "Bebidas",
+                    "empresas": [
+                        "Coca-Cola",
+                        "Red Cola"
+                    ]
+                },
+                {
+                    "nombre": "Restaurantes",
+                    "empresas": [
+                        "Burger Boy",
+                        "Sambors"
+                    ]
+                },
+                {
+                    "nombre": "Energético",
+                    "empresas": [
+                        "Gasolineras"
+                    ]
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Credibilidad de los expertos económicos",
+                    "porcentaje": 25.0,
+                    "descripcion": "Cuestionamiento a la fiabilidad de los pronósticos económicos de los llamados 'expertos', con referencias frecuentes a predicciones pasadas que no se cumplieron"
+                },
+                {
+                    "tema": "Impacto económico en México",
+                    "porcentaje": 20.0,
+                    "descripcion": "Discusión sobre cómo los aranceles afectarán la inflación, los precios de productos básicos y la economía mexicana en general"
+                },
+                {
+                    "tema": "Soberanía nacional y relación con EE.UU.",
+                    "porcentaje": 15.0,
+                    "descripcion": "Debate sobre la independencia económica de México frente a Estados Unidos y rechazo a la presión externa"
+                },
+                {
+                    "tema": "Consumo de productos nacionales",
+                    "porcentaje": 15.0,
+                    "descripcion": "Llamados a fortalecer el mercado interno mediante el consumo preferente de productos mexicanos como respuesta a los aranceles"
+                },
+                {
+                    "tema": "Crítica a medios de comunicación",
+                    "porcentaje": 10.0,
+                    "descripcion": "Cuestionamiento a la objetividad y motivaciones de medios como El Universal, acusándolos de amarillismo y parcialidad"
+                },
+                {
+                    "tema": "Apoyo al gobierno actual",
+                    "porcentaje": 10.0,
+                    "descripcion": "Expresiones de confianza en la administración actual para manejar la crisis de los aranceles"
+                },
+                {
+                    "tema": "Diversificación comercial",
+                    "porcentaje": 5.0,
+                    "descripcion": "Propuestas para buscar nuevos socios comerciales como los BRICS o la Unión Europea para reducir la dependencia de EE.UU."
+                }
+            ],
+            "informacion_adicional": "Los comentarios reflejan una polarización política significativa en la Ciudad de México, donde muchos ciudadanos interpretan los aranceles y sus efectos a través de un lente político-ideológico. Existe una tendencia a vincular la credibilidad de la información con la afinidad política hacia el gobierno actual. También se observa un fuerte sentimiento nacionalista que ve esta situación como una oportunidad para fortalecer la economía interna. Hay una percepción generalizada de que México ha enfrentado crisis económicas peores en el pasado y podrá superar esta situación. Muchos comentaristas muestran conocimiento sobre temas económicos complejos como la diversificación comercial, los BRICS y las dinámicas de inflación, lo que sugiere un nivel de sofisticación en el debate público en la capital mexicana. Finalmente, existe una narrativa recurrente que culpa a administraciones anteriores por crear una excesiva dependencia económica de Estados Unidos.",
+            "estado_nombre": "Ciudad de méxico"
+        }
+    ],
+    "Coahuila": [
+        {
+            "sentimiento": {
+                "positivo": 15,
+                "neutro": 20,
+                "negativo": 65
+            },
+            "percepcion": {
+                "descripcion": "Los comentarios reflejan una percepción mayoritariamente negativa de los aranceles propuestos por Trump. Los ciudadanos de Coahuila ven estas medidas como una amenaza directa a la economía local, especialmente para la industria siderúrgica y manufacturera. Existe preocupación por el impacto en empresas emblemáticas como AHMSA y las nuevas inversiones de nearshoring. Aunque algunos justifican los aranceles como respuesta a prácticas comerciales desleales (como el supuesto disfraz de productos chinos como mexicanos), la mayoría los percibe como una medida injusta que afectará negativamente a los trabajadores y la economía regional."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Justificados si México está permitiendo que productos chinos se disfracen como mexicanos para entrar a EE.UU.",
+                    "Podrían forzar a México a tomar medidas más estrictas contra el narcotráfico",
+                    "Representan un proceso justo según algunos partidarios de Trump"
+                ],
+                "encontra": [
+                    "Violan los acuerdos establecidos en el T-MEC",
+                    "Afectarán negativamente a la economía de Coahuila, especialmente a sectores clave como el acero",
+                    "Podrían provocar una recesión económica en México según advierte el Banco Mundial",
+                    "Representan un capricho político más que una medida económica justificada",
+                    "Perjudicarán las inversiones de nearshoring recién llegadas a la región"
+                ]
+            },
+            "preocupaciones": [
+                "Posible recesión económica en México, con el Bajío y estados industriales como Coahuila entre los más afectados",
+                "Impacto en la industria siderúrgica local, particularmente en empresas como AHMSA que ya enfrentan dificultades",
+                "Pérdida de empleos en el sector manufacturero y maquilador",
+                "Retroceso en las inversiones de nearshoring que el gobernador Manolo Jiménez ha atraído a Coahuila",
+                "Incapacidad de los líderes sindicales locales para defender efectivamente a los trabajadores ante esta crisis",
+                "Posible fin del T-MEC y sus beneficios para la región"
+            ],
+            "tendencias": [
+                "Fuerte desconfianza hacia los líderes sindicales locales, especialmente de la CTM y CROC, a quienes se acusa de corrupción",
+                "Polarización política que influye en la percepción de los aranceles y la respuesta del gobierno",
+                "Preocupación por el futuro de las inversiones extranjeras recientes en Coahuila",
+                "Críticas al gobierno federal por su manejo de la situación",
+                "Escepticismo sobre la capacidad de negociación de México frente a EE.UU.",
+                "Vinculación del tema arancelario con problemas de narcotráfico y seguridad"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Industria siderúrgica",
+                    "empresas": [
+                        "AHMSA (Altos Hornos de México)"
+                    ]
+                },
+                {
+                    "nombre": "Manufactura y maquiladoras",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Nearshoring",
+                    "empresas": [
+                        "Fábricas chinas establecidas por el gobernador Manolo Jiménez"
+                    ]
+                },
+                {
+                    "nombre": "Sector automotriz",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Comercio exterior",
+                    "empresas": []
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Críticas a líderes sindicales",
+                    "porcentaje": 25,
+                    "descripcion": "Numerosos comentarios critican a los líderes sindicales de Coahuila, especialmente a Tereso Medina de la CTM, acusándolos de corrupción, enriquecimiento ilícito y de no defender a los trabajadores."
+                },
+                {
+                    "tema": "Impacto económico de los aranceles",
+                    "porcentaje": 20,
+                    "descripcion": "Preocupación por las consecuencias económicas negativas de los aranceles, incluyendo posible recesión, pérdida de empleos y afectación a industrias clave de Coahuila como la siderúrgica."
+                },
+                {
+                    "tema": "Respuesta del gobierno mexicano",
+                    "porcentaje": 20,
+                    "descripcion": "Opiniones divididas sobre la efectividad de la respuesta del gobierno federal ante la amenaza de aranceles, con críticas a la estrategia de negociación."
+                },
+                {
+                    "tema": "Relación con EE.UU. y T-MEC",
+                    "porcentaje": 15,
+                    "descripcion": "Discusión sobre cómo los aranceles violan el T-MEC y podrían deteriorar la relación comercial con EE.UU., principal socio comercial de la región."
+                },
+                {
+                    "tema": "Narcotráfico y seguridad",
+                    "porcentaje": 10,
+                    "descripcion": "Menciones sobre la relación entre los aranceles y las acusaciones de EE.UU. sobre el manejo del narcotráfico en México, con opiniones divididas sobre la validez de estas acusaciones."
+                },
+                {
+                    "tema": "Corrupción",
+                    "porcentaje": 10,
+                    "descripcion": "Referencias a la corrupción tanto en los sindicatos como en el gobierno como factor que debilita la posición negociadora de México frente a EE.UU."
+                }
+            ],
+            "informacion_adicional": "Los comentarios revelan una situación particular en Coahuila, donde la industria siderúrgica, representada históricamente por AHMSA, ha sido un pilar económico que ahora enfrenta dificultades. La mención de que 'ya no existe AHMSA' refleja la crisis de esta empresa emblemática. Simultáneamente, el estado ha apostado por el nearshoring con la atracción de inversiones chinas por parte del gobernador Manolo Jiménez, creando una paradoja: mientras una industria tradicional declina, se intenta impulsar nuevas inversiones que ahora están amenazadas por los aranceles. Existe también un fuerte descontento con el sindicalismo local, particularmente con Tereso Medina de la CTM, a quien se acusa de enriquecimiento a costa de los trabajadores. Esta desconfianza hacia los líderes sindicales sugiere que los trabajadores de Coahuila no sienten que tengan representantes efectivos para defender sus intereses en esta crisis arancelaria, lo que aumenta su vulnerabilidad ante las consecuencias económicas negativas.",
+            "estado_nombre": "Coahuila"
+        }
+    ],
+    "Colima": [
+        {
+            "sentimiento": {
+                "positivo": 15,
+                "neutro": 25,
+                "negativo": 60
+            },
+            "percepcion": {
+                "descripcion": "Los comentarios de Colima reflejan una percepción mayoritariamente negativa de los aranceles propuestos por Trump. Los usuarios los ven como una amenaza directa a la economía mexicana que provocará un aumento de precios y afectará el poder adquisitivo. Existe escepticismo sobre la capacidad del gobierno mexicano para negociar efectivamente, aunque algunos reconocen que los aranceles también afectarán a los consumidores estadounidenses. La percepción general es de preocupación e incertidumbre sobre el impacto económico."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Los aranceles protegen la economía estadounidense",
+                    "Podrían forzar a México a tomar medidas más estrictas contra la migración y el narcotráfico",
+                    "Cada país tiene derecho a proteger sus intereses económicos"
+                ],
+                "encontra": [
+                    "Aumentarán los precios de productos básicos en México",
+                    "Afectarán negativamente a los consumidores estadounidenses",
+                    "Dañarán las cadenas de suministro integradas entre ambos países",
+                    "Representan una violación al T-MEC",
+                    "Son una medida política más que económica",
+                    "Provocarán represalias comerciales de México"
+                ]
+            },
+            "preocupaciones": [
+                "Aumento de precios en productos básicos",
+                "Impacto en la economía mexicana y posible recesión",
+                "Dependencia excesiva de México hacia EE.UU.",
+                "Falta de diversificación comercial",
+                "Debilidad del gobierno mexicano en las negociaciones",
+                "Afectación a industrias clave como automotriz y acero"
+            ],
+            "tendencias": [
+                "Llamados al nacionalismo económico y consumo de productos mexicanos",
+                "Críticas a la respuesta del gobierno mexicano por considerarla débil",
+                "Comparaciones con la respuesta más firme de Canadá",
+                "Polarización política en la interpretación de los aranceles",
+                "Escepticismo sobre las negociaciones y sus resultados",
+                "Propuestas de contramedidas y represalias comerciales"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Comercio minorista",
+                    "empresas": [
+                        "Walmart",
+                        "Sam's Club",
+                        "Home Depot",
+                        "Office Depot"
+                    ]
+                },
+                {
+                    "nombre": "Industria automotriz",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Acero y aluminio",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Sector agrícola",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Industria petrolera",
+                    "empresas": []
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Impacto económico",
+                    "porcentaje": 30,
+                    "descripcion": "Preocupación por el aumento de precios, inflación y afectación general a la economía mexicana debido a los aranceles"
+                },
+                {
+                    "tema": "Respuesta gubernamental",
+                    "porcentaje": 25,
+                    "descripcion": "Discusión sobre la efectividad de la respuesta del gobierno mexicano, críticas y apoyo a las negociaciones con EE.UU."
+                },
+                {
+                    "tema": "Alternativas y contramedidas",
+                    "porcentaje": 20,
+                    "descripcion": "Propuestas para contrarrestar los aranceles, como consumir productos nacionales, imponer aranceles recíprocos o diversificar mercados"
+                },
+                {
+                    "tema": "Soberanía nacional",
+                    "porcentaje": 15,
+                    "descripcion": "Preocupación por la dependencia económica de México hacia EE.UU. y llamados a defender la soberanía económica"
+                },
+                {
+                    "tema": "Relación bilateral México-EE.UU.",
+                    "porcentaje": 10,
+                    "descripcion": "Análisis de la relación entre ambos países, el T-MEC y las implicaciones políticas de los aranceles"
+                }
+            ],
+            "informacion_adicional": "Los comentarios de Colima revelan una fuerte polarización política en la interpretación de los aranceles y la respuesta gubernamental. Los usuarios con tendencias opositoras critican la gestión de Sheinbaum, mientras que los simpatizantes del gobierno defienden su estrategia negociadora. Existe un sentimiento nacionalista emergente que propone reducir la dependencia económica de EE.UU. mediante el consumo local. También se observa que los comentaristas comparan la respuesta mexicana con la canadiense, percibiendo esta última como más firme. La preocupación por el impacto en el poder adquisitivo es notable, especialmente considerando la inflación actual. Aunque los comentarios son de usuarios de Colima, no se mencionan impactos específicos para este estado, lo que sugiere que el debate se centra en la perspectiva nacional más que en las consecuencias locales.",
+            "estado_nombre": "Colima"
+        }
+    ],
+    "Durango": [
+        {
+            "sentimiento": {
+                "positivo": 10,
+                "neutro": 25,
+                "negativo": 65
+            },
+            "percepcion": {
+                "descripcion": "Los ciudadanos de Durango perciben los aranceles propuestos por Trump principalmente como una amenaza económica que provocará aumentos de precios en productos básicos y afectará negativamente al comercio local. Existe una división entre quienes ven los aranceles como una medida política injustificada y quienes los consideran una herramienta de presión necesaria para que el gobierno mexicano aborde problemas como la migración ilegal y el narcotráfico. La incertidumbre sobre los plazos y la implementación de estos aranceles genera preocupación adicional entre comerciantes y consumidores."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Forzará al gobierno mexicano a controlar la migración ilegal",
+                    "Obligará a México a combatir el narcotráfico y tráfico de drogas",
+                    "Presionará para mejorar la seguridad interna en México",
+                    "Servirá como medida para que México deje de romper reglas del tratado de libre comercio"
+                ],
+                "encontra": [
+                    "Afectará negativamente a los consumidores de ambos países con aumento de precios",
+                    "Dañará la economía mexicana y duranguense en particular",
+                    "Es una medida política más que económica y responde a intereses personales",
+                    "Ignora la responsabilidad de EE.UU. en el consumo de drogas y tráfico de armas",
+                    "Perjudicará también a los consumidores estadounidenses"
+                ]
+            },
+            "preocupaciones": [
+                "Aumento de precios en productos básicos para los consumidores",
+                "Impacto negativo en la economía local de Durango",
+                "Inestabilidad en las relaciones comerciales México-EE.UU.",
+                "Uso de aranceles como herramienta política más que económica",
+                "Falta de estrategia clara del gobierno mexicano para responder a las amenazas",
+                "Incertidumbre por los constantes cambios en las decisiones de Trump"
+            ],
+            "tendencias": [
+                "Fuerte polarización entre críticos y defensores de las medidas arancelarias",
+                "Culpabilización al gobierno mexicano por no controlar migración y narcotráfico",
+                "Desconfianza hacia las intenciones reales de Trump y sus constantes cambios de postura",
+                "Llamados a diversificar mercados y reducir dependencia económica de EE.UU.",
+                "Percepción de que los empresarios trasladarán los costos arancelarios a los consumidores",
+                "Críticas personales a Trump más que análisis de las implicaciones económicas"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Comercio minorista",
+                    "empresas": [
+                        "Canaco"
+                    ]
+                },
+                {
+                    "nombre": "Industria automotriz",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Manufactura de acero y aluminio",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Agricultura",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Exportación general de productos duranguenses",
+                    "empresas": [
+                        "Coparmex"
+                    ]
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Críticas a Donald Trump",
+                    "porcentaje": 30,
+                    "descripcion": "Comentarios negativos sobre la personalidad, decisiones y motivaciones de Trump, calificándolo frecuentemente de 'loco', 'bipolar' o que actúa por intereses personales."
+                },
+                {
+                    "tema": "Críticas al gobierno mexicano",
+                    "porcentaje": 25,
+                    "descripcion": "Opiniones que responsabilizan al gobierno de México por no controlar la migración ilegal y el narcotráfico, señalando que esto ha provocado las amenazas de aranceles."
+                },
+                {
+                    "tema": "Impacto económico de los aranceles",
+                    "porcentaje": 20,
+                    "descripcion": "Análisis sobre cómo los aranceles afectarían los precios, el comercio y la economía tanto de Durango como de México en general."
+                },
+                {
+                    "tema": "Migración y narcotráfico",
+                    "porcentaje": 15,
+                    "descripcion": "Discusiones sobre la relación entre los aranceles propuestos y los problemas de migración ilegal y tráfico de drogas entre México y EE.UU."
+                },
+                {
+                    "tema": "Relaciones comerciales México-EE.UU.",
+                    "porcentaje": 10,
+                    "descripcion": "Comentarios sobre la dependencia económica de México hacia EE.UU. y propuestas para diversificar mercados comerciales."
+                }
+            ],
+            "informacion_adicional": "Los comentarios de Durango reflejan una preocupación particular por el impacto en la economía local, con menciones específicas a la Canaco (Cámara Nacional de Comercio) de Durango advirtiendo sobre aumentos de precios. Se observa que la discusión está fuertemente influenciada por la cobertura mediática de 'El Siglo de Durango', medio que parece ser la principal fuente de información sobre el tema para los comentaristas. Existe una notable desconfianza hacia los empresarios locales, con acusaciones de que usarán los aranceles como excusa para subir precios injustificadamente. También se percibe frustración por los constantes cambios en las decisiones de Trump sobre los aranceles, generando un ambiente de incertidumbre económica que afecta la planificación de negocios y consumidores en Durango.",
+            "estado_nombre": "Durango"
+        }
+    ],
+    "Estado de México": [
+        {
+            "sentimiento": {
+                "positivo": 15,
+                "neutro": 20,
+                "negativo": 65
+            },
+            "percepcion": {
+                "descripcion": "Los comentarios reflejan una percepción predominantemente negativa sobre los aranceles propuestos por Trump. La mayoría considera que estos tendrán un impacto económico adverso en el Estado de México, afectando principalmente a los consumidores finales, trabajadores y el PIB estatal. Existe escepticismo sobre la capacidad del gobierno mexicano para manejar la situación, aunque algunos ven la pausa temporal de los aranceles como un logro diplomático. Hay una percepción generalizada de que los aranceles son una medida política más que económica."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Oportunidad para diversificar mercados más allá de Estados Unidos",
+                    "Posibilidad de implementar aranceles recíprocos para equilibrar la relación comercial",
+                    "Impulso al consumo de productos nacionales",
+                    "Los consumidores estadounidenses también se verían afectados por precios más altos"
+                ],
+                "encontra": [
+                    "Afectación directa al PIB del Estado de México",
+                    "Pérdida de empleos en sectores exportadores clave como el automotriz",
+                    "Aumento de precios en productos básicos para consumidores mexicanos",
+                    "Daño a sectores específicos como el floricultor y automotriz",
+                    "Los aranceles generan incertidumbre económica y costos adicionales",
+                    "El consumidor final termina absorbiendo los costos adicionales"
+                ]
+            },
+            "preocupaciones": [
+                "Impacto en el PIB del Estado de México por su dependencia de exportaciones a EE.UU.",
+                "Aumento de precios en vehículos y otros productos de consumo",
+                "Posible pérdida de empleos en sectores manufactureros",
+                "Incapacidad del gobierno para responder efectivamente a la crisis",
+                "Afectación a la industria automotriz establecida en el estado",
+                "Vulnerabilidad del sector floricultor ante posibles aranceles",
+                "Efectos inflacionarios en la canasta básica"
+            ],
+            "tendencias": [
+                "Polarización política en las respuestas a la crisis de aranceles",
+                "Escepticismo sobre la efectividad de las medidas gubernamentales",
+                "Críticas a la estrategia de seguridad del gobierno mexicano como causa de los aranceles",
+                "Percepción de que el consumidor final será quien absorba los costos",
+                "Llamados a diversificar mercados y reducir dependencia de EE.UU.",
+                "Reconocimiento de la interdependencia económica entre México y EE.UU."
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Automotriz",
+                    "empresas": [
+                        "Stellantis (antes Chrysler)"
+                    ]
+                },
+                {
+                    "nombre": "Floricultura",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Comercio minorista/consumo",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Exportación general",
+                    "empresas": []
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Negociación política",
+                    "porcentaje": 30,
+                    "descripcion": "Discusiones sobre la pausa temporal de aranceles, la llamada entre Sheinbaum y Trump, y las estrategias diplomáticas del gobierno mexicano."
+                },
+                {
+                    "tema": "Impacto económico",
+                    "porcentaje": 25,
+                    "descripcion": "Análisis sobre cómo los aranceles afectarían al PIB del Estado de México, los empleos y los precios de productos."
+                },
+                {
+                    "tema": "Crítica al gobierno",
+                    "porcentaje": 20,
+                    "descripcion": "Cuestionamientos a la estrategia gubernamental frente a los aranceles y críticas a políticas de seguridad."
+                },
+                {
+                    "tema": "Sectores específicos afectados",
+                    "porcentaje": 15,
+                    "descripcion": "Menciones sobre impactos en industrias particulares como la automotriz y floricultura en el Estado de México."
+                },
+                {
+                    "tema": "Propuestas de solución",
+                    "porcentaje": 10,
+                    "descripcion": "Sugerencias como diversificación de mercados, reciprocidad arancelaria y consumo de productos nacionales."
+                }
+            ],
+            "informacion_adicional": "Los comentarios revelan una preocupación particular por el Estado de México debido a su importancia económica y su dependencia de las exportaciones a EE.UU. La presencia de la industria automotriz (Stellantis) es vista como especialmente vulnerable. Existe una conexión percibida entre las políticas de seguridad del gobierno mexicano (particularmente respecto al narcotráfico) y la imposición de aranceles. La pausa temporal de un mes en los aranceles tras la llamada Sheinbaum-Trump es vista con escepticismo por muchos, considerándola solo un aplazamiento del problema. Hay una notable división política en las reacciones, con simpatizantes del gobierno defendiendo la gestión de la crisis y opositores criticándola duramente. Los comentarios también reflejan un conocimiento básico de economía internacional entre los ciudadanos del Estado de México, quienes comprenden que los aranceles afectarían a ambos países, aunque con mayor impacto en México.",
+            "estado_nombre": "Estado de México"
+        }
+    ],
+    "Guanajuato": [
+        {
+            "sentimiento": {
+                "positivo": 15,
+                "neutro": 25,
+                "negativo": 60
+            },
+            "percepcion": {
+                "descripcion": "Los comentarios reflejan que la mayoría de los ciudadanos de Guanajuato perciben los aranceles de Trump como una amenaza directa a la economía local, especialmente al sector automotriz que es fundamental para el estado. Existe un escepticismo generalizado sobre las afirmaciones de que empresas como GM realmente trasladarían sus operaciones a EE.UU., argumentando que la diferencia salarial entre ambos países hace poco probable un traslado completo. Sin embargo, hay preocupación por la posible reducción de inversiones y el impacto en el empleo local. Una minoría ve los aranceles como una oportunidad para mejorar las condiciones laborales o diversificar mercados de exportación."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Obligarían a las empresas a pagar mejores salarios a los trabajadores mexicanos",
+                    "Podrían incentivar la llegada de nuevas empresas con mejores condiciones laborales",
+                    "Impulsarían la diversificación de mercados de exportación hacia otros países",
+                    "Reducirían la dependencia económica de Estados Unidos",
+                    "Forzarían al gobierno mexicano a implementar mejores políticas migratorias y de seguridad"
+                ],
+                "encontra": [
+                    "Causarían pérdida de empleos por posibles cierres o reducciones de operaciones",
+                    "Reducirían las inversiones extranjeras en Guanajuato",
+                    "Afectarían negativamente la economía local y estatal",
+                    "Impactarían a las cadenas de suministro y proveedores locales",
+                    "Generarían incertidumbre económica y volatilidad en el tipo de cambio"
+                ]
+            },
+            "preocupaciones": [
+                "Posible cierre o reducción de operaciones de la planta de GM en Silao",
+                "Pérdida masiva de empleos en el sector automotriz",
+                "Disminución de inversiones extranjeras en el estado",
+                "Impacto negativo en la economía local y en las familias dependientes de estas industrias",
+                "Incertidumbre sobre el futuro económico del estado",
+                "Dificultad para encontrar mercados alternativos para exportaciones"
+            ],
+            "tendencias": [
+                "Escepticismo sobre la posibilidad real de que empresas como GM trasladen completamente sus operaciones a EE.UU.",
+                "Crítica generalizada a los bajos salarios que pagan las empresas extranjeras en México",
+                "Percepción de que el gobierno mexicano está cediendo ante las presiones de Trump",
+                "Interés en diversificar mercados de exportación hacia países como Japón o Europa",
+                "Polarización política en las reacciones a las negociaciones del gobierno mexicano",
+                "Preocupación por la dependencia económica de Guanajuato en la industria automotriz"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Industria automotriz",
+                    "empresas": [
+                        "General Motors (GM)",
+                        "Honda",
+                        "Toyota",
+                        "CLAUGTO (Clúster Automotriz de Guanajuato)"
+                    ]
+                },
+                {
+                    "nombre": "Industria de bebidas alcohólicas",
+                    "empresas": [
+                        "Productores de mezcal de San Felipe"
+                    ]
+                },
+                {
+                    "nombre": "Industria textil",
+                    "empresas": []
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Posible traslado de operaciones de GM a EE.UU.",
+                    "porcentaje": 30,
+                    "descripcion": "Discusión sobre el anuncio de GM de trasladar parte de sus operaciones a EE.UU. si se implementan los aranceles, con opiniones divididas sobre si esto es una amenaza real o una estrategia de negociación."
+                },
+                {
+                    "tema": "Comparación de salarios entre México y EE.UU.",
+                    "porcentaje": 25,
+                    "descripcion": "Análisis de la diferencia salarial entre ambos países, con muchos comentarios señalando que las empresas no se irían de México debido al bajo costo de la mano de obra, a pesar de los aranceles."
+                },
+                {
+                    "tema": "Impacto económico en Guanajuato",
+                    "porcentaje": 20,
+                    "descripcion": "Preocupación por las consecuencias económicas negativas para el estado, incluyendo pérdida de empleos, reducción de inversiones y afectación a la economía local."
+                },
+                {
+                    "tema": "Diversificación de mercados",
+                    "porcentaje": 10,
+                    "descripcion": "Discusión sobre la necesidad de buscar mercados alternativos para las exportaciones, como el caso de los productores de mezcal que buscan exportar a Japón."
+                },
+                {
+                    "tema": "Negociaciones del gobierno mexicano con EE.UU.",
+                    "porcentaje": 10,
+                    "descripcion": "Comentarios sobre las gestiones del gobierno federal para evitar o posponer la implementación de los aranceles, con críticas y apoyos divididos según la afiliación política."
+                },
+                {
+                    "tema": "Otros temas",
+                    "porcentaje": 5,
+                    "descripcion": "Temas diversos como seguridad, narcotráfico y política interna mexicana relacionados indirectamente con la cuestión arancelaria."
+                }
+            ],
+            "informacion_adicional": "Los comentarios revelan una compleja relación económica entre Guanajuato y Estados Unidos, con una fuerte dependencia del estado en la industria automotriz extranjera. Existe un sentimiento ambivalente: por un lado, hay preocupación por los empleos que generan estas empresas; por otro, hay críticas a los bajos salarios que pagan. La amenaza de aranceles ha expuesto vulnerabilidades estructurales de la economía local y la necesidad de diversificación. También se observa que las reacciones están influenciadas por posturas políticas, con críticas al gobierno federal actual o a administraciones anteriores según la afiliación del comentarista. Los comentarios sugieren que, independientemente del resultado inmediato de las negociaciones sobre aranceles, Guanajuato enfrenta desafíos importantes para su desarrollo económico futuro, incluyendo la necesidad de atraer inversiones que generen empleos mejor remunerados y reducir la dependencia de un solo mercado de exportación.",
+            "estado_nombre": "Guanajuato"
+        }
+    ],
+    "Guerrero": [
+        {
+            "sentimiento": {
+                "positivo": 15,
+                "neutro": 20,
+                "negativo": 65
+            },
+            "percepcion": {
+                "descripcion": "Los aranceles propuestos por Trump son percibidos mayoritariamente como una medida de presión política hacia México, particularmente relacionada con temas de seguridad y narcotráfico. En Guerrero, existe una percepción dual: por un lado, se ven como una amenaza económica que afectará negativamente a productores locales y encarecerá productos; por otro lado, algunos los consideran una oportunidad para fortalecer el mercado interno y reducir la dependencia comercial con EE.UU. También hay quienes los interpretan como un mecanismo indirecto para forzar al gobierno mexicano a combatir el crimen organizado en estados como Guerrero."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Podrían forzar al gobierno mexicano a tomar acciones contra el narcotráfico y la inseguridad",
+                    "Representan una oportunidad para fortalecer el mercado interno y consumir productos mexicanos",
+                    "Permitirían diversificar relaciones comerciales con otros países como China, Rusia, India y Brasil",
+                    "Reducirían la dependencia económica de México hacia Estados Unidos"
+                ],
+                "encontra": [
+                    "Afectarían negativamente la economía local de Guerrero y otros estados",
+                    "Encarecerían productos y reducirían el poder adquisitivo de los mexicanos",
+                    "Representan una violación al T-MEC y a la soberanía nacional",
+                    "Son una forma de injerencia extranjera en asuntos internos de México",
+                    "Podrían provocar una guerra comercial perjudicial para ambos países"
+                ]
+            },
+            "preocupaciones": [
+                "Incremento en precios de productos básicos para la población de Guerrero",
+                "Pérdida de mercados para productos agrícolas del estado (café, plátano, aguacate)",
+                "Aumento de la inseguridad y control territorial por grupos criminales como Los Ardillos",
+                "Posible militarización de la frontera y presencia de fuerzas extranjeras en territorio mexicano",
+                "Corrupción e inacción del gobierno estatal frente a problemas de seguridad",
+                "Impacto en el sector de transporte público ya afectado por la delincuencia organizada"
+            ],
+            "tendencias": [
+                "Polarización entre quienes apoyan al gobierno federal y quienes critican su manejo de la situación",
+                "Vinculación directa entre los aranceles y la problemática de seguridad en Guerrero",
+                "Creciente nacionalismo económico y llamados a consumir productos mexicanos",
+                "Críticas recurrentes a la gobernadora Evelyn Salgado y su padre Félix Salgado",
+                "Percepción de que el gobierno federal utiliza los aranceles como cortina de humo ante problemas de seguridad",
+                "Escepticismo sobre la capacidad del gobierno para negociar efectivamente con EE.UU."
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Agricultura",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Transporte público",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Comercio minorista",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Industria manufacturera",
+                    "empresas": []
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Seguridad y narcotráfico",
+                    "porcentaje": 35.0,
+                    "descripcion": "Discusiones sobre la relación entre los aranceles y la presión para combatir el narcotráfico en Guerrero, particularmente grupos como Los Ardillos"
+                },
+                {
+                    "tema": "Soberanía nacional vs. presión extranjera",
+                    "porcentaje": 25.0,
+                    "descripcion": "Debate sobre la defensa de la soberanía mexicana frente a las presiones económicas y políticas de Estados Unidos"
+                },
+                {
+                    "tema": "Impacto económico de los aranceles",
+                    "porcentaje": 20.0,
+                    "descripcion": "Análisis sobre cómo los aranceles afectarían a la economía local de Guerrero, especialmente sectores como agricultura y transporte"
+                },
+                {
+                    "tema": "Críticas al gobierno federal y estatal",
+                    "porcentaje": 15.0,
+                    "descripcion": "Cuestionamientos a la gestión de la presidenta Sheinbaum y la gobernadora Evelyn Salgado frente a la crisis"
+                },
+                {
+                    "tema": "Alternativas comerciales",
+                    "porcentaje": 5.0,
+                    "descripcion": "Propuestas para diversificar relaciones comerciales con otros países y fortalecer el mercado interno"
+                }
+            ],
+            "informacion_adicional": "Los comentarios reflejan una situación particular en Guerrero donde la problemática de seguridad se entrelaza con el impacto potencial de los aranceles. La presencia del grupo criminal Los Ardillos, que controla territorios en Chilpancingo, Mochitlán y Quechultenango, representa un factor adicional de preocupación, ya que afecta directamente al sector de transporte público. Existe una percepción generalizada de que la gobernadora Evelyn Salgado y su padre Félix Salgado no están abordando adecuadamente estos problemas. La noticia sobre el aplazamiento de los aranceles tras una llamada entre Trump y Sheinbaum generó reacciones mixtas, y la mención de un buque de guerra estadounidense enviado para apoyar la seguridad fronteriza alimenta temores sobre una posible militarización. Los comentarios también sugieren que los ciudadanos de Guerrero están considerando alternativas económicas, como el fortalecimiento del mercado interno y la diversificación de socios comerciales, ante la incertidumbre generada por los aranceles.",
+            "estado_nombre": "Guerrero"
+        }
+    ],
+    "Morelos": [
+        {
+            "sentimiento": {
+                "positivo": 15,
+                "neutro": 20,
+                "negativo": 65
+            },
+            "percepcion": {
+                "descripcion": "Los ciudadanos de Morelos perciben los aranceles propuestos por Trump principalmente como una amenaza directa a la economía local, especialmente para la industria automotriz que es clave en el estado. Existe un fuerte escepticismo sobre la capacidad del gobierno federal para responder efectivamente, aunque algunos ven la situación como una oportunidad para diversificar la economía y reducir la dependencia de Estados Unidos. La mayoría considera que los aranceles tendrán un impacto negativo inmediato en el empleo, particularmente en las plantas de Nissan en Morelos."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Podría forzar a México a desarrollar mayor autosuficiencia económica",
+                    "Representa una oportunidad para diversificar mercados y buscar nuevos socios comerciales",
+                    "Podría impulsar el desarrollo de la industria nacional y marcas mexicanas",
+                    "Permitiría atraer inversiones de otros países como China"
+                ],
+                "encontra": [
+                    "Causará pérdida masiva de empleos, especialmente en la planta de Nissan en Morelos",
+                    "Provocará una recesión económica en México según proyecciones de agencias calificadoras",
+                    "Afectará negativamente la inversión extranjera en el estado",
+                    "Aumentará los precios de productos para consumidores tanto mexicanos como estadounidenses",
+                    "Viola los acuerdos establecidos en el T-MEC"
+                ]
+            },
+            "preocupaciones": [
+                "Pérdida de 180,000 empleos en las plantas de Nissan en Morelos y Aguascalientes",
+                "Posible cierre o reubicación de plantas automotrices a Estados Unidos",
+                "Recesión económica en México proyectada por Fitch Ratings",
+                "Falta de un plan concreto y efectivo del gobierno federal para contrarrestar los aranceles",
+                "Impacto en cadenas de suministro locales que dependen de la industria automotriz",
+                "Violación de los acuerdos comerciales establecidos en el T-MEC"
+            ],
+            "tendencias": [
+                "Creciente nacionalismo económico y llamados a boicotear productos estadounidenses",
+                "Escepticismo generalizado sobre la efectividad de la respuesta gubernamental",
+                "Polarización política en las reacciones a los aranceles y medidas del gobierno",
+                "Interés en atraer inversiones de países asiáticos, particularmente China",
+                "Cuestionamiento sobre la viabilidad del T-MEC ante las acciones unilaterales de EE.UU.",
+                "Percepción de que las medidas de Trump tienen motivaciones políticas más que económicas"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Industria automotriz",
+                    "empresas": [
+                        "Nissan",
+                        "Honda",
+                        "Ford",
+                        "GM",
+                        "Chrysler"
+                    ]
+                },
+                {
+                    "nombre": "Metalurgia",
+                    "empresas": [
+                        "Productores de acero y aluminio"
+                    ]
+                },
+                {
+                    "nombre": "Manufactura de autopartes",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Comercio minorista",
+                    "empresas": []
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Impacto en empleos",
+                    "porcentaje": 30.0,
+                    "descripcion": "Preocupación por la pérdida de puestos de trabajo, especialmente en la planta de Nissan en Morelos y otras empresas automotrices"
+                },
+                {
+                    "tema": "Respuesta del gobierno mexicano",
+                    "porcentaje": 25.0,
+                    "descripcion": "Opiniones divididas sobre las medidas anunciadas por Sheinbaum, con críticas a la demora en la implementación de acciones concretas"
+                },
+                {
+                    "tema": "Alternativas económicas",
+                    "porcentaje": 15.0,
+                    "descripcion": "Sugerencias para diversificar mercados, atraer inversiones de otros países y desarrollar industrias nacionales"
+                },
+                {
+                    "tema": "Críticas a Trump",
+                    "porcentaje": 15.0,
+                    "descripcion": "Comentarios negativos sobre las políticas proteccionistas de Trump y sus motivaciones políticas"
+                },
+                {
+                    "tema": "Nacionalismo económico",
+                    "porcentaje": 10.0,
+                    "descripcion": "Llamados a apoyar productos nacionales y boicotear empresas estadounidenses que abandonen México"
+                },
+                {
+                    "tema": "Migración",
+                    "porcentaje": 5.0,
+                    "descripcion": "Comentarios sobre la relación entre los aranceles y las políticas migratorias, incluyendo amenazas de permitir mayor migración hacia EE.UU."
+                }
+            ],
+            "informacion_adicional": "Los comentarios reflejan una preocupación particular en Morelos debido a la importancia económica de la planta de Nissan en el estado. Existe un conocimiento generalizado sobre la vulnerabilidad específica de la economía local ante los aranceles. También se observa una tendencia a ver la situación como una oportunidad para que México desarrolle relaciones comerciales con China, mencionando específicamente a BYD como posible inversor. Hay un fuerte cuestionamiento sobre la viabilidad del T-MEC, con muchos comentarios sugiriendo que el tratado ya no tiene sentido si EE.UU. puede imponer aranceles unilateralmente. La respuesta de Sheinbaum de esperar hasta el 2 de abril para tomar medidas ha generado críticas por la percepción de pasividad, mientras que algunos apoyan esta estrategia como prudente. Los comentarios también revelan una división política clara, con partidarios del gobierno defendiendo su enfoque y opositores criticando la falta de acción inmediata.",
+            "estado_nombre": "Morelos"
+        }
+    ],
+    "Nayarit": [
+        {
+            "sentimiento": {
+                "positivo": 15,
+                "neutro": 50,
+                "negativo": 35
+            },
+            "percepcion": {
+                "descripcion": "Los ciudadanos de Nayarit perciben los aranceles principalmente como una medida punitiva impuesta por Estados Unidos que afectará negativamente a los consumidores mexicanos a través del aumento de precios. Existe una mezcla de preocupación económica y desconocimiento sobre el tema, con muchos usuarios solicitando explicaciones sobre qué son exactamente los aranceles. Algunos los ven como una forma de 'extorsión' o 'derecho de piso' impuesto por EE.UU., mientras que otros los entienden como impuestos al comercio internacional. La mayoría anticipa un impacto directo en su economía familiar."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Pueden servir como herramienta de presión política internacional",
+                    "Son un mecanismo normal de regulación del comercio internacional",
+                    "Podrían incentivar el consumo de productos locales mexicanos"
+                ],
+                "encontra": [
+                    "Aumentarán los precios de productos básicos para los consumidores",
+                    "Perjudican a trabajadores y empresarios de ambos lados de la frontera",
+                    "Representan una forma de extorsión o presión injusta de EE.UU. hacia México",
+                    "Afectan la economía familiar de los mexicanos",
+                    "Podrían dañar el Tratado de Libre Comercio entre ambos países"
+                ]
+            },
+            "preocupaciones": [
+                "Aumento en el precio de productos básicos como aguacates, jitomates y otros alimentos",
+                "Impacto en la economía familiar de los consumidores",
+                "Posible ruptura o deterioro del Tratado de Libre Comercio",
+                "Presión política de EE.UU. para que México ceda a sus exigencias",
+                "Falta de información y entendimiento sobre el tema entre la población",
+                "Dependencia económica excesiva de México hacia Estados Unidos"
+            ],
+            "tendencias": [
+                "Alto nivel de desconocimiento sobre qué son exactamente los aranceles",
+                "Uso de humor y sarcasmo para abordar un tema económico complejo",
+                "Polarización política en la interpretación de las medidas arancelarias",
+                "Apoyo a la presidenta Claudia Sheinbaum desde Nayarit",
+                "Llamados a consumir productos locales como respuesta a los aranceles",
+                "Preocupación por el impacto en productos agrícolas específicos"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Agricultura y alimentos",
+                    "empresas": [
+                        "Maseca"
+                    ]
+                },
+                {
+                    "nombre": "Productos de consumo",
+                    "empresas": [
+                        "Doritos",
+                        "Gancitos"
+                    ]
+                },
+                {
+                    "nombre": "Comercio minorista",
+                    "empresas": [
+                        "Sams",
+                        "Costco"
+                    ]
+                },
+                {
+                    "nombre": "Exportaciones mexicanas",
+                    "empresas": []
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Definición de aranceles",
+                    "porcentaje": 30,
+                    "descripcion": "Muchos comentarios buscan entender o explicar qué son los aranceles, mostrando un desconocimiento general sobre el tema económico"
+                },
+                {
+                    "tema": "Impacto económico en precios",
+                    "porcentaje": 25,
+                    "descripcion": "Preocupación por el aumento de precios en productos básicos, especialmente alimentos como aguacates y jitomates"
+                },
+                {
+                    "tema": "Respuesta política del gobierno mexicano",
+                    "porcentaje": 15,
+                    "descripcion": "Comentarios sobre el apoyo a la presidenta Sheinbaum y la convocatoria a manifestarse en el Zócalo"
+                },
+                {
+                    "tema": "Críticas a Donald Trump",
+                    "porcentaje": 10,
+                    "descripcion": "Expresiones negativas hacia las políticas de Trump y su decisión de imponer aranceles"
+                },
+                {
+                    "tema": "Soberanía nacional",
+                    "porcentaje": 10,
+                    "descripcion": "Comentarios que enfatizan la importancia de defender la dignidad y autonomía de México"
+                },
+                {
+                    "tema": "Confusión y desinformación",
+                    "porcentaje": 10,
+                    "descripcion": "Comentarios que reflejan confusión o información incorrecta sobre los aranceles y sus efectos"
+                }
+            ],
+            "informacion_adicional": "Los comentarios de Nayarit reflejan una mezcla de preocupación económica y patriotismo. Es notable que el gobernador Miguel Ángel Navarro Quintero se pronunció públicamente apoyando a la presidenta Sheinbaum, lo que sugiere una alineación política del estado con el gobierno federal en este tema. Existe una sugerencia recurrente de consumir productos locales como estrategia para mitigar el impacto de los aranceles, lo que podría beneficiar a productores de Nayarit. También se observa que muchos ciudadanos no comprenden completamente el mecanismo de los aranceles, lo que indica una oportunidad para programas educativos sobre economía internacional. La mención de productos específicos de Nayarit, como camarones a la diabla con chile huichol, sugiere un orgullo por los productos locales que podría ser aprovechado en estrategias económicas regionales frente a los aranceles.",
+            "estado_nombre": "Nayarit"
+        }
+    ],
+    "Nuevo leon": [
+        {
+            "sentimiento": {
+                "positivo": 35,
+                "neutro": 25,
+                "negativo": 40
+            },
+            "percepcion": {
+                "descripcion": "Los comentarios reflejan una percepción mixta sobre los aranceles propuestos por Trump. La mayoría ve los aranceles como una amenaza significativa para la economía de Nuevo León debido a su alta dependencia de las exportaciones a Estados Unidos. Existe un reconocimiento generalizado de que estos aranceles podrían afectar negativamente a las empresas exportadoras del estado, aunque también hay quienes ven esta situación como una oportunidad para diversificar la economía y fortalecer el mercado interno. Muchos ciudadanos valoran positivamente la preparación y explicación del gobernador Samuel García sobre estrategias para mitigar el impacto, mientras otros cuestionan la efectividad de sus propuestas."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Podrían forzar a México a diversificar su economía y depender menos de EE.UU.",
+                    "Servirían como incentivo para fortalecer el mercado interno mexicano",
+                    "Obligarían al gobierno a reducir impuestos para compensar a las empresas afectadas",
+                    "Podrían impulsar la producción nacional para sustituir importaciones"
+                ],
+                "encontra": [
+                    "Perjudicarían gravemente a las exportaciones de Nuevo León hacia EE.UU.",
+                    "Afectarían negativamente la economía del estado que depende en gran medida del comercio exterior",
+                    "Encarecerían los productos mexicanos en EE.UU. haciéndolos menos competitivos",
+                    "Podrían provocar pérdida de empleos en el sector exportador",
+                    "Violarían los acuerdos comerciales existentes como el T-MEC"
+                ]
+            },
+            "preocupaciones": [
+                "Impacto económico negativo en las empresas exportadoras de Nuevo León",
+                "Posible pérdida de competitividad de productos mexicanos en el mercado estadounidense",
+                "Contaminación ambiental persistente en el estado a pesar de la atención a temas económicos",
+                "Falta de una estrategia nacional coordinada frente a los aranceles",
+                "Insuficiente reducción de impuestos para compensar el impacto de los aranceles",
+                "Situación de los migrantes en Nuevo León y su impacto en la economía local",
+                "Dependencia excesiva de la economía de Nuevo León respecto a Estados Unidos"
+            ],
+            "tendencias": [
+                "Apoyo significativo a la postura proactiva del gobernador Samuel García frente a los aranceles",
+                "Crítica a la falta de acción del gobierno federal en comparación con el estatal",
+                "Preocupación dual por la economía y problemas ambientales en Nuevo León",
+                "Percepción de que Trump busca principalmente repatriar empresas estadounidenses",
+                "Llamados a la diversificación económica y fortalecimiento del mercado interno",
+                "Demanda ciudadana por reducción de impuestos como estrategia compensatoria",
+                "Contraste entre quienes apoyan y critican la gestión del gobernador independientemente del tema arancelario"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Industria manufacturera y exportadora",
+                    "empresas": [
+                        "Tesla"
+                    ]
+                },
+                {
+                    "nombre": "Sector automotriz",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Transporte y logística",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Comercio internacional",
+                    "empresas": []
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Impacto económico de aranceles",
+                    "porcentaje": 30.0,
+                    "descripcion": "Discusiones sobre cómo los aranceles afectarían la economía de Nuevo León, con énfasis en el porcentaje de beneficio (70%) mencionado por el gobernador si no se implementan aranceles."
+                },
+                {
+                    "tema": "Gestión del gobernador Samuel García",
+                    "porcentaje": 25.0,
+                    "descripcion": "Comentarios evaluando la capacidad, preparación y acciones del gobernador frente a la amenaza de aranceles, incluyendo tanto elogios por su explicación técnica como críticas a su gestión general."
+                },
+                {
+                    "tema": "Contaminación ambiental",
+                    "porcentaje": 15.0,
+                    "descripcion": "Preocupaciones sobre la calidad del aire y problemas ambientales en Nuevo León que persisten mientras la atención se centra en temas económicos."
+                },
+                {
+                    "tema": "Relación México-EE.UU.",
+                    "porcentaje": 10.0,
+                    "descripcion": "Análisis sobre las motivaciones de Trump, la estrategia de EE.UU. para repatriar empresas y la respuesta que debería dar México."
+                },
+                {
+                    "tema": "Migración",
+                    "porcentaje": 10.0,
+                    "descripcion": "Comentarios sobre la situación de migrantes en Nuevo León y cómo esto se relaciona con la economía y las tensiones con EE.UU."
+                },
+                {
+                    "tema": "Reducción de impuestos como estrategia",
+                    "porcentaje": 5.0,
+                    "descripcion": "Propuestas para reducir impuestos (ISR, IVA, IEPS) como medida para contrarrestar el impacto de los aranceles en las empresas locales."
+                },
+                {
+                    "tema": "Otros temas",
+                    "porcentaje": 5.0,
+                    "descripcion": "Temas diversos como transporte público, infraestructura y comentarios personales no relacionados directamente con los aranceles."
+                }
+            ],
+            "informacion_adicional": "Los comentarios revelan una dinámica particular de Nuevo León como estado fronterizo con alta dependencia económica de EE.UU. El gobernador Samuel García parece haber tomado un papel proactivo en la explicación y preparación frente a los aranceles, lo que genera tanto apoyo como escepticismo entre los ciudadanos. Existe una tensión entre la atención a temas económicos y problemas ambientales persistentes en el estado. También se observa cierta rivalidad entre la gestión estatal y federal, con comparaciones entre el gobernador y la presidenta. Algunos comentarios sugieren que Trump podría retractarse de los aranceles, lo que indica incertidumbre sobre si realmente se implementarán. La propuesta de reducir temporalmente impuestos durante el mandato de Trump (2025-2029) refleja un enfoque pragmático que está ganando apoyo. Finalmente, hay una percepción de que Nuevo León, por su posición geográfica y económica, podría tener mayor capacidad de adaptación frente a los aranceles que otros estados mexicanos.",
+            "estado_nombre": "Nuevo leon"
+        }
+    ],
+    "Oaxaca": [
+        {
+            "sentimiento": {
+                "positivo": 7,
+                "neutro": 23,
+                "negativo": 70
+            },
+            "percepcion": {
+                "descripcion": "Los comentarios de Oaxaca reflejan una percepción predominantemente negativa de los aranceles propuestos por Trump. La mayoría los ve como una medida injusta y una forma de presión política contra México, especialmente en temas de narcotráfico y migración. Existe confusión sobre el impacto real que tendrán en la economía local, con algunos usuarios solicitando explicaciones sobre cómo afectarán a los mexicanos. Algunos comentaristas señalan que los aranceles también perjudicarán a los consumidores estadounidenses."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Los aranceles presionan a México para combatir el narcotráfico y extraditar líderes de cárteles",
+                    "Podrían forzar al gobierno mexicano a tomar medidas más efectivas contra la migración irregular",
+                    "Representan una forma de hacer que México cumpla con acuerdos bilaterales"
+                ],
+                "encontra": [
+                    "Afectarán negativamente la economía mexicana y particularmente a estados como Oaxaca",
+                    "Representan una intromisión en la soberanía nacional de México",
+                    "Los consumidores estadounidenses terminarán pagando precios más altos",
+                    "Es una medida unilateral que daña las relaciones comerciales establecidas",
+                    "Refleja una política exterior agresiva y no diplomática"
+                ]
+            },
+            "preocupaciones": [
+                "Impacto económico negativo para México y particularmente para estados como Oaxaca",
+                "Pérdida de soberanía nacional ante las presiones de Estados Unidos",
+                "Extradición de criminales como resultado de presión externa y no por decisión soberana",
+                "Falta de información clara sobre cómo afectarán los aranceles a los ciudadanos comunes",
+                "Debilidad percibida del gobierno mexicano ante las exigencias de Trump",
+                "Posible escalada de tensiones diplomáticas entre México y Estados Unidos"
+            ],
+            "tendencias": [
+                "Fuerte rechazo a la figura de Donald Trump y sus políticas hacia México",
+                "Críticas al gobierno mexicano por ceder ante presiones externas",
+                "Nacionalismo defensivo frente a lo que se percibe como agresión estadounidense",
+                "Escepticismo sobre la efectividad de los aranceles para resolver problemas como el narcotráfico",
+                "Confusión sobre el funcionamiento e impacto real de los aranceles",
+                "Preocupación por la dependencia económica de México respecto a Estados Unidos"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Comercio internacional",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Industria automotriz",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Exportaciones agrícolas",
+                    "empresas": []
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Narcotráfico y extradición de capos",
+                    "porcentaje": 30,
+                    "descripcion": "Discusión sobre la entrega de 29 líderes de cárteles a EE.UU. como respuesta a la amenaza de aranceles, y si esto representa una cesión de soberanía o una colaboración necesaria."
+                },
+                {
+                    "tema": "Soberanía nacional y relaciones México-EE.UU.",
+                    "porcentaje": 25,
+                    "descripcion": "Debate sobre la intromisión percibida de EE.UU. en asuntos internos mexicanos y el equilibrio de poder entre ambos países."
+                },
+                {
+                    "tema": "Críticas a Donald Trump",
+                    "porcentaje": 20,
+                    "descripcion": "Comentarios negativos sobre la personalidad, políticas y retórica de Trump hacia México, con expresiones de rechazo a sus medidas arancelarias."
+                },
+                {
+                    "tema": "Impacto económico de los aranceles",
+                    "porcentaje": 15,
+                    "descripcion": "Análisis sobre quién pagará realmente los aranceles y cómo afectarán a la economía de México y EE.UU., con énfasis en el posible aumento de precios para consumidores estadounidenses."
+                },
+                {
+                    "tema": "Críticas al gobierno mexicano",
+                    "porcentaje": 10,
+                    "descripcion": "Cuestionamientos a la capacidad del gobierno mexicano para defender los intereses nacionales frente a las presiones de EE.UU."
+                }
+            ],
+            "informacion_adicional": "Los comentarios de Oaxaca revelan una dimensión regional importante en la percepción de los aranceles. Aunque no se mencionan impactos específicos para la economía oaxaqueña, el tono de los comentarios sugiere una preocupación latente por cómo estas medidas podrían afectar a una economía estatal que depende en parte del comercio y el turismo. La ausencia de menciones a productos o industrias específicas de Oaxaca podría indicar una falta de información sobre cómo los aranceles afectarían directamente a la economía local. También es notable la polarización política en los comentarios, con una mayoría expresando rechazo a Trump, pero también críticas al gobierno mexicano por su manejo de la situación. La extradición de líderes de cárteles emerge como un tema particularmente sensible, visto por algunos como una cesión ante presiones externas. Finalmente, existe una corriente de nacionalismo defensivo que trasciende las afiliaciones políticas, unificando a los comentaristas en torno a la defensa de la soberanía mexicana frente a lo que perciben como una agresión externa.",
+            "estado_nombre": "Oaxaca"
+        }
+    ],
+    "Puebla": [
+        {
+            "sentimiento": {
+                "positivo": 10,
+                "neutro": 25,
+                "negativo": 65
+            },
+            "percepcion": {
+                "descripcion": "Los comentarios reflejan una percepción predominantemente negativa de los aranceles propuestos por Trump. La mayoría ve estos aranceles como una amenaza directa a la economía poblana, especialmente para sectores clave como el automotriz, textil y agrícola. Existe preocupación generalizada por la posible pérdida de empleos, aumento de precios en productos básicos y la reubicación de empresas importantes como Audi hacia Estados Unidos. Sin embargo, la percepción está fuertemente influenciada por la polarización política, donde algunos usuarios atribuyen la situación a decisiones del gobierno actual, mientras otros la ven como una agresión externa que debe enfrentarse con dignidad nacional."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Podría beneficiar a productores locales de maíz al aumentar su precio",
+                    "Forzaría a México a diversificar sus mercados y reducir la dependencia de EE.UU.",
+                    "Podría impulsar el desarrollo de la industria nacional"
+                ],
+                "encontra": [
+                    "Provocará pérdida masiva de empleos en sectores clave como el automotriz",
+                    "Aumentará los precios de productos básicos afectando principalmente a personas de bajos recursos",
+                    "Causará la reubicación de empresas importantes como Audi hacia EE.UU.",
+                    "Disminuirá las exportaciones de productos poblanos como textiles y hortalizas",
+                    "Generará inestabilidad económica y financiera en el estado"
+                ]
+            },
+            "preocupaciones": [
+                "Pérdida de 82,000 empleos en el sector automotriz de Puebla",
+                "Reubicación de plantas de Audi hacia Estados Unidos",
+                "Aumento en precios de productos básicos y de consumo",
+                "Impacto en exportaciones de textiles y productos agrícolas",
+                "Falta de estrategias claras del gobierno para enfrentar la situación",
+                "Inestabilidad económica y financiera en el estado"
+            ],
+            "tendencias": [
+                "Fuerte polarización política en la interpretación de los aranceles",
+                "Crítica a medios de comunicación por su postura percibida como pro-estadounidense",
+                "Sentimiento nacionalista frente a lo que se percibe como una agresión externa",
+                "Desconfianza hacia las élites políticas y económicas",
+                "Preocupación por la dependencia económica de México hacia Estados Unidos",
+                "Atribución de responsabilidades al gobierno actual o a gobiernos anteriores según la afiliación política"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Automotriz",
+                    "empresas": [
+                        "Audi",
+                        "Volkswagen"
+                    ]
+                },
+                {
+                    "nombre": "Textil",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Agrícola",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Químico",
+                    "empresas": [
+                        "Pemex"
+                    ]
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Impacto económico negativo",
+                    "porcentaje": 30,
+                    "descripcion": "Comentarios que expresan preocupación por las consecuencias económicas negativas de los aranceles en Puebla, incluyendo desempleo, inflación y crisis económica."
+                },
+                {
+                    "tema": "Polarización política",
+                    "porcentaje": 25,
+                    "descripcion": "Discusiones que interpretan los aranceles desde una perspectiva política partidista, culpando al gobierno actual o a la oposición según la afiliación del comentarista."
+                },
+                {
+                    "tema": "Nacionalismo vs. dependencia de EE.UU.",
+                    "porcentaje": 20,
+                    "descripcion": "Debate sobre la soberanía nacional frente a la dependencia económica de Estados Unidos, con llamados a la dignidad nacional o a la diversificación de mercados."
+                },
+                {
+                    "tema": "Crítica a medios de comunicación",
+                    "porcentaje": 15,
+                    "descripcion": "Cuestionamientos a la cobertura mediática de los aranceles, especialmente al Sol de Puebla, acusándolo de parcialidad y de favorecer intereses extranjeros."
+                },
+                {
+                    "tema": "Preocupación por empleos",
+                    "porcentaje": 10,
+                    "descripcion": "Comentarios específicamente enfocados en la potencial pérdida de empleos en Puebla, particularmente en el sector automotriz con sus 82,000 trabajadores."
+                }
+            ],
+            "informacion_adicional": "Los comentarios revelan una profunda división en la sociedad poblana respecto a cómo enfrentar la amenaza de los aranceles. Esta división refleja tensiones políticas más amplias a nivel nacional. Un aspecto notable es la preocupación específica por la planta de Audi, que ya estaría considerando trasladar parte de su producción a Estados Unidos, lo que tendría un impacto significativo en la economía local. También se observa una crítica recurrente al periódico 'El Sol de Puebla', acusado por muchos comentaristas de tener una línea editorial favorable a intereses extranjeros. La industria automotriz aparece como el sector más vulnerable, con 82,000 empleos en riesgo según los comentarios. Existe además una percepción de que los aranceles afectarán principalmente a personas de bajos recursos, mientras que las élites económicas y políticas estarán protegidas de sus efectos negativos. Finalmente, algunos comentarios sugieren buscar alianzas con otros países como alternativa a la dependencia comercial con Estados Unidos.",
+            "estado_nombre": "Puebla"
+        }
+    ],
+    "Querétaro": [
+        {
+            "sentimiento": {
+                "positivo": 15,
+                "neutro": 20,
+                "negativo": 65
+            },
+            "percepcion": {
+                "descripcion": "Los comentarios de Querétaro reflejan una percepción mayoritariamente negativa hacia los aranceles propuestos por Trump. Se perciben como una amenaza directa a la economía local, especialmente para las industrias exportadoras y manufactureras que son pilares económicos del estado. Existe confusión sobre si los aranceles fueron cancelados, pospuestos o siguen vigentes, lo que aumenta la incertidumbre. Muchos comentaristas creen que los aranceles causarían despidos masivos, aumento de precios y una crisis económica generalizada, aunque una minoría considera que México tiene la capacidad de resistir y adaptarse."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Podrían servir como catalizador para diversificar mercados y reducir la dependencia de EE.UU.",
+                    "Permitirían a México negociar desde una posición más firme en temas de soberanía nacional",
+                    "Obligarían a las empresas mexicanas a buscar alternativas y fortalecer el mercado interno"
+                ],
+                "encontra": [
+                    "Causarían despidos masivos en empresas exportadoras de Querétaro",
+                    "Aumentarían los precios de productos importados, especialmente insumos para energía solar",
+                    "Afectarían negativamente las inversiones extranjeras en el estado",
+                    "La economía mexicana 'quebraría como ejote' según algunos comentaristas",
+                    "Generarían mayor inflación en un estado que ya tiene problemas con el costo de la canasta básica"
+                ]
+            },
+            "preocupaciones": [
+                "Pérdida de empleos en el sector manufacturero y exportador",
+                "Aumento de precios en productos de consumo y materias primas",
+                "Disminución de inversiones extranjeras en Querétaro",
+                "Impacto en la industria de energía solar por el costo de insumos en dólares",
+                "Incertidumbre sobre el estatus real de los aranceles (cancelados, pospuestos o vigentes)",
+                "Escasez de agua que ya afecta al estado y podría complicar la situación económica",
+                "Posible recesión económica a nivel estatal y nacional"
+            ],
+            "tendencias": [
+                "Polarización política en la interpretación de los aranceles y las negociaciones",
+                "Desconfianza hacia los medios de comunicación y la información oficial",
+                "Críticas a políticos locales independientemente de su postura sobre los aranceles",
+                "Confusión generalizada sobre el estatus actual de los aranceles",
+                "Preocupación por el impacto económico inmediato más que por las consecuencias a largo plazo",
+                "Vinculación de problemas locales preexistentes (agua, inflación) con la amenaza de aranceles"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Energía solar/fotovoltaica",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Industria de transformación",
+                    "empresas": [
+                        "CANACINTRA"
+                    ]
+                },
+                {
+                    "nombre": "Sector exportador",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Industria petrolera",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Industria automotriz",
+                    "empresas": [
+                        "BYD"
+                    ]
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Impacto económico",
+                    "porcentaje": 30,
+                    "descripcion": "Discusiones sobre cómo los aranceles afectarían la economía de Querétaro, incluyendo empleos, precios e inversiones"
+                },
+                {
+                    "tema": "Negociaciones políticas",
+                    "porcentaje": 25,
+                    "descripcion": "Comentarios sobre las negociaciones entre México y EE.UU., y el papel de los políticos mexicanos"
+                },
+                {
+                    "tema": "Crítica a políticos locales",
+                    "porcentaje": 20,
+                    "descripcion": "Críticas a figuras políticas de Querétaro y su postura frente a los aranceles"
+                },
+                {
+                    "tema": "Soberanía nacional vs. cooperación",
+                    "porcentaje": 15,
+                    "descripcion": "Debate sobre si México debe defender su soberanía o cooperar con EE.UU. frente a los aranceles"
+                },
+                {
+                    "tema": "Desinformación sobre aranceles",
+                    "porcentaje": 10,
+                    "descripcion": "Confusión y desinformación sobre si los aranceles fueron cancelados, pospuestos o siguen vigentes"
+                }
+            ],
+            "informacion_adicional": "Los comentarios revelan una situación económica compleja en Querétaro que precede a la amenaza de aranceles. Se menciona que el estado ya enfrenta problemas como la canasta básica más cara del país, alta inflación y escasez de agua. Existe una percepción de que el gobierno estatal, liderado por Mauricio Kuri (PAN), mantiene buenas relaciones con el gobierno federal de MORENA, lo que genera críticas de algunos sectores. La industria fotovoltaica parece ser particularmente vulnerable debido a su dependencia de insumos importados en dólares. También se observa una narrativa sobre el petróleo como posible herramienta de negociación, mencionando que EE.UU. necesita el petróleo pesado mexicano para sus refinerías. Hay referencias a despidos que ya estarían ocurriendo en anticipación a los posibles aranceles, aunque no se proporcionan datos específicos verificables.",
+            "estado_nombre": "Querétaro"
+        }
+    ],
+    "Quintana Roo": [
+        {
+            "sentimiento": {
+                "positivo": 20,
+                "neutro": 25,
+                "negativo": 55
+            },
+            "percepcion": {
+                "descripcion": "Los habitantes de Quintana Roo perciben los aranceles como una amenaza económica directa, especialmente para sectores clave como el turismo y el comercio. Existe un escepticismo generalizado sobre la capacidad del gobierno mexicano para negociar favorablemente, y muchos ven la suspensión temporal como una victoria para Trump más que como una solución. La mayoría considera que los aranceles encarecerán productos importados y afectarán negativamente el empleo, aunque algunos ven una oportunidad para fortalecer el consumo de productos nacionales."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Oportunidad para impulsar el consumo de productos nacionales y reducir la dependencia de importaciones",
+                    "Podría forzar a México a diversificar sus mercados comerciales más allá de Estados Unidos",
+                    "Incentivo para desarrollar la industria local y mejorar la calidad de productos mexicanos"
+                ],
+                "encontra": [
+                    "Aumento de precios en productos importados y exportados afectando directamente al consumidor",
+                    "Impacto negativo en el empleo, especialmente en sectores manufactureros",
+                    "Posible recesión económica en México para 2025 según análisis mencionados",
+                    "Afectación a la soberanía nacional por ceder ante presiones extranjeras",
+                    "Daño a la relación comercial con el principal socio económico de México"
+                ]
+            },
+            "preocupaciones": [
+                "Aumento de precios en productos básicos y de consumo",
+                "Pérdida de empleos en sectores manufactureros y de exportación",
+                "Impacto en el sector turístico de Quintana Roo, incluyendo aumento de precios en sitios como Chichen Itza",
+                "Debilitamiento de la soberanía nacional ante presiones extranjeras",
+                "Posible recesión económica en México para 2025",
+                "Efectividad de las medidas de seguridad fronteriza como solución al problema comercial"
+            ],
+            "tendencias": [
+                "Fuerte llamado al consumo de productos nacionales como respuesta a los aranceles",
+                "Escepticismo generalizado hacia la capacidad negociadora del gobierno mexicano",
+                "Polarización política en la interpretación de las acciones gubernamentales",
+                "Percepción de que México está cediendo soberanía al aceptar condiciones de Estados Unidos",
+                "Confusión sobre los mecanismos económicos de los aranceles y su impacto real",
+                "Preocupación específica por el impacto en el turismo, sector clave para Quintana Roo"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Turismo",
+                    "empresas": [
+                        "Chichen Itza"
+                    ]
+                },
+                {
+                    "nombre": "Manufactura",
+                    "empresas": [
+                        "Sector acero",
+                        "Sector aluminio"
+                    ]
+                },
+                {
+                    "nombre": "Comercio minorista",
+                    "empresas": [
+                        "Walmart",
+                        "Sam's Club",
+                        "Costco"
+                    ]
+                },
+                {
+                    "nombre": "Tecnología y electrónicos",
+                    "empresas": [
+                        "Apple (iPhone)"
+                    ]
+                },
+                {
+                    "nombre": "Bebidas",
+                    "empresas": [
+                        "Coca-Cola"
+                    ]
+                },
+                {
+                    "nombre": "Agricultura",
+                    "empresas": [
+                        "Productores de aguacate",
+                        "Productores de limón"
+                    ]
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Consumo de productos nacionales",
+                    "porcentaje": 25,
+                    "descripcion": "Llamados a preferir productos mexicanos como respuesta a los aranceles y forma de fortalecer la economía local"
+                },
+                {
+                    "tema": "Impacto económico de los aranceles",
+                    "porcentaje": 20,
+                    "descripcion": "Discusiones sobre cómo los aranceles afectarán precios, empleos y la economía general de México y Quintana Roo"
+                },
+                {
+                    "tema": "Negociación entre gobiernos",
+                    "porcentaje": 20,
+                    "descripcion": "Comentarios sobre el proceso de negociación entre México y EE.UU., incluyendo la suspensión temporal de aranceles"
+                },
+                {
+                    "tema": "Crítica a la respuesta del gobierno mexicano",
+                    "porcentaje": 15,
+                    "descripcion": "Cuestionamientos a la estrategia del gobierno mexicano, especialmente el envío de 10,000 elementos de la Guardia Nacional a la frontera"
+                },
+                {
+                    "tema": "Migración y seguridad fronteriza",
+                    "porcentaje": 10,
+                    "descripcion": "Discusiones sobre la relación entre migración, seguridad fronteriza y las demandas de Trump para suspender aranceles"
+                },
+                {
+                    "tema": "Soberanía nacional",
+                    "porcentaje": 5,
+                    "descripcion": "Preocupaciones sobre la pérdida de soberanía nacional al ceder ante presiones extranjeras"
+                },
+                {
+                    "tema": "Otros temas diversos",
+                    "porcentaje": 5,
+                    "descripcion": "Temas variados incluyendo referencias al narcotráfico, política interna y comentarios no relacionados directamente"
+                }
+            ],
+            "informacion_adicional": "Los comentarios de Quintana Roo reflejan una preocupación particular por el sector turístico, pilar económico del estado. La mención específica del aumento de precios en Chichen Itza sugiere que ya se están percibiendo efectos económicos anticipados, incluso antes de la implementación formal de los aranceles. Existe confusión entre muchos usuarios sobre cómo funcionan exactamente los aranceles y quién paga por ellos, con interpretaciones contradictorias sobre si afectarán más a México o a Estados Unidos. También se observa una tendencia a mezclar temas económicos con cuestiones de seguridad fronteriza y migración, reflejando la complejidad de la relación bilateral. La suspensión temporal de los aranceles a cambio del refuerzo de seguridad fronteriza es vista con escepticismo, considerándola más una postergación del problema que una solución definitiva.",
+            "estado_nombre": "Quintana Roo"
+        }
+    ],
+    "San luis potosi": [
+        {
+            "sentimiento": {
+                "positivo": 15,
+                "neutro": 20,
+                "negativo": 65
+            },
+            "percepcion": {
+                "descripcion": "Los comentarios reflejan una percepción predominantemente negativa de los aranceles propuestos por Trump. La mayoría de los usuarios considera que estos tendrán un impacto económico perjudicial para México, especialmente para las clases media y baja. Existe un sentimiento de impotencia ante la asimetría de poder en la relación comercial con EE.UU., y aunque algunos apoyan medidas de represalia, prevalece la preocupación por las consecuencias económicas negativas para la población mexicana."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Podrían forzar a México a controlar mejor la migración centroamericana",
+                    "Representan una oportunidad para diversificar las relaciones comerciales con otros países como China o Rusia",
+                    "Justifican medidas de represalia que podrían beneficiar a México, como el aumento del precio de la electricidad"
+                ],
+                "encontra": [
+                    "Afectarán negativamente a la economía mexicana, especialmente a las clases media y baja",
+                    "Aumentarán los precios de productos básicos y el tipo de cambio",
+                    "Perjudicarán a las empresas exportadoras mexicanas",
+                    "Generarán desempleo en sectores dependientes del comercio con EE.UU.",
+                    "Son medidas unilaterales que violan acuerdos comerciales existentes como el T-MEC"
+                ]
+            },
+            "preocupaciones": [
+                "Aumento en el costo de vida y precios de productos básicos",
+                "Impacto negativo en el tipo de cambio y devaluación del peso",
+                "Pérdida de empleos en sectores exportadores",
+                "Falta de capacidad negociadora del gobierno mexicano",
+                "Dependencia excesiva de México hacia el mercado estadounidense",
+                "Tiempo requerido para desarrollar relaciones comerciales con otros países",
+                "Incapacidad para controlar la migración centroamericana"
+            ],
+            "tendencias": [
+                "Polarización política en las respuestas (críticas o apoyo al gobierno según afiliación)",
+                "Nostalgia por administraciones anteriores o crítica a las mismas según preferencia política",
+                "Propuestas de diversificación comercial hacia China y Rusia como alternativa",
+                "Percepción de que México está en desventaja en las negociaciones con EE.UU.",
+                "Críticas a la estrategia migratoria del gobierno mexicano",
+                "Sentimiento de que la población será la más afectada independientemente de las decisiones políticas"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Manufactura y exportación",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Energía",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Comercio minorista",
+                    "empresas": [
+                        "Walmart"
+                    ]
+                },
+                {
+                    "nombre": "Agricultura",
+                    "empresas": []
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Impacto económico negativo",
+                    "porcentaje": 30,
+                    "descripcion": "Preocupaciones sobre el aumento de precios, devaluación del peso y afectación a la economía mexicana en general"
+                },
+                {
+                    "tema": "Críticas al gobierno mexicano",
+                    "porcentaje": 25,
+                    "descripcion": "Cuestionamientos a la capacidad negociadora y estrategia del gobierno actual frente a los aranceles"
+                },
+                {
+                    "tema": "Relaciones comerciales con otros países",
+                    "porcentaje": 15,
+                    "descripcion": "Propuestas de diversificación comercial hacia China, Rusia u otros mercados como alternativa a EE.UU."
+                },
+                {
+                    "tema": "Migración como causa del conflicto",
+                    "porcentaje": 10,
+                    "descripcion": "Discusión sobre la migración centroamericana como origen de la amenaza de aranceles por parte de Trump"
+                },
+                {
+                    "tema": "Respuestas a los aranceles",
+                    "porcentaje": 10,
+                    "descripcion": "Debate sobre posibles contramedidas como el aumento del precio de la electricidad a EE.UU."
+                },
+                {
+                    "tema": "Política interna de EE.UU.",
+                    "porcentaje": 5,
+                    "descripcion": "Referencias a las motivaciones políticas de Trump y el contexto electoral estadounidense"
+                },
+                {
+                    "tema": "Otros",
+                    "porcentaje": 5,
+                    "descripcion": "Temas diversos no categorizados en los anteriores"
+                }
+            ],
+            "informacion_adicional": "Los comentarios analizados provienen principalmente de publicaciones de 'Plano Informativo' y 'Código San Luis En Vivo', medios de San Luis Potosí, lo que sugiere una preocupación regional por el impacto de los aranceles. Aunque no se mencionan industrias específicas del estado, San Luis Potosí tiene una importante presencia de industria automotriz y manufacturera que sería directamente afectada por los aranceles. Los comentarios reflejan una evolución temporal, con referencias a amenazas arancelarias de 2019 y las más recientes de 2024, mostrando que esta es una preocupación recurrente. También se observa que la discusión sobre aranceles está fuertemente entrelazada con el debate político interno mexicano, donde las posturas sobre el tema frecuentemente se alinean con preferencias políticas preexistentes más que con análisis económicos objetivos.",
+            "estado_nombre": "San luis potosi"
+        }
+    ],
+    "Sinaloa": [
+        {
+            "sentimiento": {
+                "positivo": 15,
+                "neutro": 20,
+                "negativo": 65
+            },
+            "percepcion": {
+                "descripcion": "Los ciudadanos de Sinaloa perciben los aranceles propuestos por Trump como una medida hostil y perjudicial que afectará tanto a México como a Estados Unidos. Existe un fuerte escepticismo sobre las motivaciones de Trump, considerándolas más políticas que económicas. La mayoría ve los aranceles como una amenaza directa a la economía regional, aunque algunos identifican una oportunidad para que México diversifique sus mercados y reduzca su dependencia de Estados Unidos."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Podrían forzar a México a diversificar sus mercados y reducir la dependencia de Estados Unidos",
+                    "Representan una oportunidad para que México establezca represalias y demuestre fortaleza económica",
+                    "Podrían impulsar el desarrollo de la industria nacional para sustituir importaciones"
+                ],
+                "encontra": [
+                    "Violan los términos del Tratado México-Estados Unidos-Canadá (T-MEC)",
+                    "Aumentarán los precios para consumidores en ambos países",
+                    "Afectarán negativamente a empresas estadounidenses establecidas en México",
+                    "Podrían provocar desempleo en sectores clave de Sinaloa",
+                    "Dañarán las relaciones comerciales bilaterales establecidas durante décadas"
+                ]
+            },
+            "preocupaciones": [
+                "Pérdida de empleos en sectores manufactureros y agrícolas",
+                "Aumento de precios en productos básicos para consumidores mexicanos",
+                "Posible reubicación de empresas estadounidenses fuera de México",
+                "Impacto en la economía regional de Sinaloa, particularmente en exportaciones agrícolas",
+                "Incertidumbre sobre la respuesta del gobierno mexicano ante las medidas de Trump",
+                "Violación de acuerdos comerciales internacionales establecidos"
+            ],
+            "tendencias": [
+                "Fuerte rechazo personal hacia Trump con lenguaje despectivo y emocional",
+                "Llamados a la diversificación comercial hacia otros mercados como China, Rusia y Europa",
+                "Referencias irónicas al narcotráfico y fentanilo como productos de exportación",
+                "Apoyo a medidas de represalia comercial por parte de México",
+                "Preocupación por la dependencia económica de México hacia Estados Unidos",
+                "Escepticismo sobre la capacidad del gobierno mexicano para enfrentar la situación"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Acero y aluminio",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Automotriz",
+                    "empresas": [
+                        "GM"
+                    ]
+                },
+                {
+                    "nombre": "Agricultura",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Petróleo y gas",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Tecnología",
+                    "empresas": [
+                        "Starlink"
+                    ]
+                },
+                {
+                    "nombre": "Pesca",
+                    "empresas": []
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Represalias y contramedidas",
+                    "porcentaje": 30,
+                    "descripcion": "Discusiones sobre cómo México, Canadá y China deberían responder a los aranceles impuestos por Trump, con énfasis en la necesidad de imponer aranceles recíprocos."
+                },
+                {
+                    "tema": "Críticas personales a Trump",
+                    "porcentaje": 25,
+                    "descripcion": "Comentarios negativos dirigidos a la figura de Donald Trump, cuestionando sus motivaciones, capacidad y utilizando lenguaje despectivo."
+                },
+                {
+                    "tema": "Impacto económico",
+                    "porcentaje": 20,
+                    "descripcion": "Análisis sobre cómo los aranceles afectarán a la economía mexicana, particularmente a Sinaloa, incluyendo preocupaciones sobre empleo, precios y exportaciones."
+                },
+                {
+                    "tema": "Diversificación de mercados",
+                    "porcentaje": 15,
+                    "descripcion": "Propuestas para que México busque nuevos socios comerciales como China, Rusia y Europa para reducir la dependencia de Estados Unidos."
+                },
+                {
+                    "tema": "Violación del TMEC",
+                    "porcentaje": 5,
+                    "descripcion": "Menciones sobre cómo los aranceles propuestos violan los términos del Tratado México-Estados Unidos-Canadá y posibles acciones legales."
+                },
+                {
+                    "tema": "Otros temas",
+                    "porcentaje": 5,
+                    "descripcion": "Temas diversos incluyendo referencias al narcotráfico, política interna mexicana y comentarios no relacionados directamente con los aranceles."
+                }
+            ],
+            "informacion_adicional": "Los comentarios de Sinaloa reflejan una preocupación particular por el sector agrícola, que es fundamental para la economía del estado. Las referencias al narcotráfico y fentanilo aparecen como comentarios irónicos, sugiriendo que estos 'productos' deberían también recibir aranceles, lo que refleja la compleja realidad socioeconómica de la región. Existe un sentimiento de que México debería aprovechar esta crisis para fortalecer relaciones con otros bloques económicos como los BRICS. También se observa una desconfianza hacia la capacidad del gobierno mexicano actual para manejar eficazmente la situación, con menciones específicas a la presidenta electa Claudia Sheinbaum. La comunidad sinaloense parece estar dividida entre quienes ven esto como una oportunidad para diversificar la economía y quienes temen un impacto devastador en sectores clave del estado.",
+            "estado_nombre": "Sinaloa"
+        }
+    ],
+    "Sonora": [
+        {
+            "sentimiento": {
+                "positivo": 5,
+                "neutro": 25,
+                "negativo": 70
+            },
+            "percepcion": {
+                "descripcion": "Los comentarios reflejan una percepción predominantemente negativa hacia los aranceles impuestos por Donald Trump. La mayoría de los usuarios expresan preocupación por el impacto económico en Sonora, especialmente en sectores clave como la minería, industria automotriz y agricultura. Existe un fuerte escepticismo sobre la capacidad del gobierno mexicano para responder efectivamente a esta situación, y muchos comentarios reflejan incertidumbre sobre el futuro económico del estado. Los pocos comentarios positivos provienen principalmente de personas que ven los aranceles como una oportunidad para diversificar mercados o como una medida necesaria."
+            },
+            "argumentos": {
+                "afavor": [
+                    "Oportunidad para diversificar mercados hacia China, Rusia y Europa",
+                    "Posibilidad de fortalecer sectores estratégicos como la minería",
+                    "Podría impulsar políticas de respaldo a industrias locales"
+                ],
+                "encontra": [
+                    "Pérdida de empleos en maquiladoras y otros sectores",
+                    "Aumento de precios para consumidores finales",
+                    "Freno a inversiones y exportaciones en Sonora",
+                    "Deterioro de la relación comercial con el principal socio económico",
+                    "Impacto negativo en la estabilidad económica del estado"
+                ]
+            },
+            "preocupaciones": [
+                "Pérdida de empleos en sectores clave como maquiladoras",
+                "Freno a inversiones y exportaciones en Sonora",
+                "Impacto en la industria automotriz con posible relocalización de producción a EE.UU.",
+                "Escasez de agua para la minería y conflicto con necesidades de la población",
+                "Falta de estrategias claras del gobierno para enfrentar la situación",
+                "Aumento de precios para consumidores finales",
+                "Incertidumbre sobre el futuro económico del estado"
+            ],
+            "tendencias": [
+                "Fuerte escepticismo hacia las propuestas políticas de partidos tradicionales como el PRI",
+                "Críticas a la falta de acción efectiva del gobierno estatal y federal",
+                "Polarización política que se refleja en los comentarios sobre los aranceles",
+                "Desconfianza generalizada hacia las instituciones políticas",
+                "Preocupación por la dependencia económica de Sonora hacia Estados Unidos",
+                "Interés en la posibilidad de diversificar mercados hacia otros países"
+            ],
+            "sectores_afectados": [
+                {
+                    "nombre": "Minería",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Industria automotriz",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Agricultura y exportación de productos agropecuarios",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Maquiladoras",
+                    "empresas": []
+                },
+                {
+                    "nombre": "Comercio transfronterizo",
+                    "empresas": []
+                }
+            ],
+            "temas_principales": [
+                {
+                    "tema": "Impacto económico en Sonora",
+                    "porcentaje": 35.0,
+                    "descripcion": "Comentarios sobre cómo los aranceles afectarán la economía del estado, incluyendo inversiones, exportaciones y empleos"
+                },
+                {
+                    "tema": "Críticas a la respuesta gubernamental",
+                    "porcentaje": 25.0,
+                    "descripcion": "Cuestionamientos sobre la capacidad del gobierno estatal y federal para enfrentar la situación"
+                },
+                {
+                    "tema": "Minería en Sonora",
+                    "porcentaje": 15.0,
+                    "descripcion": "Discusiones sobre el papel de la minería como sector estratégico y las promesas de respaldo por parte del gobernador Durazo"
+                },
+                {
+                    "tema": "Polarización política",
+                    "porcentaje": 15.0,
+                    "descripcion": "Comentarios que reflejan divisiones políticas y críticas a partidos como el PRI"
+                },
+                {
+                    "tema": "Alternativas comerciales",
+                    "porcentaje": 10.0,
+                    "descripcion": "Propuestas para buscar otros mercados como China, Rusia y Europa ante la situación con EE.UU."
+                }
+            ],
+            "informacion_adicional": "Los comentarios revelan una situación particular en Sonora respecto al litio, donde existe frustración por las promesas incumplidas sobre su explotación. También se observa una preocupación por el uso del agua en la minería, reflejando un conflicto entre desarrollo económico y recursos naturales. La figura del gobernador Alfonso Durazo aparece como relevante en la gestión de la crisis, aunque con opiniones divididas sobre su efectividad. Existe un sentimiento de vulnerabilidad económica debido a la alta dependencia de Sonora hacia el mercado estadounidense, y algunos comentarios sugieren que los aranceles podrían estar relacionados con presiones de EE.UU. contra la reforma laboral de 40 horas en México. Se menciona específicamente el cierre de la cuarentenaria en Nogales, lo que indica impactos concretos ya visibles en puntos fronterizos clave para el comercio de Sonora.",
+            "estado_nombre": "Sonora"
+        }
+    ]
+}

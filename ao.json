@@ -1,0 +1,772 @@
+{
+  "metadata": {
+    "fuente": "Análisis de Redes Sociales y Medios",
+    "alcaldia": "Álvaro Obregón",
+    "periodo": "2025-10-28 a 2025-10-29",
+    "total_incidentes_geolocalizados": 24,
+    "plataformas_analizadas": ["Twitter", "Facebook", "TikTok", "Instagram", "Google News"],
+    "niveles_alerta": {
+      "alta": 12,
+      "media": 9,
+      "baja": 3
+    }
+  },
+  "incidentes": [
+    {
+      "id": "RS-AO-SEG-001",
+      "categoria": "Seguridad Pública",
+      "nivel_alerta": "ALTA",
+      "fuente": "Twitter",
+      "plataforma": "twitter",
+      "usuario": "Rockroyboy",
+      "fecha": "2025-10-29T00:58:00",
+      "descripcion": "Personas haciendo escándalo y lanzando tiros al aire sin respuesta de emergencias. 6 llamadas sin atención.",
+      "url": "https://twitter.com/Rockroyboy/status/1983428216091226497",
+      "ubicacion": {
+        "colonia": "Tetelpan",
+        "referencia": "Colonia Tetelpan",
+        "coordenadas": {
+          "latitud": 19.340853,
+          "longitud": -99.230347
+        }
+      },
+      "analisis": {
+        "gravedad": "Uso de armas de fuego en zona residencial sin respuesta de autoridades tras múltiples reportes",
+        "impacto_ciudadano": "6 llamadas de auxilio ignoradas, alteración grave de la paz pública",
+        "tiempo_respuesta": "Sin respuesta después de 6 llamadas al C5",
+        "poblacion_afectada": "Residentes de Colonia Tetelpan",
+        "riesgo_escalamiento": "Crítico - Uso de armas sin control y nula respuesta institucional",
+        "tendencia_social": "1 reporte en Twitter con mención directa a alcalde y C5"
+      }
+    },
+    {
+      "id": "RS-AO-SRV-001",
+      "categoria": "Servicios Públicos Básicos",
+      "nivel_alerta": "ALTA",
+      "fuente": "Twitter",
+      "plataforma": "twitter",
+      "usuario": "masj75",
+      "fecha": "2025-10-29T12:00:00",
+      "descripcion": "Meses sin luz en zonas bastante obscuras y peligrosas en Calzada de las Arcadas",
+      "url": "https://twitter.com/masj75/status/1983594830958645268",
+      "ubicacion": {
+        "colonia": "Colinas del Sur",
+        "referencia": "Calzada de las Arcadas",
+        "coordenadas": {
+          "latitud": 19.364755,
+          "longitud": -99.222798
+        }
+      },
+      "analisis": {
+        "gravedad": "Ausencia prolongada de alumbrado público en zona señalada como peligrosa",
+        "impacto_ciudadano": "Incremento de inseguridad para tránsito peatonal y vehicular nocturno",
+        "tiempo_respuesta": "Múltiples meses sin atención",
+        "poblacion_afectada": "Residentes y transeúntes de Calzada de las Arcadas, Colinas del Sur",
+        "riesgo_escalamiento": "Alto - Zona identificada como obscura y peligrosa, propicia para delitos",
+        "tendencia_social": "Múltiples menciones en redes sobre falta de luz en la zona"
+      }
+    },
+    {
+      "id": "RS-AO-SRV-002",
+      "categoria": "Servicios Públicos Básicos",
+      "nivel_alerta": "ALTA",
+      "fuente": "Instagram/Facebook",
+      "plataforma": "instagram",
+      "usuario": "ale07cm",
+      "fecha": "2025-10-29T12:35:43",
+      "descripcion": "Sin luminarias desde junio. Reportes cerrados sin atención. Intentos de asalto por falta de iluminación.",
+      "url": null,
+      "ubicacion": {
+        "colonia": "Lomas de San Ángel Inn",
+        "referencia": "Lomas de San Ángel Inn",
+        "coordenadas": {
+          "latitud": 19.349396,
+          "longitud": -99.197503
+        }
+      },
+      "analisis": {
+        "gravedad": "Problema reportado desde junio con folios cerrados sin solución real",
+        "impacto_ciudadano": "Intentos de asalto documentados debido a oscuridad total, sin presencia policial",
+        "tiempo_respuesta": "6 meses sin solución (reportes desde junio y agosto)",
+        "poblacion_afectada": "Residentes de Lomas de San Ángel Inn",
+        "riesgo_escalamiento": "Crítico - Folios: ALP2500888, sistema administrativo cierra reportes sin atender",
+        "tendencia_social": "Usuario repite reporte en múltiples plataformas por falta de atención"
+      }
+    },
+    {
+      "id": "RS-AO-SRV-003",
+      "categoria": "Servicios Públicos Básicos",
+      "nivel_alerta": "ALTA",
+      "fuente": "Facebook",
+      "plataforma": "facebook",
+      "usuario": "Imelda Ze",
+      "fecha": "2025-10-29T16:41:00",
+      "descripcion": "En la Angostura 2 ni agua hay",
+      "url": null,
+      "ubicacion": {
+        "colonia": "La Angostura",
+        "referencia": "La Angostura 2",
+        "coordenadas": {
+          "latitud": 19.333342,
+          "longitud": -99.233654
+        }
+      },
+      "analisis": {
+        "gravedad": "Ausencia total de suministro de agua potable sin previo aviso",
+        "impacto_ciudadano": "Afectación directa a necesidades básicas de higiene, alimentación y salud",
+        "tiempo_respuesta": "Corte sin notificación previa a la población",
+        "poblacion_afectada": "Residentes de La Angostura 2",
+        "riesgo_escalamiento": "Alto - Servicio básico esencial completamente interrumpido",
+        "tendencia_social": "Múltiples quejas en Facebook sobre falta de agua y avisos tardíos"
+      }
+    },
+    {
+      "id": "RS-AO-SRV-004",
+      "categoria": "Servicios Públicos Básicos",
+      "nivel_alerta": "ALTA",
+      "fuente": "Twitter",
+      "plataforma": "twitter",
+      "usuario": "PepeGrogs",
+      "fecha": "2025-10-29T12:26:00",
+      "descripcion": "Fuga de aguas negras por más de 1 mes sin solución. Múltiples reportes sin respuesta.",
+      "url": "https://twitter.com/PepeGrogs/status/1983601329978388768",
+      "ubicacion": {
+        "colonia": "El Rincón",
+        "referencia": "Colonia El Rincón",
+        "coordenadas": {
+          "latitud": 19.371850,
+          "longitud": -99.248620
+        }
+      },
+      "analisis": {
+        "gravedad": "Fuga de aguas negras sin atención por más de un mes representa riesgo sanitario grave",
+        "impacto_ciudadano": "Problemas de salubridad, malos olores, riesgo de enfermedades gastrointestinales",
+        "tiempo_respuesta": "Más de 1 mes sin atención, múltiples reportes ignorados",
+        "poblacion_afectada": "Residentes de Colonia El Rincón y calles aledañas",
+        "riesgo_escalamiento": "Crítico - Puede derivar en brote de enfermedades y problema de salud pública",
+        "tendencia_social": "Usuario hace múltiples posts en Twitter mencionando a SACMEX y alcalde"
+      }
+    },
+    {
+      "id": "RS-AO-SRV-005",
+      "categoria": "Servicios Públicos Básicos",
+      "nivel_alerta": "MEDIA",
+      "fuente": "Twitter",
+      "plataforma": "twitter",
+      "usuario": "Boxes28",
+      "fecha": "2025-10-28T21:26:00",
+      "descripcion": "Fuga de agua en Calle Cóndor, Colonia Alpes, número 135 desde la tarde",
+      "url": "https://twitter.com/Boxes28/status/1983374862250062271",
+      "ubicacion": {
+        "colonia": "Colonia Alpes",
+        "referencia": "Calle Cóndor 135",
+        "coordenadas": {
+          "latitud": 19.361240,
+          "longitud": -99.199145
+        }
+      },
+      "analisis": {
+        "gravedad": "Fuga de agua potable con desperdicio del recurso",
+        "impacto_ciudadano": "Desperdicio de agua en contexto de escasez, posible afectación a inmuebles cercanos",
+        "tiempo_respuesta": "Reportada desde la tarde sin atención nocturna",
+        "poblacion_afectada": "Residentes de Calle Cóndor, Colonia Alpes",
+        "riesgo_escalamiento": "Medio - Puede generar socavón o daño estructural si no se atiende",
+        "tendencia_social": "1 reporte en Twitter con foto de evidencia"
+      }
+    },
+    {
+      "id": "RS-AO-SRV-006",
+      "categoria": "Servicios Públicos Básicos",
+      "nivel_alerta": "ALTA",
+      "fuente": "Twitter",
+      "plataforma": "twitter",
+      "usuario": "elcmulan",
+      "fecha": "2025-10-28T13:35:00",
+      "descripcion": "Fuga de agua en calle Austriacos 37, Colonia Paraíso, lleva 10 días sin atención",
+      "url": "https://twitter.com/elcmulan/status/1983256249459261668",
+      "ubicacion": {
+        "colonia": "Colonia Paraíso",
+        "referencia": "Calle Austriacos 37",
+        "coordenadas": {
+          "latitud": 19.367420,
+          "longitud": -99.253180
+        }
+      },
+      "analisis": {
+        "gravedad": "Fuga prolongada por 10 días sin respuesta institucional",
+        "impacto_ciudadano": "Desperdicio significativo de agua, riesgo de socavón, afectación a vialidad",
+        "tiempo_respuesta": "10 días sin atención",
+        "poblacion_afectada": "Residentes de Calle Austriacos, Colonia Paraíso",
+        "riesgo_escalamiento": "Alto - Tiempo prolongado aumenta riesgo de daños mayores a infraestructura",
+        "tendencia_social": "Usuario reporta que no tiene folio de reporte anterior"
+      }
+    },
+    {
+      "id": "RS-AO-SRV-007",
+      "categoria": "Servicios Públicos Básicos",
+      "nivel_alerta": "ALTA",
+      "fuente": "Twitter",
+      "plataforma": "twitter",
+      "usuario": "RedVialRC",
+      "fecha": "2025-10-29T10:38:00",
+      "descripcion": "Fuga de agua por socavón en Paseo del Pedregal que ingresa a vivienda",
+      "url": "https://twitter.com/RedVialRC/status/1983574261332689350",
+      "ubicacion": {
+        "colonia": "Jardines del Pedregal",
+        "referencia": "Paseo del Pedregal",
+        "coordenadas": {
+          "latitud": 19.318450,
+          "longitud": -99.198760
+        }
+      },
+      "analisis": {
+        "gravedad": "Socavón con fuga de agua que ingresa a vivienda representa emergencia",
+        "impacto_ciudadano": "Daños a propiedad privada, riesgo de colapso de pavimento, afectación vial",
+        "tiempo_respuesta": "Reportado por medio de comunicación sin tiempo de respuesta conocido",
+        "poblacion_afectada": "Residentes de Paseo del Pedregal, Jardines del Pedregal",
+        "riesgo_escalamiento": "Crítico - Socavón con ingreso de agua a vivienda puede causar daños estructurales graves",
+        "tendencia_social": "Reportado por medio de comunicación especializado en vialidad"
+      }
+    },
+    {
+      "id": "RS-AO-VIAL-001",
+      "categoria": "Vialidad, Movilidad y Transporte",
+      "nivel_alerta": "ALTA",
+      "fuente": "Twitter",
+      "plataforma": "twitter",
+      "usuario": "Areyes2712",
+      "fecha": "2025-10-28T16:47:00",
+      "descripcion": "Semáforo no funciona en esquina Calzada de los Leones y Avenida 5 de Mayo, Colonia Merced Gómez",
+      "url": "https://twitter.com/Areyes2712/status/1983304519271506402",
+      "ubicacion": {
+        "colonia": "Merced Gómez",
+        "referencia": "Calzada de los Leones y Avenida 5 de Mayo",
+        "coordenadas": {
+          "latitud": 19.364809,
+          "longitud": -99.195635
+        }
+      },
+      "analisis": {
+        "gravedad": "Falla en dispositivo de control vehicular en intersección de vialidades primarias",
+        "impacto_ciudadano": "Alto riesgo de accidentes vehiculares y conflictos viales en cruce importante",
+        "tiempo_respuesta": "Múltiples reportes desde la mañana del 29/10",
+        "poblacion_afectada": "Conductores y peatones que transitan la intersección",
+        "riesgo_escalamiento": "Alto - Puede ocasionar accidentes de tránsito con lesionados o pérdida de vidas",
+        "tendencia_social": "Múltiples usuarios reportando el mismo semáforo (gojaroz, MDYaneth, Areyes2712)"
+      }
+    },
+    {
+      "id": "RS-AO-VIAL-002",
+      "categoria": "Vialidad, Movilidad y Transporte",
+      "nivel_alerta": "ALTA",
+      "fuente": "Twitter",
+      "plataforma": "twitter",
+      "usuario": "MDYaneth",
+      "fecha": "2025-10-29T07:17:00",
+      "descripcion": "Semáforos descompuestos en Av 5 de Mayo y Alta Tensión desde las 6 am",
+      "url": "https://twitter.com/MDYaneth/status/1983523606102749525",
+      "ubicacion": {
+        "colonia": "Álvaro Obregón",
+        "referencia": "Avenida 5 de Mayo y Avenida Alta Tensión",
+        "coordenadas": {
+          "latitud": 19.364950,
+          "longitud": -99.194820
+        }
+      },
+      "analisis": {
+        "gravedad": "Falla múltiple de semáforos en hora pico de la mañana",
+        "impacto_ciudadano": "Caos vial en hora de entrada a trabajos y escuelas, riesgo de accidentes",
+        "tiempo_respuesta": "Desde las 6 am sin reparación",
+        "poblacion_afectada": "Conductores y peatones de zona con alto flujo vehicular matutino",
+        "riesgo_escalamiento": "Crítico - Falla en hora pico aumenta exponencialmente el riesgo de accidentes graves",
+        "tendencia_social": "Reporte con foto de evidencia, usuario solicita urgente reparación"
+      }
+    },
+    {
+      "id": "RS-AO-VIAL-003",
+      "categoria": "Vialidad, Movilidad y Transporte",
+      "nivel_alerta": "MEDIA",
+      "fuente": "Twitter",
+      "plataforma": "twitter",
+      "usuario": "mo91586034",
+      "fecha": "2025-10-28T05:44:00",
+      "descripcion": "Cerrado en Avenida Minas por San Judas, caos total",
+      "url": "https://twitter.com/mo91586034/status/1983137817610899862",
+      "ubicacion": {
+        "colonia": "San Judas",
+        "referencia": "Avenida Minas",
+        "coordenadas": {
+          "latitud": 19.381769,
+          "longitud": -99.204789
+        }
+      },
+      "analisis": {
+        "gravedad": "Cierre total de vialidad principal generando caos vehicular",
+        "impacto_ciudadano": "Pérdida de tiempo productivo, estrés vehicular, imposibilidad de transitar",
+        "tiempo_respuesta": "Reportado en hora de alta congestión matutina",
+        "poblacion_afectada": "Conductores y usuarios de transporte público en zona amplia",
+        "riesgo_escalamiento": "Medio - Afecta movilidad de zona con alta densidad poblacional y comercial",
+        "tendencia_social": "Múltiples comentarios sobre congestión vial recurrente en la zona"
+      }
+    },
+    {
+      "id": "RS-AO-VIAL-004",
+      "categoria": "Vialidad, Movilidad y Transporte",
+      "nivel_alerta": "MEDIA",
+      "fuente": "Twitter",
+      "plataforma": "twitter",
+      "usuario": "adrifam65",
+      "fecha": "2025-10-28T18:58:00",
+      "descripcion": "Tráfico causado por gasolinera PEMEX en Av. Toluca y calle Don Manuelito. Todo parado por semanas.",
+      "url": "https://twitter.com/adrifam65/status/1983337701224136783",
+      "ubicacion": {
+        "colonia": "Álvaro Obregón",
+        "referencia": "Av. Toluca y Don Manuelito",
+        "coordenadas": {
+          "latitud": 19.372140,
+          "longitud": -99.242580
+        }
+      },
+      "analisis": {
+        "gravedad": "Problema estructural de tráfico por operación de gasolinera sin coordinación vial",
+        "impacto_ciudadano": "Congestión vial severa y permanente en avenida principal hace semanas",
+        "tiempo_respuesta": "Problema recurrente sin solución estructural desde hace semanas",
+        "poblacion_afectada": "Conductores de Av. Toluca y zonas aledañas",
+        "riesgo_escalamiento": "Medio - Requiere coordinación entre alcaldía y PEMEX para solución",
+        "tendencia_social": "Usuario con foto de evidencia, otros comentan que es gasolinera confiable pero mal ubicada"
+      }
+    },
+    {
+      "id": "RS-AO-ESP-001",
+      "categoria": "Uso del Espacio Público",
+      "nivel_alerta": "ALTA",
+      "fuente": "Twitter",
+      "plataforma": "twitter",
+      "usuario": "Elilop14",
+      "fecha": "2025-10-28T19:25:00",
+      "descripcion": "Camionetas invadiendo banquetas en Calle Cóndor 286 poniendo en riesgo a peatones. SSC no los retira.",
+      "url": "https://twitter.com/Elilop14/status/1983344299355095354",
+      "ubicacion": {
+        "colonia": "Las Águilas",
+        "referencia": "Calle Cóndor 286 entre Calzada de los Leones y Luis Kuhne",
+        "coordenadas": {
+          "latitud": 19.361529,
+          "longitud": -99.199403
+        }
+      },
+      "analisis": {
+        "gravedad": "Obstrucción total de vía peatonal con riesgo directo a integridad física de transeúntes",
+        "impacto_ciudadano": "Peatones obligados a circular por arroyo vehicular con alto riesgo de atropellamiento",
+        "tiempo_respuesta": "Se solicitó apoyo a SSC sin resultados",
+        "poblacion_afectada": "Peatones de Calle Cóndor, especialmente personas con movilidad reducida, carriolas y adultos mayores",
+        "riesgo_escalamiento": "Crítico - Puede ocasionar atropellamientos graves, problema recurrente sin acción policial",
+        "tendencia_social": "Usuario reporta con foto, menciona múltiples solicitudes de apoyo sin resultado"
+      }
+    },
+    {
+      "id": "RS-AO-ESP-002",
+      "categoria": "Uso del Espacio Público",
+      "nivel_alerta": "MEDIA",
+      "fuente": "Twitter",
+      "plataforma": "twitter",
+      "usuario": "fer_pensamiento",
+      "fecha": "2025-10-29T12:27:00",
+      "descripcion": "Vehículos estacionados sobre paso peatonal frente a Plaza Samara con franelero cobrando",
+      "url": "https://twitter.com/fer_pensamiento/status/1983601606525604290",
+      "ubicacion": {
+        "colonia": "Santa Fe",
+        "referencia": "Plaza Samara, Antonio Dovali Jaime 70",
+        "coordenadas": {
+          "latitud": 19.359480,
+          "longitud": -99.266350
+        }
+      },
+      "analisis": {
+        "gravedad": "Obstrucción de paso peatonal señalizado con presencia de 'viene viene' extorsionando",
+        "impacto_ciudadano": "Peatones en riesgo al cruzar, actividad ilegal de franelero operando con impunidad",
+        "tiempo_respuesta": "Usuario solicita revisión con foto de evidencia",
+        "poblacion_afectada": "Peatones que transitan frente a Plaza Samara en Santa Fe",
+        "riesgo_escalamiento": "Medio - Combina obstrucción vial con actividad de extorsión menor",
+        "tendencia_social": "1 reporte con foto de evidencia mostrando señalamiento de no estacionarse"
+      }
+    },
+    {
+      "id": "RS-AO-ESP-003",
+      "categoria": "Uso del Espacio Público",
+      "nivel_alerta": "MEDIA",
+      "fuente": "Twitter",
+      "plataforma": "twitter",
+      "usuario": "MonicaLapuente",
+      "fecha": "2025-10-29T11:52:00",
+      "descripcion": "Coche abandonado por más de 10 años ocupando 2 lugares de estacionamiento. Postes y botes obstruyendo.",
+      "url": "https://twitter.com/MonicaLapuente/status/1983592787439448098",
+      "ubicacion": {
+        "colonia": "Los Alpes",
+        "referencia": "Calle Andes entre Cóndor y Alpes",
+        "coordenadas": {
+          "latitud": 19.362180,
+          "longitud": -99.198950
+        }
+      },
+      "analisis": {
+        "gravedad": "Vehículo abandonado por más de una década sin acción de autoridad",
+        "impacto_ciudadano": "Pérdida de espacios de estacionamiento, deterioro visual urbano, postes obstruyendo vialidad",
+        "tiempo_respuesta": "Más de 10 años sin atención",
+        "poblacion_afectada": "Residentes de Calle Andes, Colonia Los Alpes",
+        "riesgo_escalamiento": "Bajo - Problema crónico que evidencia falta de atención institucional histórica",
+        "tendencia_social": "Usuario menciona directamente al alcalde solicitando retiro"
+      }
+    },
+    {
+      "id": "RS-AO-ESP-004",
+      "categoria": "Uso del Espacio Público",
+      "nivel_alerta": "MEDIA",
+      "fuente": "Twitter",
+      "plataforma": "twitter",
+      "usuario": "manegalindov",
+      "fecha": "2025-10-29T17:05:00",
+      "descripcion": "Personas haciendo uso indebido de la vía pública sin regulación",
+      "url": "https://twitter.com/manegalindov/status/1983671632419025041",
+      "ubicacion": {
+        "colonia": "Colinas del Sur",
+        "referencia": "Calle Feria esquina Avenida Santa Lucía",
+        "coordenadas": {
+          "latitud": 19.367580,
+          "longitud": -99.223450
+        }
+      },
+      "analisis": {
+        "gravedad": "Uso no autorizado de vía pública sin control de autoridades",
+        "impacto_ciudadano": "Obstrucción de tránsito peatonal y vehicular, comercio informal sin regulación",
+        "tiempo_respuesta": "Usuario solicita regulación con foto de evidencia",
+        "poblacion_afectada": "Residentes y transeúntes de Calle Feria y Av. Santa Lucía",
+        "riesgo_escalamiento": "Medio - Puede generar mayor ocupación informal si no se regula",
+        "tendencia_social": "Múltiples menciones a autoridades de diferentes niveles"
+      }
+    },
+    {
+      "id": "RS-AO-ESP-005",
+      "categoria": "Uso del Espacio Público",
+      "nivel_alerta": "ALTA",
+      "fuente": "Twitter",
+      "plataforma": "twitter",
+      "usuario": "elmaugarcia",
+      "fecha": "2025-10-29T10:04:00",
+      "descripcion": "Vehículos obstruyendo trabajos de reencarpetado. Calles como taller mecánico.",
+      "url": "https://twitter.com/elmaugarcia/status/1983565660010553408",
+      "ubicacion": {
+        "colonia": "Álvaro Obregón",
+        "referencia": "Jalalpa Sur esquina con Almagres",
+        "coordenadas": {
+          "latitud": 19.377240,
+          "longitud": -99.235680
+        }
+      },
+      "analisis": {
+        "gravedad": "Vehículos usados como taller mecánico en vía pública impidiendo obra pública",
+        "impacto_ciudadano": "Obstaculización de trabajos de mantenimiento urbano, uso indebido de espacio público",
+        "tiempo_respuesta": "Solicitud urgente de retiro de vehículos",
+        "poblacion_afectada": "Residentes de zona y cuadrillas de reencarpetado",
+        "riesgo_escalamiento": "Alto - Impide ejecución de obra pública pagada con recursos de ciudadanos",
+        "tendencia_social": "Usuario con foto de evidencia, solicitud urgente"
+      }
+    },
+    {
+      "id": "RS-AO-AMB-001",
+      "categoria": "Medio Ambiente y Limpieza",
+      "nivel_alerta": "ALTA",
+      "fuente": "Twitter",
+      "plataforma": "twitter",
+      "usuario": "EATZ_mx",
+      "fecha": "2025-10-28T07:43:00",
+      "descripcion": "Basurero sin atención por 3 meses a 20 metros de kínder y primaria. Cada día llega más basura.",
+      "url": "https://twitter.com/EATZ_mx/status/1983167825478070306",
+      "ubicacion": {
+        "colonia": "Álvaro Obregón",
+        "referencia": "Cerca de kínder y primaria (ubicación específica sin detallar)",
+        "coordenadas": {
+          "latitud": 19.358620,
+          "longitud": -99.225140
+        }
+      },
+      "analisis": {
+        "gravedad": "Basurero clandestino a 20 metros de instituciones educativas infantiles por 3 meses",
+        "impacto_ciudadano": "Riesgo sanitario grave para menores de edad, proliferación de fauna nociva y enfermedades",
+        "tiempo_respuesta": "3 meses de reportes sin atención",
+        "poblacion_afectada": "Niños de kínder y primaria, personal docente, residentes cercanos",
+        "riesgo_escalamiento": "Crítico - Proximidad a escuelas representa riesgo de salud pública infantil",
+        "tendencia_social": "Usuario menciona a diputado local tras falta de respuesta de alcaldía"
+      }
+    },
+    {
+      "id": "RS-AO-AMB-002",
+      "categoria": "Medio Ambiente y Limpieza",
+      "nivel_alerta": "MEDIA",
+      "fuente": "Facebook",
+      "plataforma": "facebook",
+      "usuario": "Norma Maricela Alvarez",
+      "fecha": "2025-10-29T10:55:00",
+      "descripcion": "Mucha basura en Colonia Bellavista, calle Águila entre Garza y Canario. Autos abandonados.",
+      "url": null,
+      "ubicacion": {
+        "colonia": "Bellavista",
+        "referencia": "Calle Águila entre Garza y Canario, CP 01140",
+        "coordenadas": {
+          "latitud": 19.397328,
+          "longitud": -99.192283
+        }
+      },
+      "analisis": {
+        "gravedad": "Acumulación de basura y vehículos abandonados generan deterioro urbano",
+        "impacto_ciudadano": "Problemas de salubridad, malos olores, imagen urbana deteriorada",
+        "tiempo_respuesta": "Usuario hace múltiples reportes en diferentes horarios sin respuesta",
+        "poblacion_afectada": "Residentes de Calle Águila y calles aledañas en Bellavista",
+        "riesgo_escalamiento": "Medio - Puede convertirse en tiradero clandestino permanente",
+        "tendencia_social": "Usuario repite reporte 3 veces en el mismo día en Facebook"
+      }
+    },
+    {
+      "id": "RS-AO-AMB-003",
+      "categoria": "Medio Ambiente y Limpieza",
+      "nivel_alerta": "MEDIA",
+      "fuente": "Facebook",
+      "plataforma": "facebook",
+      "usuario": "Cristina Arias",
+      "fecha": "2025-10-28T21:59:00",
+      "descripcion": "Avenida Santa Lucía llena de basura desde Colinas del Sur hasta Price Shoes. Coches en venta obstruyendo.",
+      "url": null,
+      "ubicacion": {
+        "colonia": "Colinas del Sur",
+        "referencia": "Avenida Santa Lucía desde Colinas del Sur hasta Price Shoes",
+        "coordenadas": {
+          "latitud": 19.368150,
+          "longitud": -99.222980
+        }
+      },
+      "analisis": {
+        "gravedad": "Corredor urbano importante convertido en tiradero y estacionamiento irregular de vehículos en venta",
+        "impacto_ciudadano": "Deterioro de imagen urbana, congestión vial por vehículos irregulares, basura acumulada",
+        "tiempo_respuesta": "Usuario cuestiona si hay corrupción para no retirar vehículos",
+        "poblacion_afectada": "Residentes y transeúntes de Av. Santa Lucía, zona comercial afectada",
+        "riesgo_escalamiento": "Medio - Usuario sugiere posible colusión entre vendedores y autoridad",
+        "tendencia_social": "Usuario menciona que grúas están 'de adorno', cuestiona si hay pagos irregulares"
+      }
+    },
+    {
+      "id": "RS-AO-EME-001",
+      "categoria": "Emergencias y Protección Civil",
+      "nivel_alerta": "ALTA",
+      "fuente": "Twitter",
+      "plataforma": "twitter",
+      "usuario": "LisetGlezG",
+      "fecha": "2025-10-29T08:08:00",
+      "descripcion": "Incendio de departamento con 3 personas al interior, una lesionada. Solicitan ambulancia.",
+      "url": "https://twitter.com/LisetGlezG/status/1983536389820993673",
+      "ubicacion": {
+        "colonia": "Olivar del Conde",
+        "referencia": "Miguel Hidalgo y Agustín Lara",
+        "coordenadas": {
+          "latitud": 19.365780,
+          "longitud": -99.213450
+        }
+      },
+      "analisis": {
+        "gravedad": "Emergencia con personas lesionadas por incendio en departamento",
+        "impacto_ciudadano": "Riesgo inmediato a la vida, una persona lesionada confirmada, dos más en el interior",
+        "tiempo_respuesta": "Bomberos CDMX atendiendo, solicitud de ambulancia",
+        "poblacion_afectada": "3 personas directamente afectadas, residentes de edificio en riesgo",
+        "riesgo_escalamiento": "Crítico - Emergencia activa con lesionados",
+        "tendencia_social": "Reportado por periodista con hashtag #ULTIMAHORA, confirma atención de bomberos"
+      }
+    },
+    {
+      "id": "RS-AO-EME-002",
+      "categoria": "Emergencias y Protección Civil",
+      "nivel_alerta": "MEDIA",
+      "fuente": "Twitter",
+      "plataforma": "twitter",
+      "usuario": "YairPatino",
+      "fecha": "2025-10-28T10:45:00",
+      "descripcion": "Fuerte incendio en barranca de Villa Verdún a la altura de Cedros. Silencio de alcaldía y CDMX.",
+      "url": "https://twitter.com/YairPatino/status/1983213575305842940",
+      "ubicacion": {
+        "colonia": "Villa Verdún",
+        "referencia": "Barranca a la altura de Cedros",
+        "coordenadas": {
+          "latitud": 19.340250,
+          "longitud": -99.257580
+        }
+      },
+      "analisis": {
+        "gravedad": "Incendio forestal en barranca con riesgo de propagación a viviendas",
+        "impacto_ciudadano": "Riesgo para viviendas cercanas, contaminación atmosférica, daño ecológico a barranca",
+        "tiempo_respuesta": "Usuario reporta que hay bomberos pero critica silencio de autoridades",
+        "poblacion_afectada": "Residentes de Villa Verdún cercanos a la barranca",
+        "riesgo_escalamiento": "Medio - Incendio siendo atendido por bomberos pero sin comunicación oficial",
+        "tendencia_social": "Usuario critica falta de comunicación oficial de alcaldía sobre emergencia"
+      }
+    },
+    {
+      "id": "RS-AO-INF-001",
+      "categoria": "Infraestructura y Espacios Públicos",
+      "nivel_alerta": "MEDIA",
+      "fuente": "Facebook",
+      "plataforma": "facebook",
+      "usuario": "Carolina Mayor",
+      "fecha": "2025-10-28T12:43:00",
+      "descripcion": "Destruyeron juegos infantiles del parque (resbaladilla y columpio) por proyecto Parque Lineal Alegría. Pusieron bancas para adultos mayores.",
+      "url": null,
+      "ubicacion": {
+        "colonia": "La Presa Sección Hornos",
+        "referencia": "Parque Lineal Alegría",
+        "coordenadas": {
+          "latitud": 19.382509,
+          "longitud": -99.211711
+        }
+      },
+      "analisis": {
+        "gravedad": "Eliminación de infraestructura recreativa infantil sin aparente consulta comunitaria",
+        "impacto_ciudadano": "Conflicto social por percepción de imposición de proyecto sin considerar mayoría poblacional (muchos niños, pocos adultos mayores)",
+        "tiempo_respuesta": "Proyecto en ejecución, usuario solicita reinstalación de juegos además de bancas",
+        "poblacion_afectada": "Familias con niños de La Presa Sección Hornos",
+        "riesgo_escalamiento": "Medio - Puede generar protestas vecinales por falta de consulta",
+        "tendencia_social": "Usuario señala desproporción: muchos niños vs pocos adultos mayores en la colonia"
+      }
+    },
+    {
+      "id": "RS-AO-INF-002",
+      "categoria": "Infraestructura y Espacios Públicos",
+      "nivel_alerta": "MEDIA",
+      "fuente": "Instagram",
+      "plataforma": "instagram",
+      "usuario": "somoselmedio_com",
+      "fecha": "2025-10-29T11:37:36",
+      "descripcion": "Vecinos manifestándose contra proyecto Cablebús y reubicación del PILARES Santa Lucía para construcción de estación",
+      "url": "https://instagram.com/p/DQZttnnAcTm",
+      "ubicacion": {
+        "colonia": "Colinas del Sur",
+        "referencia": "PILARES Santa Lucía",
+        "coordenadas": {
+          "latitud": 19.367826,
+          "longitud": -99.224015
+        }
+      },
+      "analisis": {
+        "gravedad": "Oposición vecinal organizada a megaproyecto de movilidad y reubicación de PILARES",
+        "impacto_ciudadano": "Manifestación activa contra pérdida de servicios comunitarios por proyecto Cablebús",
+        "tiempo_respuesta": "Conflicto activo con manifestaciones documentadas",
+        "poblacion_afectada": "Comunidad de Colinas del Sur usuaria del PILARES Santa Lucía",
+        "riesgo_escalamiento": "Medio - Oposición organizada puede escalar a bloqueos o protestas mayores",
+        "tendencia_social": "Reportado por medio de comunicación, proyecto afecta Álvaro Obregón y Magdalena Contreras"
+      }
+    },
+    {
+      "id": "RS-AO-INF-003",
+      "categoria": "Infraestructura y Espacios Públicos",
+      "nivel_alerta": "ALTA",
+      "fuente": "Facebook",
+      "plataforma": "facebook",
+      "usuario": "Pau Cuellar",
+      "fecha": "2025-10-29T16:02:00",
+      "descripcion": "Zona de 3 andadores sin ningún beneficio de alcaldía: sin cambio de drenaje desde instalación original, sin mantenimiento de calles/banquetas, barranca sin revisión de deslaves, parque en ruinas",
+      "url": null,
+      "ubicacion": {
+        "colonia": "Reacomodo Valentín Gómez Farías",
+        "referencia": "Andadores Querétaro, Sinaloa y Tlaxcala sobre Av. Centenario, CP 01569",
+        "coordenadas": {
+          "latitud": 19.342180,
+          "longitud": -99.203460
+        }
+      },
+      "analisis": {
+        "gravedad": "Abandono total de infraestructura básica en zona de 3 andadores con alto riesgo por barranca sin revisión",
+        "impacto_ciudadano": "Drenaje original sin mantenimiento, riesgo de colapso en temblores y lluvias, barranca sin revisión de deslaves",
+        "tiempo_respuesta": "Usuario reporta abandono histórico desde instalación original del drenaje",
+        "poblacion_afectada": "Residentes de Andadores Querétaro, Sinaloa y Tlaxcala, riesgo se extiende a Colonia La Providencia",
+        "riesgo_escalamiento": "Alto - Barranca sin revisión + drenaje sin mantenimiento = riesgo de deslave o colapso",
+        "tendencia_social": "Usuario detalla abandono sistemático de múltiples servicios"
+      }
+    },
+    {
+      "id": "RS-AO-INF-004",
+      "categoria": "Infraestructura y Espacios Públicos",
+      "nivel_alerta": "ALTA",
+      "fuente": "Facebook",
+      "plataforma": "facebook",
+      "usuario": "Graciela Galindo",
+      "fecha": "2025-10-28T13:52:00",
+      "descripcion": "Hospital López Mateos es foco de infección. Vendedores se apoderaron de la calle. Hundimiento peligroso en cuadra siguiente.",
+      "url": null,
+      "ubicacion": {
+        "colonia": "Álvaro Obregón",
+        "referencia": "Hospital Adolfo López Mateos",
+        "coordenadas": {
+          "latitud": 19.362450,
+          "longitud": -99.189320
+        }
+      },
+      "analisis": {
+        "gravedad": "Hospital de alta especialidad con zona exterior convertida en foco de infección y hundimiento no señalizado",
+        "impacto_ciudadano": "Riesgo sanitario para pacientes inmunodeprimidos, dificulta acceso, hundimiento peligroso para peatones",
+        "tiempo_respuesta": "Usuario solicita revisión de zona crítica",
+        "poblacion_afectada": "Pacientes, personal médico y visitantes de hospital de tercer nivel",
+        "riesgo_escalamiento": "Alto - Comercio informal insalubre cerca de hospital + hundimiento sin señalizar",
+        "tendencia_social": "Usuario describe zona como 'foco de infección', difícil de transitar"
+      }
+    },
+    {
+      "id": "RS-AO-ATN-001",
+      "categoria": "Atención Ciudadana",
+      "nivel_alerta": "BAJA",
+      "fuente": "Facebook",
+      "plataforma": "facebook",
+      "usuario": "Guille RuiRo",
+      "fecha": "2025-10-29T14:21:00",
+      "descripcion": "6 meses sin luz en la calle. 'Todo igual, no perdón está peor hoy con este alcalde'",
+      "url": null,
+      "ubicacion": {
+        "colonia": "Álvaro Obregón",
+        "referencia": "Sin ubicación específica",
+        "coordenadas": {
+          "latitud": 19.358740,
+          "longitud": -99.210580
+        }
+      },
+      "analisis": {
+        "gravedad": "Problema crónico de 6 meses evidencia falta de respuesta sistemática",
+        "impacto_ciudadano": "Frustración ciudadana acumulada, percepción de deterioro del servicio",
+        "tiempo_respuesta": "6 meses sin solución",
+        "poblacion_afectada": "Usuario y vecinos de zona sin especificar",
+        "riesgo_escalamiento": "Bajo en términos inmediatos pero refleja deterioro de confianza institucional",
+        "tendencia_social": "Usuario compara negativamente gestión actual con anterior"
+      }
+    },
+    {
+      "id": "RS-AO-SEG-002",
+      "categoria": "Seguridad Pública",
+      "nivel_alerta": "BAJA",
+      "fuente": "Twitter",
+      "plataforma": "twitter",
+      "usuario": "Foot50250788360",
+      "fecha": "2025-10-29T17:14:00",
+      "descripcion": "Modificación ilegal del edificio en Unidad Habitacional Lomas de Plateros",
+      "url": "https://twitter.com/Foot50250788360/status/1983673942037717392",
+      "ubicacion": {
+        "colonia": "Lomas de Plateros",
+        "referencia": "Unidad Habitacional Lomas de Plateros, Edificio G2 Entrada 2 Departamento 1",
+        "coordenadas": {
+          "latitud": 19.357890,
+          "longitud": -99.204730
+        }
+      },
+      "analisis": {
+        "gravedad": "Modificación estructural no autorizada en edificio de unidad habitacional",
+        "impacto_ciudadano": "Riesgo estructural para habitantes del edificio, ilegalidad en modificaciones",
+        "tiempo_respuesta": "Usuario reporta con dirección específica",
+        "poblacion_afectada": "Residentes del Edificio G2 de Lomas de Plateros",
+        "riesgo_escalamiento": "Bajo - Requiere inspección de Prosoc para determinar riesgo estructural",
+        "tendencia_social": "Usuario expresa desconfianza en autoridades llamándolas 'corruptas'"
+      }
+    }
+  ]
+}

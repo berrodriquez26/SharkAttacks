@@ -1,0 +1,2275 @@
+{
+  "_resumen_consolidado": {
+    "total_sucursales": 8,
+    "fecha_consolidacion": "2025-10-30",
+    "comparativa_sucursales": [
+      {
+        "sucursal": "SantaFe",
+        "ubicacion": "Cantina La 20 | Santa Fé, Vasco de Quiroga 3800, Lomas de Santa Fe, Contadero, Cuajimalpa de Morelos, 05109 Ciudad de México, CDMX",
+        "imagen_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5b/af/45/cantina-la-no-20-pedregal.jpg?w=900&h=500&s=1",
+        "coordenadas": {
+          "lat": 19.36095544227016,
+          "lng": -99.27539864907287,
+          "google_maps_url": "https://www.google.com/maps?q=19.36095544227016,-99.27539864907287"
+        },
+        "calificacion_general": 8.8,
+        "nivel_satisfaccion": "muy satisfecho",
+        "total_reviews": 500,
+        "rating_comida": 8.5,
+        "rating_servicio": 9.5,
+        "rating_ambiente": 8.0,
+        "nivel_riesgo": "bajo",
+        "top_fortaleza": "Servicio personalizado y atento",
+        "principal_area_mejora": "Control de temperatura de los alimentos"
+      },
+      {
+        "sucursal": "Satelite",
+        "ubicacion": "Cantina La 20 | Satélite, Cto Centro Comercial 2251-Local R01, Cd. Satélite, 53100 Naucalpan de Juárez, Méx.",
+        "imagen_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/04/e3/67/cantina-20-satelite.jpg?w=1100&h=1100&s=1",
+        "coordenadas": {
+          "lat": 19.50999600242926,
+          "lng": -99.23574397397032,
+          "google_maps_url": "https://www.google.com/maps?q=19.50999600242926,-99.23574397397032"
+        },
+        "calificacion_general": 8.8,
+        "nivel_satisfaccion": "muy satisfecho",
+        "total_reviews": 500,
+        "rating_comida": 8.7,
+        "rating_servicio": 9.2,
+        "rating_ambiente": 8.5,
+        "nivel_riesgo": "bajo",
+        "top_fortaleza": "Excelente servicio personalizado",
+        "principal_area_mejora": "Control del volumen de la música"
+      },
+      {
+        "sucursal": "AntaraPolanco",
+        "ubicacion": "Cantina La 20 | Antara Polanco, Av. Ejército Nacional Mexicano 843-B, Granada, Miguel Hidalgo, 11520 Ciudad de México, CDMX",
+        "imagen_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/77/eb/e9/aqui-en-cantina-la-no.jpg?w=900&h=500&s=1",
+        "coordenadas": {
+          "lat": 19.427030641950942,
+          "lng": -99.19629055999008,
+          "google_maps_url": "https://www.google.com/maps?q=19.427030641950942,-99.19629055999008"
+        },
+        "calificacion_general": 8.7,
+        "nivel_satisfaccion": "muy satisfecho",
+        "total_reviews": 500,
+        "rating_comida": 8.5,
+        "rating_servicio": 9.0,
+        "rating_ambiente": 8.0,
+        "nivel_riesgo": "bajo",
+        "top_fortaleza": "Excelente servicio personalizado",
+        "principal_area_mejora": "Mejorar tiempos de entrega de alimentos"
+      },
+      {
+        "sucursal": "Artz",
+        "ubicacion": "Cantina La 20 | Artz, Periferico Sur 3720, Jardines del Pedregal, Álvaro Obregón, 01900 Ciudad de México, CDMX",
+        "imagen_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5b/af/45/cantina-la-no-20-pedregal.jpg?w=900&h=500&s=1",
+        "coordenadas": {
+          "lat": 19.314039307676452,
+          "lng": -99.21985001818614,
+          "google_maps_url": "https://www.google.com/maps?q=19.314039307676452,-99.21985001818614"
+        },
+        "calificacion_general": 8.7,
+        "nivel_satisfaccion": "satisfecho",
+        "total_reviews": 500,
+        "rating_comida": 8.5,
+        "rating_servicio": 9.0,
+        "rating_ambiente": 8.0,
+        "nivel_riesgo": "bajo",
+        "top_fortaleza": "Excelente servicio al cliente de meseros destacados",
+        "principal_area_mejora": "Reducir tiempos de espera para alimentos"
+      },
+      {
+        "sucursal": "ElAngel",
+        "ubicacion": "Cantina La 20 | El Ángel, Av. P.º de la Reforma 342 PB, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+        "imagen_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/58/f3/ca/el-acceso.jpg?w=900&h=500&s=1",
+        "coordenadas": {
+          "lat": 19.42706426556509,
+          "lng": -99.1674618710202,
+          "google_maps_url": "https://www.google.com/maps?q=19.42706426556509,-99.1674618710202"
+        },
+        "calificacion_general": 8.7,
+        "nivel_satisfaccion": "satisfecho",
+        "total_reviews": 500,
+        "rating_comida": 8.5,
+        "rating_servicio": 9.2,
+        "rating_ambiente": 8.7,
+        "nivel_riesgo": "bajo",
+        "top_fortaleza": "Celebraciones de cumpleaños con luchadores",
+        "principal_area_mejora": "Consistencia en la temperatura de los alimentos"
+      },
+      {
+        "sucursal": "Wtc",
+        "ubicacion": "Cantina La 20 | WTC, Filadelfia 38, Nápoles, Benito Juárez, 03810 Ciudad de México, CDMX",
+        "imagen_url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/b3/e7/6a/de-aqui-somos-cantina.jpg",
+        "coordenadas": {
+          "lat": 19.39316084323843,
+          "lng": -99.17437443030188,
+          "google_maps_url": "https://www.google.com/maps?q=19.39316084323843,-99.17437443030188"
+        },
+        "calificacion_general": 8.7,
+        "nivel_satisfaccion": "muy satisfecho",
+        "total_reviews": 500,
+        "rating_comida": 8.5,
+        "rating_servicio": 9.2,
+        "rating_ambiente": 8.0,
+        "nivel_riesgo": "bajo",
+        "top_fortaleza": "Excelente servicio personalizado",
+        "principal_area_mejora": "Mantenimiento y limpieza de baños"
+      },
+      {
+        "sucursal": "Guadalajara",
+        "ubicacion": "Cantina La 20 | Guadalajara, The landmark Av. Patria 188, Puerta de Hierro Zapopan, 45116 Guadalajara, Jal.",
+        "imagen_url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/cb/30/0f/pantallas-monumentales.jpg",
+        "coordenadas": {
+          "lat": 20.70766806673572,
+          "lng": -103.41249689351338,
+          "google_maps_url": "https://www.google.com/maps?q=20.70766806673572,-103.41249689351338"
+        },
+        "calificacion_general": 8.5,
+        "nivel_satisfaccion": "satisfecho",
+        "total_reviews": 500,
+        "rating_comida": 8.2,
+        "rating_servicio": 9.3,
+        "rating_ambiente": 8.5,
+        "nivel_riesgo": "medio",
+        "top_fortaleza": "Excelente servicio al cliente",
+        "principal_area_mejora": "Mejorar relación precio-calidad"
+      },
+      {
+        "sucursal": "Monterrey",
+        "ubicacion": "Cantina La 20 | Monterrey, NLE MX, Rio Missouri 555, Valle de Santa Engracia, 66220 San Pedro Garza García, N.L.",
+        "imagen_url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/3b/a3/04/la-no-20-cantina.jpg",
+        "coordenadas": {
+          "lat": 25.659007500235578,
+          "lng": -100.35440568583739,
+          "google_maps_url": "https://www.google.com/maps?q=25.659007500235578,-100.35440568583739"
+        },
+        "calificacion_general": 7.9,
+        "nivel_satisfaccion": "satisfecho",
+        "total_reviews": 500,
+        "rating_comida": 8.2,
+        "rating_servicio": 8.5,
+        "rating_ambiente": 8.0,
+        "nivel_riesgo": "medio",
+        "top_fortaleza": "Excelente servicio personalizado de meseros clave",
+        "principal_area_mejora": "Reducir tiempos de espera en servicio"
+      }
+    ],
+    "rankings": {
+      "mejor_calificacion": "SantaFe",
+      "mejor_comida": "Satelite",
+      "mejor_servicio": "SantaFe",
+      "mejor_ambiente": "ElAngel",
+      "mas_reviews": "SantaFe"
+    },
+    "promedios_generales": {
+      "calificacion_general": 8.6,
+      "rating_comida": 8.45,
+      "rating_servicio": 9.11,
+      "rating_ambiente": 8.21,
+      "total_reviews_analizadas": 4000
+    }
+  },
+  "AntaraPolanco": {
+    "food_quality": {
+      "rating_promedio": 8.5,
+      "platos_mas_elogiados": [
+        "Tacos gobernador",
+        "Postre de merengue/mil hojas de crepa",
+        "Picaña",
+        "Milanesa cantinera",
+        "Aguachile"
+      ],
+      "platos_mas_criticados": [
+        "Picaña (servida fría/cruda)",
+        "Sopa de tortilla",
+        "Milanesa cantinera (servida fría)",
+        "Salsas (poco picantes)",
+        "Hamburguesas mini"
+      ],
+      "aspectos_positivos": [
+        "Sabor auténtico mexicano",
+        "Buena presentación de platillos",
+        "Variedad de opciones en el menú",
+        "Postres deliciosos",
+        "Porciones adecuadas"
+      ],
+      "aspectos_negativos": [
+        "Comida servida fría",
+        "Inconsistencia en la cocción de carnes",
+        "Tiempo de espera largo en horas pico",
+        "Salsas poco picantes para algunos clientes",
+        "Algunos platillos insípidos"
+      ],
+      "consistencia": "media",
+      "confianza": 9.0
+    },
+    "service_analysis": {
+      "rating_servicio": 9.0,
+      "empleados_mencionados_positivamente": [
+        {
+          "Mauricio Espinoza": "42 menciones positivas"
+        },
+        {
+          "Marco/Marco Cervantes": "32 menciones positivas"
+        },
+        {
+          "Noé/Noé Hernández": "30 menciones positivas"
+        },
+        {
+          "Alejandro": "29 menciones positivas"
+        },
+        {
+          "Malaquias": "25 menciones positivas"
+        },
+        {
+          "Alfredo": "24 menciones positivas"
+        },
+        {
+          "Oscar": "19 menciones positivas"
+        },
+        {
+          "Daniel": "18 menciones positivas"
+        },
+        {
+          "Uriel": "16 menciones positivas"
+        },
+        {
+          "Francisco": "14 menciones positivas"
+        }
+      ],
+      "empleados_mencionados_negativamente": [
+        {
+          "Daniel": "2 menciones negativas - lentitud y actitud"
+        },
+        {
+          "Pimentel": "1 mención negativa - maltrato a empleados"
+        }
+      ],
+      "aspectos_positivos": [
+        "Personal atento y amable",
+        "Meseros conocedores del menú",
+        "Recomendaciones acertadas",
+        "Atención personalizada",
+        "Celebraciones de cumpleaños memorables con luchadores",
+        "Rápida resolución de problemas"
+      ],
+      "aspectos_negativos": [
+        "Servicio lento en horas pico",
+        "Tiempo de espera largo para la comida en ocasiones",
+        "Demora en traer la cuenta",
+        "Algunos intentos de cobrar más propina de la indicada",
+        "Cambios frecuentes de mesero en algunas mesas"
+      ],
+      "velocidad_servicio": "normal",
+      "confianza": 9.5
+    },
+    "atmosphere_analysis": {
+      "rating_ambiente": 8.0,
+      "limpieza": "buena",
+      "decoracion": "moderna mexicana con elementos tradicionales",
+      "ruido_nivel": "ruidoso",
+      "comodidad": "aceptable",
+      "aspectos_destacados": [
+        "Música en vivo (tríos, bandas)",
+        "Ambiente festivo y animado",
+        "Decoración mexicana moderna",
+        "Show de luchadores para cumpleaños",
+        "Espacio amplio y bien ventilado",
+        "Área para niños los domingos"
+      ],
+      "areas_mejora": [
+        "Nivel de ruido alto que dificulta conversaciones",
+        "Sillas incómodas mencionadas por algunos clientes",
+        "Iluminación muy baja en algunas áreas",
+        "Mesas muy juntas en algunas zonas",
+        "Permitir fumar en áreas donde está prohibido"
+      ],
+      "confianza": 8.5
+    },
+    "price_value_analysis": {
+      "percepcion_precio": "medio-alto",
+      "relacion_calidad_precio": "buena",
+      "menciones_precio": {
+        "positivas": 15,
+        "negativas": 8,
+        "neutras": 12
+      },
+      "confianza": 7.5
+    },
+    "customer_experience": {
+      "rating_experiencia_general": 8.7,
+      "ocasiones_mencionadas": {
+        "cumpleaños": 42,
+        "comida con amigos": 35,
+        "comida familiar": 28,
+        "negocios": 7,
+        "citas románticas": 5,
+        "visita turística": 12
+      },
+      "intencion_regresar": {
+        "definitivamente regresaré": 38,
+        "probablemente regresaré": 12,
+        "no mencionado": 200
+      },
+      "recomendaciones_count": 45,
+      "experiencias_memorables_positivas": [
+        "Celebración de cumpleaños con show de luchadores",
+        "Atención personalizada de meseros específicos",
+        "Detalle de pastel de cumpleaños de cortesía",
+        "Recomendaciones acertadas de platillos por parte del personal",
+        "Experiencia gastronómica mexicana auténtica para turistas"
+      ],
+      "experiencias_memorables_negativas": [
+        "Espera de más de una hora por la comida",
+        "Carne servida cruda o fría",
+        "Problemas con la señal de TV durante eventos deportivos",
+        "Intento de cobro incorrecto en la cuenta",
+        "Permitir fumar en áreas prohibidas"
+      ],
+      "confianza": 8.5
+    },
+    "recurring_issues": {
+      "top_quejas": [
+        {
+          "queja": "Tiempo de espera largo para la comida",
+          "frecuencia": 15,
+          "severidad": "media"
+        },
+        {
+          "queja": "Nivel de ruido alto",
+          "frecuencia": 12,
+          "severidad": "baja"
+        },
+        {
+          "queja": "Comida servida fría",
+          "frecuencia": 8,
+          "severidad": "alta"
+        },
+        {
+          "queja": "Salsas poco picantes",
+          "frecuencia": 6,
+          "severidad": "baja"
+        },
+        {
+          "queja": "Problemas con la cocción de carnes",
+          "frecuencia": 5,
+          "severidad": "alta"
+        }
+      ],
+      "incidentes_graves": [
+        "Intento de cobro incorrecto en la cuenta (cobrar $2,100 en lugar de $1,052)",
+        "Maltrato a empleados por parte de un gerente (Pimentel)",
+        "Permitir fumar en áreas donde está prohibido a pesar de señalización"
+      ],
+      "areas_mejora_prioritarias": [
+        "Mejorar tiempos de entrega de alimentos",
+        "Asegurar temperatura adecuada de los platillos",
+        "Controlar el nivel de ruido para permitir conversaciones",
+        "Capacitar al personal sobre políticas de propinas y cobros",
+        "Hacer cumplir la prohibición de fumar en áreas designadas"
+      ],
+      "nivel_riesgo_reputacional": "bajo",
+      "confianza": 8.0
+    },
+    "competitive_strengths": {
+      "top_fortalezas": [
+        "Excelente servicio personalizado",
+        "Celebraciones de cumpleaños únicas con luchadores",
+        "Amplia variedad de platillos mexicanos auténticos",
+        "Ambiente festivo y animado",
+        "Ubicación privilegiada en Antara Polanco"
+      ],
+      "diferenciadores": [
+        "Show de luchadores para celebraciones de cumpleaños",
+        "Área para niños los domingos",
+        "Música en vivo con opción de pedir canciones",
+        "Mixología creativa con presentaciones únicas",
+        "Brunch de fin de semana con opción de barra libre"
+      ],
+      "palabras_clave_positivas": [
+        "excelente servicio",
+        "atención",
+        "delicioso",
+        "ambiente",
+        "recomendado",
+        "luchadores",
+        "cumpleaños",
+        "atento",
+        "amable",
+        "experiencia"
+      ],
+      "confianza": 9.0
+    },
+    "temporal_trends": {
+      "tendencia_satisfaccion": "estable",
+      "cambios_significativos": [],
+      "estacionalidad": null,
+      "confianza": 5.0
+    },
+    "executive_summary": {
+      "resumen_general": "Cantina La 20 en Antara Polanco destaca por su excelente servicio personalizado, ambiente festivo y celebraciones de cumpleaños memorables con show de luchadores, manteniendo una alta satisfacción general entre sus clientes. La calidad de la comida es buena aunque presenta algunas inconsistencias, principalmente en tiempos de espera y temperatura de los platillos, mientras que el servicio sobresale como su principal fortaleza con un personal atento y amable que logra compensar las áreas de oportunidad.",
+      "calificacion_general": 8.7,
+      "recomendaciones_accion_inmediata": [
+        "Mejorar los tiempos de entrega y la temperatura de los platillos, especialmente en horas pico",
+        "Implementar medidas para reducir el nivel de ruido o crear zonas más tranquilas para conversaciones",
+        "Capacitar al personal sobre el manejo correcto de cuentas y propinas para evitar incidentes",
+        "Hacer cumplir la política de no fumar en áreas designadas",
+        "Revisar la comodidad del mobiliario, especialmente las sillas que han sido mencionadas como incómodas"
+      ],
+      "oportunidades_crecimiento": [
+        "Expandir la oferta de brunch que ha sido bien recibida",
+        "Potenciar la experiencia de celebración de cumpleaños que es altamente valorada",
+        "Mejorar la consistencia en la preparación de cortes de carne",
+        "Desarrollar opciones de salsas más picantes para quienes las prefieren",
+        "Optimizar el sistema de reservaciones que algunos clientes mencionan como difícil de contactar"
+      ],
+      "nivel_satisfaccion_cliente": "muy satisfecho"
+    },
+    "analysis_metadata": {
+      "total_reviews_analizadas": 500,
+      "rango_fechas": "No especificado",
+      "ubicacion": "Cantina La 20 | Antara Polanco, Av. Ejército Nacional Mexicano 843-B, Granada, Miguel Hidalgo, 11520 Ciudad de México, CDMX",
+      "modelo_usado": "claude-3-7-sonnet-20250219",
+      "fecha_analisis": "2025-10-30T11:15:43.184346",
+      "thinking_tokens_used": null,
+      "confianza_global": 8.5,
+      "coordenadas": {
+        "lat": 19.427030641950942,
+        "lng": -99.19629055999008,
+        "google_maps_url": "https://www.google.com/maps?q=19.427030641950942,-99.19629055999008"
+      },
+      "imagen_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/77/eb/e9/aqui-en-cantina-la-no.jpg?w=900&h=500&s=1"
+    }
+  },
+  "Artz": {
+    "food_quality": {
+      "rating_promedio": 8.5,
+      "platos_mas_elogiados": [
+        "Tacos cantineros",
+        "Lengua en pasilla",
+        "Chamorro",
+        "Tuétano con arrachera",
+        "Pastel de mil hojas"
+      ],
+      "platos_mas_criticados": [
+        "Tacos gobernador",
+        "Ensalada César",
+        "Escamoles",
+        "Brisket",
+        "Carne fría"
+      ],
+      "aspectos_positivos": [
+        "Sabor delicioso en general",
+        "Buenas porciones",
+        "Presentación atractiva",
+        "Variedad de platillos",
+        "Calidad de ingredientes"
+      ],
+      "aspectos_negativos": [
+        "Algunos platillos llegan fríos",
+        "Inconsistencia en preparación de ciertos platillos",
+        "Algunos platos salados",
+        "Falta de disponibilidad de ciertos platillos",
+        "Tiempo de espera largo para recibir alimentos"
+      ],
+      "consistencia": "media",
+      "confianza": 9.0
+    },
+    "service_analysis": {
+      "rating_servicio": 9.0,
+      "empleados_mencionados_positivamente": [
+        {
+          "Daniel Barrera": "Mencionado más de 40 veces positivamente por su atención, amabilidad y recomendaciones"
+        },
+        {
+          "Jair": "Mencionado más de 30 veces positivamente por su buen servicio y atención"
+        },
+        {
+          "Fernanda": "Mencionada más de 25 veces positivamente por su servicio y amabilidad"
+        },
+        {
+          "Freddy": "Mencionado más de 20 veces positivamente por su atención"
+        },
+        {
+          "David": "Mencionado más de 20 veces positivamente por su servicio"
+        }
+      ],
+      "empleados_mencionados_negativamente": [
+        {
+          "Capitán sin nombre": "Mencionado por mala actitud hacia meseros"
+        },
+        {
+          "Octavio (gerente)": "Mencionado por gritar a los meseros frente a clientes"
+        }
+      ],
+      "aspectos_positivos": [
+        "Personal atento y amable",
+        "Meseros conocedores del menú",
+        "Recomendaciones acertadas",
+        "Atención personalizada",
+        "Celebraciones de cumpleaños con detalles especiales"
+      ],
+      "aspectos_negativos": [
+        "Servicio lento en horas pico",
+        "Falta de atención del gerente en algunas situaciones",
+        "Demora en tomar órdenes en terraza",
+        "Insistencia en retirar platos antes de terminar",
+        "Tiempo de espera largo para recibir alimentos"
+      ],
+      "velocidad_servicio": "normal",
+      "confianza": 9.5
+    },
+    "atmosphere_analysis": {
+      "rating_ambiente": 8.0,
+      "limpieza": "buena",
+      "decoracion": "mexicana contemporánea",
+      "ruido_nivel": "moderado a ruidoso",
+      "comodidad": "cómodo",
+      "aspectos_destacados": [
+        "Música en vivo",
+        "Ambiente agradable y acogedor",
+        "Buena distribución de espacio",
+        "Ludoteca para niños",
+        "Terraza para fumadores",
+        "Pantallas para eventos deportivos"
+      ],
+      "areas_mejora": [
+        "Volumen de música demasiado alto en ocasiones",
+        "Música de fondo y en vivo simultáneamente causa confusión",
+        "Manteles sucios en algunas mesas",
+        "Mejor selección musical (menos reguetón)"
+      ],
+      "confianza": 8.5
+    },
+    "price_value_analysis": {
+      "percepcion_precio": "caro",
+      "relacion_calidad_precio": "buena",
+      "menciones_precio": {
+        "positivas": 15,
+        "negativas": 25,
+        "neutras": 10
+      },
+      "confianza": 8.0
+    },
+    "customer_experience": {
+      "rating_experiencia_general": 8.7,
+      "ocasiones_mencionadas": {
+        "cumpleaños": 25,
+        "reunión con amigos": 35,
+        "comida familiar": 30,
+        "eventos deportivos": 10,
+        "citas": 5,
+        "negocios": 3
+      },
+      "intencion_regresar": {
+        "positiva": 85,
+        "negativa": 15
+      },
+      "recomendaciones_count": 75,
+      "experiencias_memorables_positivas": [
+        "Celebraciones de cumpleaños con mariachi y pastel",
+        "Preparación de ensalada César en la mesa",
+        "Atención personalizada de meseros destacados",
+        "Deshuesado del chamorro en la mesa",
+        "Experiencia con el mago que visita las mesas"
+      ],
+      "experiencias_memorables_negativas": [
+        "Espera de más de una hora por la comida",
+        "Cobro incorrecto de platillos no ordenados",
+        "Meseros discutiendo con clientes",
+        "Gerente gritando a meseros frente a clientes",
+        "Problemas digestivos después de consumir jugo de carne"
+      ],
+      "confianza": 9.0
+    },
+    "recurring_issues": {
+      "top_quejas": [
+        {
+          "queja": "Tiempo de espera largo para recibir alimentos",
+          "frecuencia": 20,
+          "severidad": "media"
+        },
+        {
+          "queja": "Música demasiado alta",
+          "frecuencia": 15,
+          "severidad": "baja"
+        },
+        {
+          "queja": "Platillos que llegan fríos",
+          "frecuencia": 12,
+          "severidad": "media"
+        },
+        {
+          "queja": "Falta de disponibilidad de platillos del menú",
+          "frecuencia": 10,
+          "severidad": "baja"
+        },
+        {
+          "queja": "Servicio lento en horas pico",
+          "frecuencia": 8,
+          "severidad": "media"
+        }
+      ],
+      "incidentes_graves": [
+        "Problemas digestivos (diarrea y vómito) después de consumir jugo de carne",
+        "Gerente gritando a meseros frente a clientes",
+        "Cobro incorrecto de platillos no ordenados o no consumidos"
+      ],
+      "areas_mejora_prioritarias": [
+        "Reducir tiempos de espera para alimentos",
+        "Mejorar consistencia en la calidad de platillos",
+        "Ajustar niveles de volumen de música",
+        "Mejorar gestión de inventario para evitar falta de platillos",
+        "Capacitación en servicio al cliente para gerentes"
+      ],
+      "nivel_riesgo_reputacional": "bajo",
+      "confianza": 8.5
+    },
+    "competitive_strengths": {
+      "top_fortalezas": [
+        "Excelente servicio al cliente de meseros destacados",
+        "Ambiente agradable con música en vivo",
+        "Platillos distintivos como tuétano con arrachera",
+        "Celebraciones especiales para cumpleaños",
+        "Ludoteca para niños"
+      ],
+      "diferenciadores": [
+        "Preparación de ensalada César en la mesa",
+        "Deshuesado del chamorro en la mesa",
+        "Combinación de cantina tradicional con ambiente contemporáneo",
+        "Área infantil dentro de un concepto de cantina",
+        "Experiencias interactivas como el mago que visita las mesas"
+      ],
+      "palabras_clave_positivas": [
+        "excelente servicio",
+        "atención",
+        "ambiente",
+        "delicioso",
+        "recomendable",
+        "atento",
+        "experiencia",
+        "amable",
+        "volvería"
+      ],
+      "confianza": 9.0
+    },
+    "temporal_trends": {
+      "tendencia_satisfaccion": "estable",
+      "cambios_significativos": [
+        {
+          "cambio": "Incorporación de ludoteca para niños",
+          "impacto": "positivo"
+        },
+        {
+          "cambio": "Cambios en el menú",
+          "impacto": "mixto"
+        }
+      ],
+      "estacionalidad": null,
+      "confianza": 6.0
+    },
+    "executive_summary": {
+      "resumen_general": "Cantina La 20 | Artz destaca por su excelente servicio al cliente, ambiente agradable y platillos distintivos, manteniendo un alto nivel de satisfacción general entre sus clientes. Sin embargo, existen oportunidades de mejora en la consistencia de la calidad de algunos platillos, tiempos de espera para recibir alimentos y manejo del volumen de la música, especialmente durante horas pico.",
+      "calificacion_general": 8.7,
+      "recomendaciones_accion_inmediata": [
+        "Implementar sistema para reducir tiempos de espera de alimentos, especialmente en horas pico",
+        "Establecer controles de calidad más estrictos para asegurar temperatura y sabor consistente en platillos críticos como tacos gobernador",
+        "Capacitar a gerentes en manejo de personal y servicio al cliente para evitar incidentes negativos frente a clientes",
+        "Revisar y ajustar niveles de sonido, especialmente cuando hay música en vivo y música de fondo simultáneamente",
+        "Mejorar sistema de inventario para reducir falta de disponibilidad de platillos del menú"
+      ],
+      "oportunidades_crecimiento": [
+        "Expandir experiencias interactivas como preparación de platillos en mesa",
+        "Potenciar área infantil como diferenciador para atraer más familias",
+        "Desarrollar programa de fidelización basado en meseros destacados",
+        "Crear menú de degustación para aprovechar variedad de platillos bien valorados",
+        "Implementar capacitación continua para estandarizar el nivel de servicio de todo el personal"
+      ],
+      "nivel_satisfaccion_cliente": "satisfecho"
+    },
+    "analysis_metadata": {
+      "total_reviews_analizadas": 500,
+      "rango_fechas": "No especificado",
+      "ubicacion": "Cantina La 20 | Artz, Periferico Sur 3720, Jardines del Pedregal, Álvaro Obregón, 01900 Ciudad de México, CDMX",
+      "modelo_usado": "claude-3-7-sonnet-20250219",
+      "fecha_analisis": "2025-10-30T11:16:33.155508",
+      "thinking_tokens_used": null,
+      "confianza_global": 8.5,
+      "coordenadas": {
+        "lat": 19.314039307676452,
+        "lng": -99.21985001818614,
+        "google_maps_url": "https://www.google.com/maps?q=19.314039307676452,-99.21985001818614"
+      },
+      "imagen_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5b/af/45/cantina-la-no-20-pedregal.jpg?w=900&h=500&s=1"
+    }
+  },
+  "ElAngel": {
+    "food_quality": {
+      "rating_promedio": 8.5,
+      "platos_mas_elogiados": [
+        "Tacos de rib eye con tuétano",
+        "Guacamole con chicharrón de rib eye",
+        "Pulpo a la parrilla",
+        "Chamorro en salsa verde",
+        "Fideos secos"
+      ],
+      "platos_mas_criticados": [
+        "Torta de milanesa",
+        "Quesabirrias (poca carne)",
+        "Tacos fríos",
+        "Gorditas de chicharrón frías",
+        "Picaña sobrecocida"
+      ],
+      "aspectos_positivos": [
+        "Sabor auténtico mexicano",
+        "Buena presentación de platillos",
+        "Porciones generosas en la mayoría de platillos",
+        "Variedad de opciones en el menú",
+        "Calidad de ingredientes"
+      ],
+      "aspectos_negativos": [
+        "Temperatura inadecuada en algunos platillos (fríos)",
+        "Inconsistencia en porciones de algunos platillos",
+        "Tiempo de espera ocasionalmente largo",
+        "Salsas con poco picante para algunos gustos",
+        "Algunos platillos no justifican su precio"
+      ],
+      "consistencia": "media",
+      "confianza": 9.0
+    },
+    "service_analysis": {
+      "rating_servicio": 9.2,
+      "empleados_mencionados_positivamente": [
+        {
+          "Gustavo": "Capitán mencionado 65 veces positivamente, atento y profesional"
+        },
+        {
+          "Oscar": "Mesero mencionado 42 veces positivamente, servicial y con buenas recomendaciones"
+        },
+        {
+          "Fernando": "Mencionado 35 veces positivamente, excelente atención"
+        },
+        {
+          "Diego": "Mencionado 30 veces positivamente, muy atento y servicial"
+        },
+        {
+          "Manuel": "Mencionado 20 veces positivamente, amable y atento"
+        }
+      ],
+      "empleados_mencionados_negativamente": [
+        {
+          "Jonathan": "Mencionado negativamente por mal servicio en la barra"
+        },
+        {
+          "Mesero sin nombre": "Descrito como \"brusco y descuidado\""
+        }
+      ],
+      "aspectos_positivos": [
+        "Personal muy atento y amable",
+        "Recomendaciones acertadas de platillos y bebidas",
+        "Celebraciones de cumpleaños memorables con luchadores",
+        "Rapidez en la mayoría de los casos",
+        "Profesionalismo y conocimiento del menú"
+      ],
+      "aspectos_negativos": [
+        "Algunos meseros ausentes en momentos clave",
+        "Presión por propina en algunos casos",
+        "Servicio ocasionalmente lento en horas pico",
+        "Algunos meseros insistentes/invasivos",
+        "Inconsistencia entre diferentes miembros del personal"
+      ],
+      "velocidad_servicio": "normal",
+      "confianza": 9.5
+    },
+    "atmosphere_analysis": {
+      "rating_ambiente": 8.7,
+      "limpieza": "buena",
+      "decoracion": "Elegante con temática mexicana y lucha libre",
+      "ruido_nivel": "moderado",
+      "comodidad": "cómodo",
+      "aspectos_destacados": [
+        "Vista al Ángel de la Independencia",
+        "Música en vivo ocasional",
+        "Decoración temática mexicana",
+        "Ambiente festivo para celebraciones",
+        "Espacio bien distribuido"
+      ],
+      "areas_mejora": [
+        "Mantenimiento de baños",
+        "Volumen de música inconsistente",
+        "Mejor mantenimiento general del local",
+        "Mayor espacio entre mesas"
+      ],
+      "confianza": 8.5
+    },
+    "price_value_analysis": {
+      "percepcion_precio": "caro",
+      "relacion_calidad_precio": "buena",
+      "menciones_precio": {
+        "positivas": 28,
+        "negativas": 22,
+        "neutras": 15
+      },
+      "confianza": 8.0
+    },
+    "customer_experience": {
+      "rating_experiencia_general": 8.8,
+      "ocasiones_mencionadas": {
+        "Cumpleaños": 42,
+        "Cena con amigos": 25,
+        "Cita romántica": 15,
+        "Reunión familiar": 18,
+        "Reunión de trabajo": 10,
+        "Turismo": 22
+      },
+      "intencion_regresar": {
+        "positiva": 85,
+        "negativa": 10,
+        "neutral": 5
+      },
+      "recomendaciones_count": 78,
+      "experiencias_memorables_positivas": [
+        "Celebración de cumpleaños con luchadores y máscaras",
+        "Show de mariachis personalizado",
+        "Atención personalizada de capitanes y meseros",
+        "Experiencia de degustación de tequila y mezcal",
+        "Sorpresas de pastel para celebraciones"
+      ],
+      "experiencias_memorables_negativas": [
+        "Espera prolongada por la comida",
+        "Meseros que presionan por propina",
+        "Cobros incorrectos en la cuenta",
+        "Problemas con el valet parking",
+        "Platillos fríos o mal preparados"
+      ],
+      "confianza": 9.0
+    },
+    "recurring_issues": {
+      "top_quejas": [
+        {
+          "queja": "Comida fría",
+          "frecuencia": 15,
+          "severidad": "media"
+        },
+        {
+          "queja": "Servicio lento",
+          "frecuencia": 12,
+          "severidad": "media"
+        },
+        {
+          "queja": "Presión por propina",
+          "frecuencia": 8,
+          "severidad": "media"
+        },
+        {
+          "queja": "Problemas con valet parking",
+          "frecuencia": 5,
+          "severidad": "baja"
+        },
+        {
+          "queja": "Ruido excesivo",
+          "frecuencia": 7,
+          "severidad": "baja"
+        }
+      ],
+      "incidentes_graves": [
+        "Cobros incorrectos en la cuenta",
+        "Pérdida de pertenencias de cliente",
+        "Negativa a aceptar auto Tesla en valet parking"
+      ],
+      "areas_mejora_prioritarias": [
+        "Consistencia en la temperatura de los alimentos",
+        "Entrenamiento sobre manejo de propinas",
+        "Mejora del sistema de valet parking",
+        "Mantenimiento de instalaciones (especialmente baños)",
+        "Mejor supervisión de cuentas y cobros"
+      ],
+      "nivel_riesgo_reputacional": "bajo",
+      "confianza": 8.0
+    },
+    "competitive_strengths": {
+      "top_fortalezas": [
+        "Celebraciones de cumpleaños con luchadores",
+        "Excelente servicio personalizado",
+        "Ubicación privilegiada frente al Ángel de la Independencia",
+        "Coctelería creativa y de calidad",
+        "Ambiente que combina elegancia y tradición mexicana"
+      ],
+      "diferenciadores": [
+        "Show temático de lucha libre para celebraciones",
+        "Experiencia de degustación de tequila y mezcal",
+        "Vista al Ángel de la Independencia",
+        "Combinación de cantina tradicional con toques modernos",
+        "Personal altamente capacitado y atento"
+      ],
+      "palabras_clave_positivas": [
+        "excelente servicio",
+        "atención",
+        "delicioso",
+        "ambiente",
+        "celebración",
+        "recomendado",
+        "experiencia",
+        "luchadores",
+        "vista",
+        "coctelería"
+      ],
+      "confianza": 9.0
+    },
+    "temporal_trends": {
+      "tendencia_satisfaccion": "estable",
+      "cambios_significativos": [
+        {
+          "cambio": "No se detectan cambios significativos en la calidad del servicio o comida",
+          "periodo": "No aplicable"
+        }
+      ],
+      "estacionalidad": null,
+      "confianza": 6.0
+    },
+    "executive_summary": {
+      "resumen_general": "Cantina La 20 | El Ángel destaca por su excelente servicio personalizado, celebraciones memorables con temática de lucha libre y una ubicación privilegiada frente al Ángel de la Independencia, aunque presenta oportunidades de mejora en la consistencia de la temperatura de los alimentos y algunos aspectos del servicio como el manejo de propinas y el sistema de valet parking.",
+      "calificacion_general": 8.7,
+      "recomendaciones_accion_inmediata": [
+        "Implementar un sistema de control de temperatura para asegurar que los platillos lleguen calientes a la mesa",
+        "Estandarizar el protocolo de propinas para evitar presión a los clientes",
+        "Mejorar el sistema de valet parking, incluyendo capacitación para vehículos modernos como Tesla",
+        "Realizar mantenimiento a las instalaciones, especialmente los baños",
+        "Reforzar la supervisión de cuentas para evitar cobros incorrectos"
+      ],
+      "oportunidades_crecimiento": [
+        "Expandir la experiencia de degustación de tequila y mezcal como diferenciador",
+        "Potenciar más la temática de lucha libre como elemento distintivo",
+        "Desarrollar menús especiales para celebraciones",
+        "Mejorar la oferta de platillos vegetarianos y opciones saludables",
+        "Implementar un programa de fidelización para clientes frecuentes"
+      ],
+      "nivel_satisfaccion_cliente": "satisfecho"
+    },
+    "analysis_metadata": {
+      "total_reviews_analizadas": 500,
+      "rango_fechas": "No especificado",
+      "ubicacion": "Cantina La 20 | El Ángel, Av. P.º de la Reforma 342 PB, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+      "modelo_usado": "claude-3-7-sonnet-20250219",
+      "fecha_analisis": "2025-10-30T11:17:16.044093",
+      "thinking_tokens_used": null,
+      "confianza_global": 8.5,
+      "coordenadas": {
+        "lat": 19.42706426556509,
+        "lng": -99.1674618710202,
+        "google_maps_url": "https://www.google.com/maps?q=19.42706426556509,-99.1674618710202"
+      },
+      "imagen_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/58/f3/ca/el-acceso.jpg?w=900&h=500&s=1"
+    }
+  },
+  "Guadalajara": {
+    "food_quality": {
+      "rating_promedio": 8.2,
+      "platos_mas_elogiados": [
+        "Tacos gobernador",
+        "Tacos de rib eye con tuétano",
+        "Cheesecake de guayaba",
+        "Torreznos (chicharrón de porkbelly)",
+        "Aguachile de rib eye"
+      ],
+      "platos_mas_criticados": [
+        "Tortillas frías/tiesas",
+        "Frijoles (mencionados como rancios/quemados)",
+        "Papas",
+        "Salsas (insípidas)",
+        "Postres (presentación y sabor)"
+      ],
+      "aspectos_positivos": [
+        "Sabor auténtico mexicano",
+        "Buena presentación de platillos",
+        "Variedad en el menú",
+        "Coctelería creativa y de calidad",
+        "Ingredientes de calidad (como el chicharrón de la Ramos)"
+      ],
+      "aspectos_negativos": [
+        "Inconsistencia en la temperatura de los alimentos",
+        "Tortillas frías o tiesas",
+        "Algunos platillos considerados simples para el precio",
+        "Falta de opciones para personas con restricciones alimenticias (diabéticos)",
+        "Porciones pequeñas en algunos platillos"
+      ],
+      "consistencia": "media",
+      "confianza": 9.0
+    },
+    "service_analysis": {
+      "rating_servicio": 9.3,
+      "empleados_mencionados_positivamente": [
+        {
+          "Christian/Cristian": "Mencionado más de 40 veces por su excelente servicio y atención"
+        },
+        {
+          "Areli/Arely": "Mencionada más de 20 veces por su amabilidad y recomendaciones"
+        },
+        {
+          "Carlos García": "Mencionado más de 15 veces por su atención y servicio"
+        },
+        {
+          "Iván": "Mencionado más de 15 veces por su buen servicio"
+        },
+        {
+          "Lalo": "Mencionado más de 10 veces por su atención y amabilidad"
+        }
+      ],
+      "empleados_mencionados_negativamente": [
+        {
+          "Hostess sin nombre": "Mencionada por ignorar a un cliente y actitud déspota"
+        },
+        {
+          "Arturo (gerente)": "Mencionado por gritar a una empleada frente a clientes"
+        },
+        {
+          "Mesero sin nombre": "Mencionado por presionar por propina más alta"
+        }
+      ],
+      "aspectos_positivos": [
+        "Meseros atentos y amables",
+        "Personal conocedor del menú y bebidas",
+        "Recomendaciones acertadas de platillos",
+        "Rapidez en el servicio",
+        "Atención personalizada"
+      ],
+      "aspectos_negativos": [
+        "Presión por consumir más o dejar mayor propina",
+        "Algunos meseros desconocen detalles de la carta",
+        "Hostess con actitud poco amable en algunos casos",
+        "Demora en entregar la cuenta",
+        "Insistencia excesiva de vendedores de experiencias (mariachi, mago)"
+      ],
+      "velocidad_servicio": "rápido",
+      "confianza": 9.5
+    },
+    "atmosphere_analysis": {
+      "rating_ambiente": 8.5,
+      "limpieza": "buena",
+      "decoracion": "moderna con toques mexicanos",
+      "ruido_nivel": "moderado a ruidoso",
+      "comodidad": "cómodo",
+      "aspectos_destacados": [
+        "Música en vivo (mariachi y DJ)",
+        "Decoración mexicana moderna",
+        "Ambiente festivo y animado",
+        "Terraza disponible",
+        "Pantallas para eventos deportivos"
+      ],
+      "areas_mejora": [
+        "Volumen de música demasiado alto",
+        "Mejor ventilación en zona de fumadores",
+        "Menos interrupciones durante la comida (mariachi, mago)",
+        "Decoración de temporada más acorde al concepto del restaurante"
+      ],
+      "confianza": 8.5
+    },
+    "price_value_analysis": {
+      "percepcion_precio": "caro",
+      "relacion_calidad_precio": "regular",
+      "menciones_precio": {
+        "positivas": 12,
+        "negativas": 25,
+        "neutras": 8
+      },
+      "confianza": 8.0
+    },
+    "customer_experience": {
+      "rating_experiencia_general": 8.7,
+      "ocasiones_mencionadas": {
+        "cenas con amigos": 35,
+        "celebraciones/cumpleaños": 18,
+        "eventos deportivos": 12,
+        "cenas románticas": 8,
+        "eventos empresariales": 7,
+        "reuniones familiares": 15
+      },
+      "intencion_regresar": {
+        "definitivamente": 45,
+        "probablemente": 15,
+        "no regresaría": 8
+      },
+      "recomendaciones_count": 52,
+      "experiencias_memorables_positivas": [
+        "Show de magia por Alex Pasión",
+        "Mariachi en vivo",
+        "Atención personalizada de meseros específicos",
+        "Celebraciones de cumpleaños",
+        "Experiencia de Año Nuevo"
+      ],
+      "experiencias_memorables_negativas": [
+        "Gerente gritando a empleada frente a clientes",
+        "Presión por propina más alta",
+        "Comida recalentada o fría",
+        "Falta de opciones para personas con restricciones alimenticias",
+        "Insistencia excesiva de vendedores de experiencias"
+      ],
+      "confianza": 9.0
+    },
+    "recurring_issues": {
+      "top_quejas": [
+        {
+          "queja": "Música demasiado alta",
+          "frecuencia": 15,
+          "severidad": "media"
+        },
+        {
+          "queja": "Relación precio-calidad desfavorable",
+          "frecuencia": 25,
+          "severidad": "media"
+        },
+        {
+          "queja": "Tortillas frías o tiesas",
+          "frecuencia": 8,
+          "severidad": "baja"
+        },
+        {
+          "queja": "Presión por propina",
+          "frecuencia": 5,
+          "severidad": "alta"
+        },
+        {
+          "queja": "Interrupciones constantes durante la comida",
+          "frecuencia": 10,
+          "severidad": "media"
+        }
+      ],
+      "incidentes_graves": [
+        "Gerente gritando a empleada frente a clientes",
+        "Mesero presionando por propina más alta",
+        "Hostess ignorando y siendo déspota con cliente"
+      ],
+      "areas_mejora_prioritarias": [
+        "Mejorar relación precio-calidad",
+        "Capacitar al personal sobre trato respetuoso",
+        "Ajustar volumen de música",
+        "Mejorar consistencia en la temperatura de alimentos",
+        "Crear protocolo para vendedores de experiencias"
+      ],
+      "nivel_riesgo_reputacional": "medio",
+      "confianza": 8.0
+    },
+    "competitive_strengths": {
+      "top_fortalezas": [
+        "Excelente servicio al cliente",
+        "Ambiente festivo y animado",
+        "Coctelería creativa y de calidad",
+        "Ubicación privilegiada",
+        "Entretenimiento en vivo (mariachi, DJ, mago)"
+      ],
+      "diferenciadores": [
+        "Concepto de cantina moderna/refinada",
+        "Combinación de tradición mexicana con ambiente contemporáneo",
+        "Experiencias adicionales como show de magia y mariachi",
+        "Atención personalizada de meseros",
+        "Espacio amplio y cómodo"
+      ],
+      "palabras_clave_positivas": [
+        "excelente servicio",
+        "ambiente",
+        "atención",
+        "delicioso",
+        "recomendado",
+        "mariachi",
+        "experiencia"
+      ],
+      "confianza": 9.0
+    },
+    "temporal_trends": {
+      "tendencia_satisfaccion": "estable",
+      "cambios_significativos": [],
+      "estacionalidad": "Eventos especiales como Año Nuevo tienen buena recepción",
+      "confianza": 6.0
+    },
+    "executive_summary": {
+      "resumen_general": "Cantina La 20 destaca por su excelente servicio al cliente y ambiente festivo, con un equipo de meseros altamente valorados por los clientes, aunque enfrenta desafíos en la relación precio-calidad y algunos aspectos de consistencia en los alimentos. El restaurante ha logrado posicionarse como un espacio moderno que combina la tradición mexicana con un concepto contemporáneo, ofreciendo experiencias adicionales como mariachi y shows de magia que complementan la experiencia gastronómica.",
+      "calificacion_general": 8.5,
+      "recomendaciones_accion_inmediata": [
+        "Revisar la relación precio-calidad de los platillos más criticados",
+        "Implementar un protocolo para regular las interrupciones de vendedores de experiencias durante las comidas",
+        "Capacitar al personal sobre políticas de propina y trato respetuoso",
+        "Mejorar la consistencia en la temperatura de los alimentos, especialmente las tortillas",
+        "Desarrollar opciones para comensales con restricciones alimenticias"
+      ],
+      "oportunidades_crecimiento": [
+        "Crear menús especiales para eventos y celebraciones",
+        "Desarrollar una línea de coctelería exclusiva como diferenciador",
+        "Implementar un programa de fidelización basado en los meseros mejor valorados",
+        "Optimizar la experiencia para eventos deportivos",
+        "Expandir opciones de menú para diferentes restricciones alimenticias"
+      ],
+      "nivel_satisfaccion_cliente": "satisfecho"
+    },
+    "analysis_metadata": {
+      "total_reviews_analizadas": 500,
+      "rango_fechas": "No especificado",
+      "ubicacion": "Cantina La 20 | Guadalajara, The landmark Av. Patria 188, Puerta de Hierro Zapopan, 45116 Guadalajara, Jal.",
+      "modelo_usado": "claude-3-7-sonnet-20250219",
+      "fecha_analisis": "2025-10-30T11:18:05.344139",
+      "thinking_tokens_used": null,
+      "confianza_global": 8.5,
+      "coordenadas": {
+        "lat": 20.70766806673572,
+        "lng": -103.41249689351338,
+        "google_maps_url": "https://www.google.com/maps?q=20.70766806673572,-103.41249689351338"
+      },
+      "imagen_url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/cb/30/0f/pantallas-monumentales.jpg"
+    }
+  },
+  "Monterrey": {
+    "food_quality": {
+      "rating_promedio": 8.2,
+      "platos_mas_elogiados": [
+        "Tacos gobernador",
+        "Chicharrón de rib eye",
+        "Sopa de tortilla",
+        "Quesabirrias",
+        "Camarones enchipotlados"
+      ],
+      "platos_mas_criticados": [
+        "Picaña (término incorrecto)",
+        "Tacos de rib eye (secos/insípidos)",
+        "Ensalada César",
+        "Pasta para niños",
+        "Carne tártara"
+      ],
+      "aspectos_positivos": [
+        "Buena presentación de platillos",
+        "Ingredientes de calidad",
+        "Sabores auténticos mexicanos",
+        "Porciones generosas",
+        "Variedad en el menú"
+      ],
+      "aspectos_negativos": [
+        "Inconsistencia en términos de cocción de carnes",
+        "Comida fría en ocasiones",
+        "Falta de sabor en algunos platillos",
+        "Tiempos de espera largos para recibir alimentos",
+        "Calidad variable según la hora/día"
+      ],
+      "consistencia": "media",
+      "confianza": 9.0
+    },
+    "service_analysis": {
+      "rating_servicio": 8.5,
+      "empleados_mencionados_positivamente": [
+        {
+          "Mario": "mesero/capitán con 78 menciones positivas"
+        },
+        {
+          "Lupita/Guadalupe": "mesera con 32 menciones positivas"
+        },
+        {
+          "Osvaldo": "capitán/mesero con 25 menciones positivas"
+        },
+        {
+          "Jesús": "mesero con 22 menciones positivas"
+        },
+        {
+          "Maribel": "mesera con 20 menciones positivas"
+        }
+      ],
+      "empleados_mencionados_negativamente": [
+        {
+          "Osvaldo": "capitán, comportamiento grosero en una ocasión"
+        },
+        {
+          "Maribe": "exigió propina mínima del 10%"
+        },
+        {
+          "Naranjo": "capitán, descrito como grosero en una ocasión"
+        }
+      ],
+      "aspectos_positivos": [
+        "Personal atento y amable",
+        "Meseros conocedores del menú",
+        "Buenas recomendaciones de platillos",
+        "Atención personalizada",
+        "Servicio para ocasiones especiales (cumpleaños)"
+      ],
+      "aspectos_negativos": [
+        "Tiempos de espera prolongados",
+        "Falta de personal en horas pico",
+        "Inconsistencia en la calidad de atención",
+        "Errores en las cuentas",
+        "Presión por propinas"
+      ],
+      "velocidad_servicio": "lento",
+      "confianza": 9.5
+    },
+    "atmosphere_analysis": {
+      "rating_ambiente": 8.0,
+      "limpieza": "buena",
+      "decoracion": "mexicana moderna elegante",
+      "ruido_nivel": "ruidoso",
+      "comodidad": "cómodo",
+      "aspectos_destacados": [
+        "Decoración mexicana moderna",
+        "Música en vivo (mariachi, norteño)",
+        "Pantallas para eventos deportivos",
+        "Terraza exterior",
+        "Ambiente festivo"
+      ],
+      "areas_mejora": [
+        "Volumen de música demasiado alto",
+        "Aire acondicionado insuficiente",
+        "Baños en mal estado",
+        "Mobiliario desgastado",
+        "Humo de cigarro en terraza"
+      ],
+      "confianza": 8.5
+    },
+    "price_value_analysis": {
+      "percepcion_precio": "caro",
+      "relacion_calidad_precio": "regular",
+      "menciones_precio": {
+        "positivas": 12,
+        "negativas": 25,
+        "neutras": 8
+      },
+      "confianza": 7.5
+    },
+    "customer_experience": {
+      "rating_experiencia_general": 7.8,
+      "ocasiones_mencionadas": {
+        "celebraciones": 28,
+        "cenas_familiares": 22,
+        "reuniones_amigos": 18,
+        "citas_románticas": 7,
+        "negocios": 5
+      },
+      "intencion_regresar": {
+        "positiva": 42,
+        "negativa": 15,
+        "neutral": 8
+      },
+      "recomendaciones_count": 38,
+      "experiencias_memorables_positivas": [
+        "Celebraciones de cumpleaños con postre y música",
+        "Atención personalizada de meseros destacados",
+        "Espectáculos de magia en mesa",
+        "Música en vivo (mariachi, norteño)",
+        "Recomendaciones acertadas de platillos por parte del personal"
+      ],
+      "experiencias_memorables_negativas": [
+        "Esperas excesivas para ser atendidos",
+        "Comida fría o mal preparada",
+        "Discriminación percibida",
+        "Errores en cuentas",
+        "Exigencia de propina mínima"
+      ],
+      "confianza": 8.0
+    },
+    "recurring_issues": {
+      "top_quejas": [
+        {
+          "queja": "Tiempos de espera largos",
+          "frecuencia": 45,
+          "severidad": "alta"
+        },
+        {
+          "queja": "Aire acondicionado insuficiente",
+          "frecuencia": 12,
+          "severidad": "media"
+        },
+        {
+          "queja": "Comida fría",
+          "frecuencia": 10,
+          "severidad": "alta"
+        },
+        {
+          "queja": "Errores en cuentas",
+          "frecuencia": 8,
+          "severidad": "media"
+        },
+        {
+          "queja": "Música demasiado alta",
+          "frecuencia": 7,
+          "severidad": "media"
+        }
+      ],
+      "incidentes_graves": [
+        "Caso de discriminación racial percibida",
+        "Exigencia de propina mínima",
+        "Evento de fiesta mexicana mal organizado",
+        "Comida cruda o en mal estado"
+      ],
+      "areas_mejora_prioritarias": [
+        "Reducir tiempos de espera en servicio",
+        "Mejorar sistema de aire acondicionado",
+        "Garantizar temperatura adecuada de alimentos",
+        "Revisar y mejorar estado de baños",
+        "Capacitación en servicio al cliente consistente"
+      ],
+      "nivel_riesgo_reputacional": "medio",
+      "confianza": 8.5
+    },
+    "competitive_strengths": {
+      "top_fortalezas": [
+        "Excelente servicio personalizado de meseros clave",
+        "Ambiente mexicano moderno y elegante",
+        "Coctelería y bebidas de calidad",
+        "Entretenimiento en vivo (mariachi, música, magos)",
+        "Ubicación privilegiada con buenas vistas"
+      ],
+      "diferenciadores": [
+        "Fusión de cantina tradicional con ambiente moderno",
+        "Experiencia completa: comida, bebida y entretenimiento",
+        "Personal destacado que crea experiencias memorables",
+        "Decoración mexicana contemporánea",
+        "Versatilidad para diferentes ocasiones"
+      ],
+      "palabras_clave_positivas": [
+        "excelente",
+        "atención",
+        "servicio",
+        "ambiente",
+        "delicioso",
+        "recomendable",
+        "experiencia",
+        "atento",
+        "música",
+        "calidad"
+      ],
+      "confianza": 8.0
+    },
+    "temporal_trends": {
+      "tendencia_satisfaccion": "estable",
+      "cambios_significativos": [],
+      "estacionalidad": null,
+      "confianza": 6.0
+    },
+    "executive_summary": {
+      "resumen_general": "Cantina La 20 en Monterrey destaca por su ambiente mexicano moderno y un servicio personalizado de alta calidad por parte de meseros clave como Mario y Lupita, aunque enfrenta desafíos importantes en tiempos de espera, consistencia en la preparación de alimentos y control de temperatura. La experiencia general es positiva con una fuerte lealtad de clientes, pero existen áreas de mejora críticas que, de ser atendidas, podrían elevar significativamente la satisfacción del cliente.",
+      "calificacion_general": 7.9,
+      "recomendaciones_accion_inmediata": [
+        "Optimizar procesos para reducir tiempos de espera en cocina y servicio",
+        "Mejorar sistema de aire acondicionado y ventilación",
+        "Implementar controles de calidad para garantizar temperatura y cocción adecuada de alimentos",
+        "Renovar mobiliario desgastado y mejorar condiciones de baños",
+        "Capacitar a todo el personal para igualar el nivel de servicio de los meseros destacados"
+      ],
+      "oportunidades_crecimiento": [
+        "Desarrollar programa de fidelización basado en meseros destacados",
+        "Expandir oferta de eventos especiales con entretenimiento en vivo",
+        "Mejorar menú infantil según feedback negativo",
+        "Optimizar acústica para permitir conversación sin sacrificar ambiente",
+        "Implementar sistema de seguimiento de satisfacción en tiempo real"
+      ],
+      "nivel_satisfaccion_cliente": "satisfecho"
+    },
+    "analysis_metadata": {
+      "total_reviews_analizadas": 500,
+      "rango_fechas": "No especificado",
+      "ubicacion": "Cantina La 20 | Monterrey, NLE MX, Rio Missouri 555, Valle de Santa Engracia, 66220 San Pedro Garza García, N.L.",
+      "modelo_usado": "claude-3-7-sonnet-20250219",
+      "fecha_analisis": "2025-10-30T11:18:51.957392",
+      "thinking_tokens_used": null,
+      "confianza_global": 8.0,
+      "coordenadas": {
+        "lat": 25.659007500235578,
+        "lng": -100.35440568583739,
+        "google_maps_url": "https://www.google.com/maps?q=25.659007500235578,-100.35440568583739"
+      },
+      "imagen_url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/3b/a3/04/la-no-20-cantina.jpg"
+    }
+  },
+  "SantaFe": {
+    "food_quality": {
+      "rating_promedio": 8.5,
+      "platos_mas_elogiados": [
+        "Tacos de Rib Eye con tuétano",
+        "Chicharrón de cachete en salsa verde",
+        "Chile en nogada",
+        "Pastel de chocolate",
+        "Cheesecake de guayaba"
+      ],
+      "platos_mas_criticados": [
+        "Tacos de Ribeye (algunos mencionan que parecen de bistec)",
+        "Milanesa (mencionada como dura en una ocasión)",
+        "Chicharrón de la Ramos (porción pequeña)",
+        "Comida fría en algunos casos",
+        "Salsas (falta de picante)"
+      ],
+      "aspectos_positivos": [
+        "Sabor auténtico mexicano",
+        "Buena presentación de platillos",
+        "Porciones generosas en general",
+        "Frescura de ingredientes",
+        "Variedad en el menú",
+        "Excelente mixología y cócteles"
+      ],
+      "aspectos_negativos": [
+        "Inconsistencia en la temperatura de algunos platillos",
+        "Algunas porciones pequeñas para el precio",
+        "Falta de opciones más picantes en salsas",
+        "Ocasionalmente comida fría",
+        "Algunas críticas sobre dureza de la carne"
+      ],
+      "consistencia": "alta",
+      "confianza": 9.0
+    },
+    "service_analysis": {
+      "rating_servicio": 9.5,
+      "empleados_mencionados_positivamente": [
+        {
+          "Javier Castellanos": "Mencionado más de 50 veces con excelentes comentarios"
+        },
+        {
+          "Marco": "Capitán, mencionado más de 30 veces positivamente"
+        },
+        {
+          "Pablo": "Mencionado más de 25 veces con excelentes comentarios"
+        },
+        {
+          "Monserrat/Montse": "Mencionada más de 20 veces positivamente"
+        },
+        {
+          "Cirilo": "Mencionado más de 15 veces positivamente"
+        },
+        {
+          "Diego": "Mencionado más de 15 veces positivamente"
+        },
+        {
+          "Alfredo": "Mencionado más de 10 veces positivamente"
+        },
+        {
+          "Emilio": "Mencionado más de 10 veces positivamente"
+        }
+      ],
+      "empleados_mencionados_negativamente": [],
+      "aspectos_positivos": [
+        "Atención personalizada y constante",
+        "Conocimiento del menú y buenas recomendaciones",
+        "Amabilidad y cortesía del personal",
+        "Rapidez en general",
+        "Atención a detalles y necesidades especiales",
+        "Celebraciones de cumpleaños memorables"
+      ],
+      "aspectos_negativos": [
+        "Ocasionalmente servicio lento en mesas grandes",
+        "Algunos momentos donde los meseros desaparecen",
+        "Demoras en servir bebidas como café",
+        "Falta de seguimiento en algunos pedidos específicos"
+      ],
+      "velocidad_servicio": "rápido",
+      "confianza": 9.5
+    },
+    "atmosphere_analysis": {
+      "rating_ambiente": 8.0,
+      "limpieza": "buena",
+      "decoracion": "elegante con toques tradicionales mexicanos",
+      "ruido_nivel": "moderado",
+      "comodidad": "cómodo",
+      "aspectos_destacados": [
+        "Música en vivo (mariachi, marimba)",
+        "Ambiente festivo pero elegante",
+        "Buena iluminación aunque algunos mencionan que es tenue",
+        "Área para niños (ludoteca)",
+        "Espacio adecuado entre mesas",
+        "Magos que entretienen a los comensales"
+      ],
+      "areas_mejora": [
+        "Mantenimiento de mobiliario (sillas y sillones)",
+        "Limpieza de baños",
+        "Nivel de ruido en ocasiones alto",
+        "Iluminación demasiado tenue para algunos",
+        "Algunos platos sin el serigrafiado del nombre"
+      ],
+      "confianza": 8.5
+    },
+    "price_value_analysis": {
+      "percepcion_precio": "medio-alto",
+      "relacion_calidad_precio": "buena",
+      "menciones_precio": {
+        "positivas": 35,
+        "negativas": 12,
+        "neutras": 15
+      },
+      "confianza": 8.0
+    },
+    "customer_experience": {
+      "rating_experiencia_general": 9.0,
+      "ocasiones_mencionadas": {
+        "cumpleaños": 25,
+        "reunión con amigos": 30,
+        "comida familiar": 35,
+        "reunión de trabajo": 15,
+        "celebraciones especiales": 20
+      },
+      "intencion_regresar": {
+        "afirmativa": 65,
+        "negativa": 3,
+        "no mencionada": 32
+      },
+      "recomendaciones_count": 58,
+      "experiencias_memorables_positivas": [
+        "Celebraciones de cumpleaños con máscaras de lucha libre y música",
+        "Atención personalizada de meseros que recuerdan a clientes frecuentes",
+        "Experiencias con magos que entretienen a los comensales",
+        "Recomendaciones acertadas de platillos por parte del personal",
+        "Ludoteca para niños que permite a los padres disfrutar"
+      ],
+      "experiencias_memorables_negativas": [
+        "Comida fría que tuvo que ser recalentada",
+        "Falta de opciones de cerveza sin alcohol",
+        "Vinos de la carta no disponibles",
+        "Música demasiado alta que impide la conversación"
+      ],
+      "confianza": 9.0
+    },
+    "recurring_issues": {
+      "top_quejas": [
+        {
+          "queja": "Comida fría",
+          "frecuencia": 5,
+          "severidad": "media"
+        },
+        {
+          "queja": "Música demasiado alta",
+          "frecuencia": 4,
+          "severidad": "baja"
+        },
+        {
+          "queja": "Porciones pequeñas para el precio",
+          "frecuencia": 6,
+          "severidad": "baja"
+        },
+        {
+          "queja": "Falta de mantenimiento en mobiliario",
+          "frecuencia": 7,
+          "severidad": "baja"
+        },
+        {
+          "queja": "Limpieza de baños",
+          "frecuencia": 3,
+          "severidad": "media"
+        }
+      ],
+      "incidentes_graves": [
+        "Vaso con marcas de lápiz labial (usado)",
+        "Falta de agua en baños"
+      ],
+      "areas_mejora_prioritarias": [
+        "Control de temperatura de los alimentos",
+        "Mantenimiento de mobiliario",
+        "Limpieza de baños",
+        "Disponibilidad de productos en carta (vinos, cervezas)",
+        "Nivel de música adecuado para conversación"
+      ],
+      "nivel_riesgo_reputacional": "bajo",
+      "confianza": 8.5
+    },
+    "competitive_strengths": {
+      "top_fortalezas": [
+        "Servicio personalizado y atento",
+        "Calidad y sabor de la comida mexicana",
+        "Ambiente festivo pero elegante",
+        "Mixología y variedad de bebidas",
+        "Experiencias memorables (celebraciones, música en vivo, magos)"
+      ],
+      "diferenciadores": [
+        "Ludoteca para niños",
+        "Celebraciones de cumpleaños con máscaras de lucha libre",
+        "Magos que entretienen a los comensales",
+        "Platillos tradicionales mexicanos con presentación gourmet",
+        "Personal que recuerda a clientes frecuentes"
+      ],
+      "palabras_clave_positivas": [
+        "excelente servicio",
+        "delicioso",
+        "atención",
+        "amabilidad",
+        "recomendable",
+        "ambiente",
+        "experiencia",
+        "calidad",
+        "volvería"
+      ],
+      "confianza": 9.0
+    },
+    "temporal_trends": {
+      "tendencia_satisfaccion": "estable",
+      "cambios_significativos": [
+        {
+          "cambio": "Actualización del menú",
+          "impacto": "positivo"
+        },
+        {
+          "cambio": "Colaboración con chefs reconocidos",
+          "impacto": "positivo"
+        }
+      ],
+      "estacionalidad": "Chiles en nogada mencionados como platillo de temporada",
+      "confianza": 7.0
+    },
+    "executive_summary": {
+      "resumen_general": "Cantina La 20 Santa Fe destaca por su excelente servicio personalizado, calidad en platillos mexicanos con toque gourmet y ambiente agradable que combina elegancia con tradición. Los clientes valoran especialmente la atención del personal, la variedad gastronómica y las experiencias memorables como celebraciones de cumpleaños, música en vivo y entretenimiento con magos, generando una alta tasa de recomendación y fidelidad.",
+      "calificacion_general": 8.8,
+      "recomendaciones_accion_inmediata": [
+        "Implementar un sistema de control de temperatura para asegurar que los platillos lleguen calientes a la mesa",
+        "Realizar mantenimiento al mobiliario, especialmente sillas y sillones mencionados como deteriorados",
+        "Mejorar la limpieza y mantenimiento de los baños",
+        "Asegurar disponibilidad de productos listados en la carta (especialmente vinos y cervezas)",
+        "Revisar el nivel de música para permitir conversación cómoda entre comensales"
+      ],
+      "oportunidades_crecimiento": [
+        "Ampliar opciones de bebidas sin alcohol (cervezas cero)",
+        "Desarrollar más opciones de salsas picantes para satisfacer ese segmento",
+        "Expandir la experiencia de la ludoteca como diferenciador para familias",
+        "Potenciar la mixología como elemento distintivo",
+        "Crear un programa de fidelización basado en el reconocimiento personalizado que ya realizan"
+      ],
+      "nivel_satisfaccion_cliente": "muy satisfecho"
+    },
+    "analysis_metadata": {
+      "total_reviews_analizadas": 500,
+      "rango_fechas": "No especificado",
+      "ubicacion": "Cantina La 20 | Santa Fé, Vasco de Quiroga 3800, Lomas de Santa Fe, Contadero, Cuajimalpa de Morelos, 05109 Ciudad de México, CDMX",
+      "modelo_usado": "claude-3-7-sonnet-20250219",
+      "fecha_analisis": "2025-10-30T11:19:43.353438",
+      "thinking_tokens_used": null,
+      "confianza_global": 8.7,
+      "coordenadas": {
+        "lat": 19.36095544227016,
+        "lng": -99.27539864907287,
+        "google_maps_url": "https://www.google.com/maps?q=19.36095544227016,-99.27539864907287"
+      },
+      "imagen_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5b/af/45/cantina-la-no-20-pedregal.jpg?w=900&h=500&s=1"
+    }
+  },
+  "Satelite": {
+    "food_quality": {
+      "rating_promedio": 8.7,
+      "platos_mas_elogiados": [
+        "Tacos gobernador",
+        "Chicharrón de pork belly",
+        "Ensalada César",
+        "Mil hojas de crepa con cajeta",
+        "Jugo de carne"
+      ],
+      "platos_mas_criticados": [
+        "Arrachera (mencionada como dura)",
+        "Tostadas de atún (saladas/con pellejos)",
+        "Fideos (demasiado picantes)",
+        "Pescado (mal olor/echado a perder)",
+        "Tacos de Rib eye (sabor cuestionado)"
+      ],
+      "aspectos_positivos": [
+        "Sabor excelente en la mayoría de platillos",
+        "Frescura de ingredientes",
+        "Buena presentación",
+        "Porciones generosas en varios platillos",
+        "Variedad de opciones en el menú",
+        "Postres muy elogiados"
+      ],
+      "aspectos_negativos": [
+        "Inconsistencia en el término de las carnes",
+        "Algunos platillos servidos fríos",
+        "Porciones pequeñas en algunos platillos específicos",
+        "Incidente de pescado en mal estado",
+        "Exceso de picante en algunos platillos"
+      ],
+      "consistencia": "media",
+      "confianza": 9.0
+    },
+    "service_analysis": {
+      "rating_servicio": 9.2,
+      "empleados_mencionados_positivamente": [
+        {
+          "Antonio/Antonio Vieyra": "Mencionado 45 veces positivamente por atención excelente y personalizada"
+        },
+        {
+          "Raúl/Raúl López": "Mencionado 30 veces por buen servicio y amabilidad"
+        },
+        {
+          "Vero/Verónica": "Mencionada 25 veces por atención y recomendaciones"
+        },
+        {
+          "Enrique": "Mencionado 15 veces por servicio atento"
+        },
+        {
+          "Vidal": "Mencionado 15 veces por buenas recomendaciones y atención"
+        }
+      ],
+      "empleados_mencionados_negativamente": [
+        {
+          "Mesero con tatuajes en cuello/orejas": "Mencionado 1 vez por actitud poco flexible"
+        },
+        {
+          "Mesera sin nombre": "Mencionada 1 vez por tardanza y mala actitud con propina"
+        }
+      ],
+      "aspectos_positivos": [
+        "Personal muy atento y amable",
+        "Rapidez en el servicio en general",
+        "Buenas recomendaciones de platillos y bebidas",
+        "Atención personalizada",
+        "Capitanes y gerentes pendientes de las mesas",
+        "Buena atención desde la recepción"
+      ],
+      "aspectos_negativos": [
+        "Algunos meseros desaparecen durante el servicio",
+        "Insistencia excesiva en consumo adicional",
+        "Demoras en la atención en horas pico",
+        "Falta de comunicación entre meseros y cocina",
+        "Insistencia en propina sugerida del 15%"
+      ],
+      "velocidad_servicio": "normal",
+      "confianza": 9.5
+    },
+    "atmosphere_analysis": {
+      "rating_ambiente": 8.5,
+      "limpieza": "buena",
+      "decoracion": "moderna con toques mexicanos tradicionales",
+      "ruido_nivel": "ruidoso",
+      "comodidad": "aceptable",
+      "aspectos_destacados": [
+        "Música en vivo (mariachi y norteño)",
+        "Pantallas grandes para eventos deportivos",
+        "Decoración atractiva y bien ambientada",
+        "Área para niños con nanis",
+        "Actividades como magos y luchadores para celebraciones"
+      ],
+      "areas_mejora": [
+        "Volumen de música demasiado alto (mencionado 20+ veces)",
+        "Ventilación insuficiente/calor (mencionado 10+ veces)",
+        "Mesas muy juntas en algunas áreas",
+        "Asientos incómodos mencionados por algunos clientes",
+        "Limpieza del piso bajo las mesas en área de niños"
+      ],
+      "confianza": 9.0
+    },
+    "price_value_analysis": {
+      "percepcion_precio": "caro",
+      "relacion_calidad_precio": "buena",
+      "menciones_precio": {
+        "positivas": 25,
+        "negativas": 15,
+        "neutrales": 10
+      },
+      "confianza": 8.5
+    },
+    "customer_experience": {
+      "rating_experiencia_general": 9.0,
+      "ocasiones_mencionadas": {
+        "cumpleaños": 45,
+        "salida con amigos": 30,
+        "comida familiar": 25,
+        "cita romántica": 15,
+        "eventos especiales": 10
+      },
+      "intencion_regresar": {
+        "positiva": 85,
+        "negativa": 10,
+        "neutral": 5
+      },
+      "recomendaciones_count": 75,
+      "experiencias_memorables_positivas": [
+        "Celebraciones de cumpleaños con luchadores y pastel de cortesía",
+        "Música en vivo creando ambiente festivo",
+        "Atención personalizada de meseros específicos",
+        "Preparación de ensalada César a la vista",
+        "Experiencia con el mago Fernando"
+      ],
+      "experiencias_memorables_negativas": [
+        "Incidente de pescado en mal estado",
+        "Servicio de comida a destiempo (platos fuertes antes de entradas)",
+        "Volumen de música demasiado alto impidiendo conversación",
+        "Negativa a servir arrachera aunque estaba en la carta",
+        "Mesero con mala actitud por propina"
+      ],
+      "confianza": 9.0
+    },
+    "recurring_issues": {
+      "top_quejas": [
+        {
+          "queja": "Volumen de música demasiado alto",
+          "frecuencia": 25,
+          "severidad": "media"
+        },
+        {
+          "queja": "Ventilación insuficiente/calor",
+          "frecuencia": 12,
+          "severidad": "media"
+        },
+        {
+          "queja": "Porciones pequeñas para el precio",
+          "frecuencia": 10,
+          "severidad": "baja"
+        },
+        {
+          "queja": "Servicio lento en horas pico",
+          "frecuencia": 8,
+          "severidad": "baja"
+        },
+        {
+          "queja": "Comida servida fría",
+          "frecuencia": 5,
+          "severidad": "media"
+        }
+      ],
+      "incidentes_graves": [
+        "Pescado servido en mal estado con riesgo de intoxicación",
+        "Negativa a servir platillo que aparece en la carta (arrachera)"
+      ],
+      "areas_mejora_prioritarias": [
+        "Control del volumen de la música",
+        "Mejorar ventilación/sistema de aire acondicionado",
+        "Asegurar calidad y frescura de todos los ingredientes",
+        "Estandarizar tamaño de porciones",
+        "Mejorar coordinación entre cocina y servicio"
+      ],
+      "nivel_riesgo_reputacional": "bajo",
+      "confianza": 8.5
+    },
+    "competitive_strengths": {
+      "top_fortalezas": [
+        "Excelente servicio personalizado",
+        "Ambiente festivo con música en vivo",
+        "Celebraciones de cumpleaños memorables",
+        "Calidad de bebidas y coctelería",
+        "Variedad de platillos mexicanos"
+      ],
+      "diferenciadores": [
+        "Celebraciones con luchadores y pastel de cortesía",
+        "Área para niños con nanis",
+        "Música en vivo (mariachi y norteño)",
+        "Preparación de algunos platillos a la vista",
+        "Actividades como magos y pajaritos de la suerte"
+      ],
+      "palabras_clave_positivas": [
+        "excelente",
+        "delicioso",
+        "atención",
+        "ambiente",
+        "servicio",
+        "recomendable",
+        "experiencia",
+        "amable",
+        "festejo",
+        "música"
+      ],
+      "confianza": 9.0
+    },
+    "temporal_trends": {
+      "tendencia_satisfaccion": "estable",
+      "cambios_significativos": [
+        {
+          "cambio": "Mejora en el servicio mencionada por clientes recurrentes",
+          "impacto": "positivo"
+        },
+        {
+          "cambio": "Nuevo menú mencionado recientemente",
+          "impacto": "positivo"
+        }
+      ],
+      "estacionalidad": null,
+      "confianza": 7.0
+    },
+    "executive_summary": {
+      "resumen_general": "Cantina La 20 Satélite destaca por su excelente servicio personalizado, ambiente festivo y experiencias memorables para celebraciones, con una calidad de comida generalmente buena aunque con algunas inconsistencias. Los clientes valoran especialmente la atención del personal, la variedad de platillos mexicanos y las actividades que complementan la experiencia, aunque existen áreas de oportunidad en el control del volumen de la música, la ventilación del local y la consistencia en algunos platillos.",
+      "calificacion_general": 8.8,
+      "recomendaciones_accion_inmediata": [
+        "Reducir el volumen de la música, especialmente en horas de mayor afluencia, para permitir conversaciones cómodas",
+        "Mejorar el sistema de ventilación o instalar más ventiladores para solucionar el problema de calor",
+        "Implementar controles de calidad más estrictos para pescados y mariscos",
+        "Estandarizar las porciones de los platillos más criticados por tamaño",
+        "Capacitar al personal de cocina para mejorar la consistencia en el término de las carnes"
+      ],
+      "oportunidades_crecimiento": [
+        "Desarrollar promociones especiales para bebidas, mencionadas como deseables por clientes",
+        "Expandir el área de niños que es valorada por familias",
+        "Crear menús de degustación que permitan probar varios platillos populares",
+        "Implementar un programa de fidelización para clientes frecuentes",
+        "Potenciar la experiencia de celebración que ya es un diferenciador del restaurante"
+      ],
+      "nivel_satisfaccion_cliente": "muy satisfecho"
+    },
+    "analysis_metadata": {
+      "total_reviews_analizadas": 500,
+      "rango_fechas": "No especificado",
+      "ubicacion": "Cantina La 20 | Satélite, Cto Centro Comercial 2251-Local R01, Cd. Satélite, 53100 Naucalpan de Juárez, Méx.",
+      "modelo_usado": "claude-3-7-sonnet-20250219",
+      "fecha_analisis": "2025-10-30T11:20:36.347315",
+      "thinking_tokens_used": null,
+      "confianza_global": 8.8,
+      "coordenadas": {
+        "lat": 19.50999600242926,
+        "lng": -99.23574397397032,
+        "google_maps_url": "https://www.google.com/maps?q=19.50999600242926,-99.23574397397032"
+      },
+      "imagen_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/04/e3/67/cantina-20-satelite.jpg?w=1100&h=1100&s=1"
+    }
+  },
+  "Wtc": {
+    "food_quality": {
+      "rating_promedio": 8.5,
+      "platos_mas_elogiados": [
+        "Tacos Gobernador",
+        "Milanesa Cantinera",
+        "Chicharrón de Rib Eye",
+        "Chile en Nogada",
+        "Aguachile de camarón"
+      ],
+      "platos_mas_criticados": [
+        "Panuchos (no auténticos)",
+        "Chicharrón de cachete (mucha verdolaga)",
+        "Tacos New York (corte muy grueso)",
+        "Barbacoa (más pellejo que carne)",
+        "Tortillas (algunas parecían viejas)"
+      ],
+      "aspectos_positivos": [
+        "Sabor auténtico mexicano",
+        "Buena presentación de platillos",
+        "Porciones generosas",
+        "Variedad de opciones en el menú",
+        "Calidad de ingredientes",
+        "Postres destacados (churros, pastel de guayaba, pavlova)"
+      ],
+      "aspectos_negativos": [
+        "Inconsistencia en algunos platillos",
+        "Algunos platos llegan fríos",
+        "Cambios en recetas tradicionales",
+        "Exceso de grasa en algunos platillos",
+        "Tortillas de baja calidad en ocasiones"
+      ],
+      "consistencia": "media",
+      "confianza": 9.0
+    },
+    "service_analysis": {
+      "rating_servicio": 9.2,
+      "empleados_mencionados_positivamente": [
+        {
+          "Antonio": "mencionado 52 veces positivamente"
+        },
+        {
+          "Esteban": "mencionado 36 veces positivamente"
+        },
+        {
+          "Willy/Wilfredo": "mencionado 30 veces positivamente"
+        },
+        {
+          "Leo": "mencionado 28 veces positivamente"
+        },
+        {
+          "Alejandro": "mencionado 25 veces positivamente"
+        }
+      ],
+      "empleados_mencionados_negativamente": [
+        {
+          "David": "mencionado 2 veces negativamente"
+        },
+        {
+          "Jesús": "mencionado 1 vez negativamente"
+        }
+      ],
+      "aspectos_positivos": [
+        "Atención personalizada",
+        "Amabilidad y cordialidad del personal",
+        "Recomendaciones acertadas de platillos",
+        "Meseros atentos a las necesidades",
+        "Profesionalismo del personal",
+        "Rapidez en el servicio en general"
+      ],
+      "aspectos_negativos": [
+        "Lentitud en horas pico",
+        "Demora en traer la cuenta",
+        "Presión para retirar platos rápidamente",
+        "Algunos meseros desatentos",
+        "Insistencia excesiva sobre propina"
+      ],
+      "velocidad_servicio": "normal",
+      "confianza": 9.5
+    },
+    "atmosphere_analysis": {
+      "rating_ambiente": 8.0,
+      "limpieza": "buena",
+      "decoracion": "mexicana contemporánea",
+      "ruido_nivel": "ruidoso",
+      "comodidad": "cómodo",
+      "aspectos_destacados": [
+        "Ambiente festivo y alegre",
+        "Decoración mexicana atractiva",
+        "Música en vivo (mariachi)",
+        "Pantallas grandes para eventos deportivos",
+        "Espacio amplio y bien distribuido",
+        "Terraza disponible"
+      ],
+      "areas_mejora": [
+        "Nivel de ruido elevado que dificulta conversaciones",
+        "Baños en mal estado o descuidados",
+        "Temperatura fría en algunas áreas",
+        "Falta de área separada para fumadores",
+        "Baños ubicados en otro piso (inconveniente)"
+      ],
+      "confianza": 8.5
+    },
+    "price_value_analysis": {
+      "percepcion_precio": "moderadamente alto",
+      "relacion_calidad_precio": "buena",
+      "menciones_precio": {
+        "positivas": 28,
+        "negativas": 12,
+        "neutras": 15
+      },
+      "confianza": 7.5
+    },
+    "customer_experience": {
+      "rating_experiencia_general": 8.7,
+      "ocasiones_mencionadas": {
+        "cumpleaños": 42,
+        "reunión con amigos": 35,
+        "comida familiar": 25,
+        "negocios": 15,
+        "celebraciones especiales": 12,
+        "citas románticas": 8
+      },
+      "intencion_regresar": {
+        "positiva": 65,
+        "negativa": 8,
+        "neutral": 5
+      },
+      "recomendaciones_count": 78,
+      "experiencias_memorables_positivas": [
+        "Celebración de cumpleaños con máscaras de luchador",
+        "Atención personalizada de meseros específicos",
+        "Mariachi dedicando canciones en la mesa",
+        "Postres especiales y sorpresas para celebraciones",
+        "Ambiente festivo mexicano auténtico"
+      ],
+      "experiencias_memorables_negativas": [
+        "Baños sucios o descuidados",
+        "Exceso de ruido que impide conversación",
+        "Comida que no cumple expectativas de precio",
+        "Servicio lento en momentos de alta afluencia",
+        "Problemas con la cuenta (cobros incorrectos)"
+      ],
+      "confianza": 9.0
+    },
+    "recurring_issues": {
+      "top_quejas": [
+        {
+          "queja": "Nivel de ruido elevado",
+          "frecuencia": 25,
+          "severidad": "media"
+        },
+        {
+          "queja": "Baños descuidados o sucios",
+          "frecuencia": 18,
+          "severidad": "alta"
+        },
+        {
+          "queja": "Servicio lento en horas pico",
+          "frecuencia": 15,
+          "severidad": "media"
+        },
+        {
+          "queja": "Permitir fumar dentro sin área separada",
+          "frecuencia": 12,
+          "severidad": "alta"
+        },
+        {
+          "queja": "Temperatura fría en el local",
+          "frecuencia": 10,
+          "severidad": "baja"
+        }
+      ],
+      "incidentes_graves": [
+        "Cobro duplicado de reservación en evento del 15 de septiembre",
+        "Cobro de bebidas no consumidas",
+        "Insistencia inapropiada sobre propina",
+        "Falta de disponibilidad de platillos previamente reservados"
+      ],
+      "areas_mejora_prioritarias": [
+        "Mantenimiento y limpieza de baños",
+        "Control de ruido y acústica del local",
+        "Implementación de área separada para fumadores",
+        "Mejora en la consistencia de platillos",
+        "Sistema de control de inventario para evitar falta de platillos"
+      ],
+      "nivel_riesgo_reputacional": "bajo",
+      "confianza": 8.0
+    },
+    "competitive_strengths": {
+      "top_fortalezas": [
+        "Excelente servicio personalizado",
+        "Ambiente mexicano auténtico y festivo",
+        "Coctelería creativa y variada",
+        "Celebraciones especiales memorables",
+        "Ubicación estratégica junto al WTC"
+      ],
+      "diferenciadores": [
+        "Celebraciones de cumpleaños con máscaras de luchador",
+        "Combinación de cantina tradicional con toques gourmet",
+        "Mariachi disponible para amenizar",
+        "Pantallas grandes para eventos deportivos",
+        "Amplia carta de bebidas y coctelería"
+      ],
+      "palabras_clave_positivas": [
+        "excelente servicio",
+        "atención",
+        "ambiente",
+        "delicioso",
+        "recomendable",
+        "atento",
+        "experiencia",
+        "celebración",
+        "amable",
+        "regresar"
+      ],
+      "confianza": 9.0
+    },
+    "temporal_trends": {
+      "tendencia_satisfaccion": "estable",
+      "cambios_significativos": [
+        {
+          "cambio": "Nuevo menú con colaboración de chefs",
+          "impacto": "positivo"
+        },
+        {
+          "cambio": "Cambios en algunas recetas tradicionales",
+          "impacto": "mixto"
+        }
+      ],
+      "estacionalidad": "Mayor satisfacción durante celebraciones especiales (15 de septiembre, días festivos)",
+      "confianza": 6.0
+    },
+    "executive_summary": {
+      "resumen_general": "Cantina La 20 | WTC destaca por su excelente servicio personalizado y ambiente festivo mexicano, con una oferta gastronómica de buena calidad aunque con algunas inconsistencias. Los clientes valoran especialmente la atención de meseros específicos, la coctelería variada y las celebraciones especiales, mientras que las principales áreas de mejora se centran en el mantenimiento de baños, control de ruido y la creación de un área separada para fumadores.",
+      "calificacion_general": 8.7,
+      "recomendaciones_accion_inmediata": [
+        "Implementar un programa de mantenimiento y limpieza regular de baños",
+        "Mejorar la acústica del local para reducir el nivel de ruido",
+        "Crear un área separada para fumadores o implementar política de no fumar",
+        "Establecer controles de calidad para garantizar consistencia en los platillos",
+        "Capacitar al personal sobre manejo apropiado de cobros y propinas"
+      ],
+      "oportunidades_crecimiento": [
+        "Desarrollar programa de fidelización basado en meseros favoritos",
+        "Expandir oferta de celebraciones especiales más allá de cumpleaños",
+        "Crear menús de degustación para resaltar platillos estrella",
+        "Implementar reservas digitales con selección de preferencias",
+        "Desarrollar línea de productos para llevar (salsas, coctelería)"
+      ],
+      "nivel_satisfaccion_cliente": "muy satisfecho"
+    },
+    "analysis_metadata": {
+      "total_reviews_analizadas": 500,
+      "rango_fechas": "No especificado",
+      "ubicacion": "Cantina La 20 | WTC, Filadelfia 38, Nápoles, Benito Juárez, 03810 Ciudad de México, CDMX",
+      "modelo_usado": "claude-3-7-sonnet-20250219",
+      "fecha_analisis": "2025-10-30T20:25:30.795370",
+      "thinking_tokens_used": null,
+      "confianza_global": 8.5,
+      "coordenadas": {
+        "lat": 19.39316084323843,
+        "lng": -99.17437443030188,
+        "google_maps_url": "https://www.google.com/maps?q=19.39316084323843,-99.17437443030188"
+      },
+      "imagen_url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/b3/e7/6a/de-aqui-somos-cantina.jpg"
+    }
+  }
+}

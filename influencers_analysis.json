@@ -1,0 +1,1685 @@
+{
+  "metadata": {
+    "report_id": "ba7274ed-092e-4669-bfaa-192191637b2b",
+    "generated_at": "2025-10-31T08:34:52.330967",
+    "total_users_found": 466,
+    "total_platforms": 5,
+    "platforms": [
+      "tiktok",
+      "twitter",
+      "facebook",
+      "instagram",
+      "google_news"
+    ],
+    "filter_applied": "usuarios con >1000 followers"
+  },
+  "statistics": {
+    "total_users": 466,
+    "users_with_followers_none": 0,
+    "users_with_followers_zero": 357,
+    "users_without_data": 357,
+    "percentage_without_data": 76.61
+  },
+  "top_20_general": {
+    "tiktok": [
+      {
+        "rank": 1,
+        "username": "jeremy.jey",
+        "platform": "tiktok",
+        "followers": 2525681,
+        "following": 269,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://tiktok.com/@jeremy.jey",
+        "full_name": "Jeremy Jey",
+        "location": "",
+        "bio": "French 🥖🇫🇷\n“Así es el Francés”",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://www.tiktok.com/@jeremy.jey/video/7543308129770147074",
+            "text": "Buenísimos todos los platos que probé en Cantina La 20 cual es tu plato mexicano favorito? 😋 🇲🇽 🫶 ",
+            "likes": 1162,
+            "views": 36112,
+            "comments_count": 31,
+            "engagement_score": 20214.85,
+            "platform": "tiktok",
+            "time_posted": "2025-08-27T10:48:11",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "username": "muneca_diamante_de_rubi",
+        "platform": "tiktok",
+        "followers": 834791,
+        "following": 189,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://tiktok.com/@muneca_diamante_de_rubi",
+        "full_name": "Muñeca_diamante.rubí",
+        "location": "",
+        "bio": "Consejos de crecimiento económico y empoderamiento",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://www.tiktok.com/@muneca_diamante_de_rubi/video/7479660262895734059",
+            "text": "A disfrutar la noche en cantina la 20 ",
+            "likes": 1877,
+            "views": 71278,
+            "comments_count": 53,
+            "engagement_score": 39773.95,
+            "platform": "tiktok",
+            "time_posted": "2025-03-08T22:22:29",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "username": "djjavierdee",
+        "platform": "tiktok",
+        "followers": 380183,
+        "following": 143,
+        "sentimiento_predominante": "neutral",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "neutral": 1,
+          "positivo": 0
+        },
+        "url": "https://tiktok.com/@djjavierdee",
+        "full_name": "Javier Dee",
+        "location": "",
+        "bio": "DJ | Así sonaban los 90's | Desbloqueando Recuerdos | Sígueme  👇",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://www.tiktok.com/@djjavierdee/video/7518967099885161736",
+            "text": "Respuesta a @Ella la Daniela Trabajo en Cantina La No. 20 de Cancún ",
+            "likes": 410,
+            "views": 12269,
+            "comments_count": 15,
+            "engagement_score": 6873.2,
+            "platform": "tiktok",
+            "time_posted": "2025-06-22T20:32:37",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "username": "luchakumbia",
+        "platform": "tiktok",
+        "followers": 230566,
+        "following": 68,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 2,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 2
+        },
+        "url": "https://tiktok.com/@luchakumbia",
+        "full_name": "Lucha Kumbia",
+        "location": "",
+        "bio": "🎺 Lucha Kumbia\n🇲🇽 GDL\n📲 +52 3312292916 \nBienvenidos Familia Cumbiera",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://www.tiktok.com/@luchakumbia/video/7479506673376234807",
+            "text": "Lucha Kumbia sonando en la Convención CDS,  suena la Cumbia en Cantina la 20 🎥 @Petit Jalil  #Cumbia #Luchadores #fiesta ",
+            "likes": 2818,
+            "views": 63303,
+            "comments_count": 63,
+            "engagement_score": 35671.5,
+            "platform": "tiktok",
+            "time_posted": "2025-03-08T12:26:00",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://www.tiktok.com/@luchakumbia/video/7503757272049388807",
+            "text": "Sonando Ay Chabela desde Cantina la 20 🔥 #Luchakumbia #Luchadores #Cumbialibre #Cumbia ",
+            "likes": 939,
+            "views": 27146,
+            "comments_count": 20,
+            "engagement_score": 15215.0,
+            "platform": "tiktok",
+            "time_posted": "2025-05-12T20:50:44",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "username": "soyvanessapriego",
+        "platform": "tiktok",
+        "followers": 210931,
+        "following": 3365,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://tiktok.com/@soyvanessapriego",
+        "full_name": "Vanessa Priego",
+        "location": "",
+        "bio": "Mi vida entre viajes y chismecito histórico 👑\n📨vanessapriegocollabs@gmail.com",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://www.tiktok.com/@soyvanessapriego/video/7550942425888394513",
+            "text": "Así se ve una despedida de soltera organizada por mi mamá en la @Cantinaveinte de Polanco ❤️ #despedidadesoltera #mamaehija #restaurantescdmx #dondecomercdmx ",
+            "likes": 159,
+            "views": 5946,
+            "comments_count": 8,
+            "engagement_score": 3319.2,
+            "platform": "tiktok",
+            "time_posted": "2025-09-17T00:33:41",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "username": "navarrrete_m",
+        "platform": "tiktok",
+        "followers": 157565,
+        "following": 625,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://tiktok.com/@navarrrete_m",
+        "full_name": "Navarrete 🫐",
+        "location": "",
+        "bio": "Hola! Pasa, acomódate y disfruta un momento 😌✨",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://www.tiktok.com/@navarrrete_m/video/7501908615888997637",
+            "text": "Probando chapulines 🦗 por primera vez… Disculpen la calidad del video pero el concepto del restaurante es con una luz muy tenue, súper recomendado por cierto. @Cantinaveinte  #visitacdmx🇲🇽 #polanco #p",
+            "likes": 4293,
+            "views": 52402,
+            "comments_count": 12,
+            "engagement_score": 30110.8,
+            "platform": "tiktok",
+            "time_posted": "2025-05-07T21:17:01",
+            "sentiment": "positivo"
+          }
+        ]
+      }
+    ],
+    "instagram": [
+      {
+        "rank": 2,
+        "username": "jeremy_jeyy",
+        "platform": "instagram",
+        "followers": 2423789,
+        "following": 631,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://instagram.com/jeremy_jeyy",
+        "full_name": "Jeremy Jey",
+        "location": "",
+        "bio": "🧳: managementjeremyjey@gmail.com",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DN3aInn2DYB",
+            "text": "Buenísimos todos los platos que probé en @cantinaveinte cual es tu plato mexicano favorito? 😋 🇲🇽 🫶",
+            "likes": 4676,
+            "views": 299385,
+            "comments_count": 132,
+            "engagement_score": 166084.35,
+            "platform": "instagram",
+            "time_posted": "2025-08-27T10:50:28",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "username": "como_comi",
+        "platform": "instagram",
+        "followers": 651912,
+        "following": 6826,
+        "sentimiento_predominante": "neutral",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "neutral": 1,
+          "positivo": 0
+        },
+        "url": "https://instagram.com/como_comi",
+        "full_name": "Como Comí",
+        "location": "",
+        "bio": "El medio de comunicación gastronómica con más influencia en México.\n🍝🍷🥧🍣",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DKsQT0ty-0M",
+            "text": "Una lugar con 20 años sirviendo de la mejor comida regional en Monterrey, @ladivinamty un clásico favorito de muchas generaciones con sucursales en Mty, Guadalupe y SPGG 🍻🤠\n#cantina #mty",
+            "likes": 1945,
+            "views": 123082,
+            "comments_count": 70,
+            "engagement_score": 68289.1,
+            "platform": "instagram",
+            "time_posted": "2025-06-09T13:18:37",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "username": "soytrillo",
+        "platform": "instagram",
+        "followers": 639538,
+        "following": 332,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://instagram.com/soytrillo",
+        "full_name": "Carlos Alberto Trillo Alvarez",
+        "location": "",
+        "bio": "Los 80’s fueron muy divertidos \"Somos la Resistencia” \n📧contacto: @fridastrid soytrillocontacto@gmail.com",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DOPdK-oESbr",
+            "text": "@cantinaveinte lo volvería a hacer siempre. Se come delicioso y todo vibra en felicidad.",
+            "likes": 3590,
+            "views": 88938,
+            "comments_count": 118,
+            "engagement_score": 50010.6,
+            "platform": "instagram",
+            "time_posted": "2025-09-05T18:59:52",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "username": "seteantojamx",
+        "platform": "instagram",
+        "followers": 258915,
+        "following": 552,
+        "sentimiento_predominante": "neutral",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "neutral": 1,
+          "positivo": 0
+        },
+        "url": "https://instagram.com/seteantojamx",
+        "full_name": "SE TE ANTOJA",
+        "location": "",
+        "bio": "Sophie y Thor\nCasados con estar chistosos\nBy: @sophiegalan @thor.osmo \n¿Se te antoja?",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DGO2v83uHIM",
+            "text": "CARNES Y MARISCOS ILIMITADOS EN CONSUMO DE $300\n\nLa Cantina de Villa es un concepto de cantina gourmet en el que puedes pedir los platillos que gustes mientras alcances el consumo mínimo de bebidas.\n\n",
+            "likes": 42454,
+            "views": 1942567,
+            "comments_count": 295,
+            "engagement_score": 1081192.3,
+            "platform": "instagram",
+            "time_posted": "2025-02-18T17:11:30",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "username": "cantinala15",
+        "platform": "instagram",
+        "followers": 235634,
+        "following": 235,
+        "sentimiento_predominante": "neutral",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "neutral": 1,
+          "positivo": 0
+        },
+        "url": "https://instagram.com/cantinala15",
+        "full_name": "Cantina La 15",
+        "location": "",
+        "bio": "📍Cali-Bogotá\n🥇Estás en uno de los 100 mejores clubs del mundo\n🇲🇽Embajadores oficiales de la cocina mexicana en Colombia\n🕺🏻Shows en vivo todos los días",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DHUMq4ESiBY",
+            "text": "🇨🇴⚽ ¡Este 20 de marzo vivimos la pasión del fútbol en Cantina La 15! ⚽🇨🇴\n\n🔥 Pantalla gigante, promos y el mejor ambiente para alentar a nuestra selección 🔥\n\n🌮 Pide una taquiza y te regalamos 2 Club Co",
+            "likes": 388,
+            "views": 28661,
+            "comments_count": 9,
+            "engagement_score": 15881.3,
+            "platform": "instagram",
+            "time_posted": "2025-03-17T15:32:08",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "username": "food4fer",
+        "platform": "instagram",
+        "followers": 197679,
+        "following": 5226,
+        "sentimiento_predominante": "neutral",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "neutral": 1,
+          "positivo": 0
+        },
+        "url": "https://instagram.com/food4fer",
+        "full_name": "Food4Fer",
+        "location": "",
+        "bio": "🌮Comunidad fooder \n💙Facebook +150K \n✨BIENVENIDO FOODER  ✨\n📩Colaboraciones DM \n👇🏽Síguenos para más recomendaciones antojables 🙌🏼🤤\nGDL📍 CDMX 🛬",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DOJkGEnjjWM",
+            "text": "¡NUEVA CANTINA Y RESTAURANTE ESTILO MONTERREY EN GUADALAJARA 🤠🍻¡\n\nSalón Monterrey 📍Av Pablo Neruda 3020, Providencia 4a. Secc, 44630 Guadalajara, Jal.\n\nCalificación \nCalidad 🌮🌮🌮🌮\nServicio 🌮🌮 🌮🌮\nSabor ",
+            "likes": 569,
+            "views": 38935,
+            "comments_count": 8,
+            "engagement_score": 21586.15,
+            "platform": "instagram",
+            "time_posted": "2025-09-03T12:05:43",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "username": "jueves_de_cantinas",
+        "platform": "instagram",
+        "followers": 143387,
+        "following": 1000,
+        "sentimiento_predominante": "neutral",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "neutral": 1,
+          "positivo": 0
+        },
+        "url": "https://instagram.com/jueves_de_cantinas",
+        "full_name": "Jueves de Cantinas",
+        "location": "",
+        "bio": "3 amigos conociendo y recorriendo bares y cantinas 🍻🇲🇽 @morolandia13 @samuelherrera717 @ricky_publicista\nCollabs: juevesdecantinas@gmail.com",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DNeC2EgRCRL",
+            "text": "Felicidades al @chacmoolrestaurantbar por sus primeros 20 años sirviendo las mejores caguamas en #monterrey \n\n#juevesdecantinas #bar #cerveza #mty #cantina #jdc #cheve",
+            "likes": 79,
+            "views": 5478,
+            "comments_count": 3,
+            "engagement_score": 3037.05,
+            "platform": "instagram",
+            "time_posted": "2025-08-17T14:25:08",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "username": "carolchampell",
+        "platform": "instagram",
+        "followers": 140822,
+        "following": 1911,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://instagram.com/carolchampell",
+        "full_name": "Carol Champell",
+        "location": "",
+        "bio": "carol@sparkagency.com.mx\n🌞Recuerda cuando soñabas con lo que ahora tienes y sigue esforzándote.\nFounder of @champell💡🎞\nMi blog foodie⬇️",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DFlT_knxOTm",
+            "text": "Mexa foodie night 🇲🇽🌮\n@cantinaveinte \n\n#ciudaddemexico #cdmx #restaurantescdmx",
+            "likes": 0,
+            "views": 168024,
+            "comments_count": 24,
+            "engagement_score": 92416.8,
+            "platform": "instagram",
+            "time_posted": "2025-02-02T13:59:23",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 16,
+        "username": "johnnycarmona",
+        "platform": "instagram",
+        "followers": 109943,
+        "following": 3682,
+        "sentimiento_predominante": "neutral",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "neutral": 1,
+          "positivo": 0
+        },
+        "url": "https://instagram.com/johnnycarmona",
+        "full_name": "Johnny Carmona",
+        "location": "",
+        "bio": "Profesor📚Conductor📺\n#DiverCiudad Vie 6pm @capital21_tv \n#Collage✂️ \n🏳️‍🌈📋 @lamasdraga \nAgencia @tmwantedmx",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DG9uvYsMBGb",
+            "text": "07Mar2025 nuestra #cantina favorita Salón Familiar La Mascota en Mesones 20 #CDMX una rica tarde con comida Deli",
+            "likes": 129,
+            "views": 10751,
+            "comments_count": 1,
+            "engagement_score": 5951.9,
+            "platform": "instagram",
+            "time_posted": "2025-03-08T22:05:09",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "rank": 17,
+        "username": "fabianbanchero",
+        "platform": "instagram",
+        "followers": 108699,
+        "following": 7392,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://instagram.com/fabianbanchero",
+        "full_name": "Fabián Banchero",
+        "location": "",
+        "bio": "Nota con📲😉⭕️⭕️ A.B.Quintanilla 🎬▶️ Ver👀 En el link de YouTube aquí 👇 Abajo\n🇦🇷🇲🇽DIF Artistas y Turismo  1157136726\nbanchero.contacto@gmail.com",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DHP8lYsNhbu",
+            "text": "#CDMX Muchas gracias @cantinaveinte ❤️ #mexico🇲🇽 \n.\n.\n.\n.\n.\n#fabianbanchero😉⭕️⭕️📲💯",
+            "likes": 14,
+            "views": 3473,
+            "comments_count": 0,
+            "engagement_score": 1914.35,
+            "platform": "instagram",
+            "time_posted": "2025-03-15T23:55:53",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 18,
+        "username": "clubbi",
+        "platform": "instagram",
+        "followers": 108151,
+        "following": 162,
+        "sentimiento_predominante": "neutral",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "neutral": 1,
+          "positivo": 0
+        },
+        "url": "https://instagram.com/clubbi",
+        "full_name": "Club Bi",
+        "location": "",
+        "bio": "¡Con tu #ClubBi tienes un universo de beneficios 🪐 para ahorrar en cientos de establecimientos! ☄️",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DFdl83WCMDv",
+            "text": "¡Un taco más con #ClubBi! 🌮\n\nEn @cantinaveinte disfruta de una Tacotina + Pepsi por Q79.95 y recibe un taco GRATIS. \n\n¡No te pierdas está promoción! 🚨\n\n#Tacos #Promociones #Foodie #Guatemala",
+            "likes": 62,
+            "views": 6187,
+            "comments_count": 1,
+            "engagement_score": 3421.6,
+            "platform": "instagram",
+            "time_posted": "2025-01-30T14:01:41",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "rank": 19,
+        "username": "reformaclub",
+        "platform": "instagram",
+        "followers": 78764,
+        "following": 7495,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 3,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 3
+        },
+        "url": "https://instagram.com/reformaclub",
+        "full_name": "Reforma Club",
+        "location": "",
+        "bio": "Cuenta oficial de Club Social del Periódico Reforma.",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DGEABdmM05G",
+            "text": "Luego de recorrer los pasillos y galerías que conformaron la edición 21 de @zonamaco, los presentes se dieron un delicioso break, literalmente hablando, en los diferentes spots gastronómicos del recin",
+            "likes": 75,
+            "views": 4518,
+            "comments_count": 1,
+            "engagement_score": 2507.55,
+            "platform": "instagram",
+            "time_posted": "2025-02-14T12:00:13",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DOO0bkxjmc9",
+            "text": "Con un concierto acústico de @reikmx y muchos recuerdos entre sus comensales, @cantinaveinte celebró 15 años de servicio y consentir a sus clientes con lo mejor de la música y gastronomía mexicana, co",
+            "likes": 38,
+            "views": 3213,
+            "comments_count": 6,
+            "engagement_score": 1779.45,
+            "platform": "instagram",
+            "time_posted": "2025-09-05T13:01:44",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DEp_EreJGvH",
+            "text": "Con la finalidad de pasar un momento de unión, felicidad y buena comida, familias y parejas acudieron a la @cantinaveinte  para recibir el 2025. \n\nLos comensales disfrutaron de un menú creado por el #",
+            "likes": 31,
+            "views": 2003,
+            "comments_count": 0,
+            "engagement_score": 1110.95,
+            "platform": "instagram",
+            "time_posted": "2025-01-10T13:00:16",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 20,
+        "username": "cantinaveinte",
+        "platform": "instagram",
+        "followers": 74969,
+        "following": 421,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 36,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 36
+        },
+        "url": "https://instagram.com/cantinaveinte",
+        "full_name": "Cantina La 20",
+        "location": "",
+        "bio": "ANTARA I ARTZ I POLANCO I REFORMA I SANTA FE | SATÉLITE I WTC I GUADALAJARA I METEPEC I MONTERREY I MIAMI | PRÓXIMAMENTE NY",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DJki1wRMd90",
+            "text": "Platillos que te hacen decir: “¡Ay qué bueno está esto!” 🤤🇲🇽\nPorque si algo tiene Cantina 20, es que uno prueba… y regresa.\n\nLa sopa de tortilla que te abraza como abuelita en domingo 🍲❤️, los torrezn",
+            "likes": 173,
+            "views": 560470,
+            "comments_count": 0,
+            "engagement_score": 308310.4,
+            "platform": "instagram",
+            "time_posted": "2025-05-12T16:55:45",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DIcgvGeOD49",
+            "text": "No te pierdas este lugar en Ciudad de México… porque Cantina 20 es ese rincón donde la comida sabe a fiesta y el ambiente a México. 🇲🇽🍽️🎉\n\nPlatillos llenos de tradición, cocteles que entran como abraz",
+            "likes": 42,
+            "views": 494738,
+            "comments_count": 1,
+            "engagement_score": 272118.65,
+            "platform": "instagram",
+            "time_posted": "2025-04-14T17:30:00",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DFJaAf1NtyP",
+            "text": "Buen ambiente, comida deliciosa y mariachis en vivo. ¿Necesitas más razones para venir a La Cantina No. 20? 🍻🌮🎶\n\nNuestro menú tiene todo el sabor mexicano que te encanta, y si le sumas unos buenos dri",
+            "likes": 1204,
+            "views": 116181,
+            "comments_count": 10,
+            "engagement_score": 64262.25,
+            "platform": "instagram",
+            "time_posted": "2025-01-22T17:52:05",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DJ7MWxZu-3t",
+            "text": "🍹👀 ¿Trampa o destino?\n\nDepende de qué tan fácil caes cuando ves un camino de drinks con hielo, escarchado y actitud 😏✨\nPorque hay flechazos… y luego está esto: una línea directa al paraíso llamado Can",
+            "likes": 899,
+            "views": 51725,
+            "comments_count": 15,
+            "engagement_score": 28720.7,
+            "platform": "instagram",
+            "time_posted": "2025-05-21T12:00:00",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DJe8OctO79m",
+            "text": "🌮✨🔥 Sazón de nuestras raíces, sabor que se goza con todos los sentidos.\n\nDesde los antojos servidos en molcajete 🫓 hasta el brindis que sabe a fiesta 🍸, así se vive México en La No. 20 🇲🇽.\n\nComida que",
+            "likes": 457,
+            "views": 35673,
+            "comments_count": 0,
+            "engagement_score": 19757.25,
+            "platform": "instagram",
+            "time_posted": "2025-05-10T12:40:43",
+            "sentiment": "positivo"
+          }
+        ]
+      }
+    ],
+    "facebook": [
+      {
+        "rank": 10,
+        "username": "-LOS-TOURS-DEL-CENTRO-HISTORICO-DE-LA-CIUDAD-DE-M%C3%89XICO",
+        "platform": "facebook",
+        "followers": 213000,
+        "following": 0,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://www.facebook.com/people/-LOS-TOURS-DEL-CENTRO-HISTORICO-DE-LA-CIUDAD-DE-M%C3%89XICO/100064414580599/",
+        "full_name": "\" LOS TOUR´S  DEL CENTRO HISTORICO DE LA CIUDAD DE MÉXICO",
+        "location": "",
+        "bio": "Tour operadores , Walkingtour ,Experiencias ,Arte, Cultura, Entretenimiento, Recomendaciones, Noticias.",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0kxqckGMQdnqioFiNE87UDGj6Y9uhWDioSJd2ALWbyUCmQPMvyti2TsTBSkDKX6Atl&id=100064414580599",
+            "text": "Cada quien tiene sus formas  😎🍷💃 🎉 en  Crónicas de Cantinas  🥃  Bienvenidos  al Tour Número 1 🏆 de #Cantinas  ⭐️🎉🥂  SÁBADO 20 de SEPTIEMBRE 🇲🇽 🚨iniciando 1 PM 🎊🍷  💥 Tenemos 13 Lugares Disponibles 👫 Ún",
+            "likes": 1102,
+            "views": 159321,
+            "comments_count": 20,
+            "engagement_score": 87960.15,
+            "platform": "Facebook",
+            "time_posted": "2025-09-13T14:33:00",
+            "sentiment": "positivo"
+          }
+        ]
+      }
+    ]
+  },
+  "top_20_positivos": {
+    "tiktok": [
+      {
+        "rank": 1,
+        "username": "jeremy.jey",
+        "platform": "tiktok",
+        "followers": 2525681,
+        "following": 269,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://tiktok.com/@jeremy.jey",
+        "full_name": "Jeremy Jey",
+        "location": "",
+        "bio": "French 🥖🇫🇷\n“Así es el Francés”",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://www.tiktok.com/@jeremy.jey/video/7543308129770147074",
+            "text": "Buenísimos todos los platos que probé en Cantina La 20 cual es tu plato mexicano favorito? 😋 🇲🇽 🫶 ",
+            "likes": 1162,
+            "views": 36112,
+            "comments_count": 31,
+            "engagement_score": 20214.85,
+            "platform": "tiktok",
+            "time_posted": "2025-08-27T10:48:11",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "username": "muneca_diamante_de_rubi",
+        "platform": "tiktok",
+        "followers": 834791,
+        "following": 189,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://tiktok.com/@muneca_diamante_de_rubi",
+        "full_name": "Muñeca_diamante.rubí",
+        "location": "",
+        "bio": "Consejos de crecimiento económico y empoderamiento",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://www.tiktok.com/@muneca_diamante_de_rubi/video/7479660262895734059",
+            "text": "A disfrutar la noche en cantina la 20 ",
+            "likes": 1877,
+            "views": 71278,
+            "comments_count": 53,
+            "engagement_score": 39773.95,
+            "platform": "tiktok",
+            "time_posted": "2025-03-08T22:22:29",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "username": "luchakumbia",
+        "platform": "tiktok",
+        "followers": 230566,
+        "following": 68,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 2,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 2
+        },
+        "url": "https://tiktok.com/@luchakumbia",
+        "full_name": "Lucha Kumbia",
+        "location": "",
+        "bio": "🎺 Lucha Kumbia\n🇲🇽 GDL\n📲 +52 3312292916 \nBienvenidos Familia Cumbiera",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://www.tiktok.com/@luchakumbia/video/7479506673376234807",
+            "text": "Lucha Kumbia sonando en la Convención CDS,  suena la Cumbia en Cantina la 20 🎥 @Petit Jalil  #Cumbia #Luchadores #fiesta ",
+            "likes": 2818,
+            "views": 63303,
+            "comments_count": 63,
+            "engagement_score": 35671.5,
+            "platform": "tiktok",
+            "time_posted": "2025-03-08T12:26:00",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://www.tiktok.com/@luchakumbia/video/7503757272049388807",
+            "text": "Sonando Ay Chabela desde Cantina la 20 🔥 #Luchakumbia #Luchadores #Cumbialibre #Cumbia ",
+            "likes": 939,
+            "views": 27146,
+            "comments_count": 20,
+            "engagement_score": 15215.0,
+            "platform": "tiktok",
+            "time_posted": "2025-05-12T20:50:44",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "username": "soyvanessapriego",
+        "platform": "tiktok",
+        "followers": 210931,
+        "following": 3365,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://tiktok.com/@soyvanessapriego",
+        "full_name": "Vanessa Priego",
+        "location": "",
+        "bio": "Mi vida entre viajes y chismecito histórico 👑\n📨vanessapriegocollabs@gmail.com",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://www.tiktok.com/@soyvanessapriego/video/7550942425888394513",
+            "text": "Así se ve una despedida de soltera organizada por mi mamá en la @Cantinaveinte de Polanco ❤️ #despedidadesoltera #mamaehija #restaurantescdmx #dondecomercdmx ",
+            "likes": 159,
+            "views": 5946,
+            "comments_count": 8,
+            "engagement_score": 3319.2,
+            "platform": "tiktok",
+            "time_posted": "2025-09-17T00:33:41",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "username": "navarrrete_m",
+        "platform": "tiktok",
+        "followers": 157565,
+        "following": 625,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://tiktok.com/@navarrrete_m",
+        "full_name": "Navarrete 🫐",
+        "location": "",
+        "bio": "Hola! Pasa, acomódate y disfruta un momento 😌✨",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://www.tiktok.com/@navarrrete_m/video/7501908615888997637",
+            "text": "Probando chapulines 🦗 por primera vez… Disculpen la calidad del video pero el concepto del restaurante es con una luz muy tenue, súper recomendado por cierto. @Cantinaveinte  #visitacdmx🇲🇽 #polanco #p",
+            "likes": 4293,
+            "views": 52402,
+            "comments_count": 12,
+            "engagement_score": 30110.8,
+            "platform": "tiktok",
+            "time_posted": "2025-05-07T21:17:01",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 17,
+        "username": "zacsa.gt",
+        "platform": "tiktok",
+        "followers": 13801,
+        "following": 0,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://tiktok.com/@zacsa.gt",
+        "full_name": "zacsa.gt",
+        "location": "",
+        "bio": "Inmobiliaria y estudio de arquitectura con más de 20 años de experiencia.",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://www.tiktok.com/@zacsa.gt/video/7484030827379133701",
+            "text": "✨ Cantina La 20: Un viaje al México Art Déco ✨ No es solo un restaurante, es una experiencia sensorial donde la arquitectura y la gastronomía se fusionan. 🌟 Desde su espectacular lobby hasta la cocina",
+            "likes": 24,
+            "views": 1297,
+            "comments_count": 0,
+            "engagement_score": 720.55,
+            "platform": "tiktok",
+            "time_posted": "2025-03-21T08:10:00",
+            "sentiment": "positivo"
+          }
+        ]
+      }
+    ],
+    "instagram": [
+      {
+        "rank": 2,
+        "username": "jeremy_jeyy",
+        "platform": "instagram",
+        "followers": 2423789,
+        "following": 631,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://instagram.com/jeremy_jeyy",
+        "full_name": "Jeremy Jey",
+        "location": "",
+        "bio": "🧳: managementjeremyjey@gmail.com",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DN3aInn2DYB",
+            "text": "Buenísimos todos los platos que probé en @cantinaveinte cual es tu plato mexicano favorito? 😋 🇲🇽 🫶",
+            "likes": 4676,
+            "views": 299385,
+            "comments_count": 132,
+            "engagement_score": 166084.35,
+            "platform": "instagram",
+            "time_posted": "2025-08-27T10:50:28",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "username": "soytrillo",
+        "platform": "instagram",
+        "followers": 639538,
+        "following": 332,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://instagram.com/soytrillo",
+        "full_name": "Carlos Alberto Trillo Alvarez",
+        "location": "",
+        "bio": "Los 80’s fueron muy divertidos \"Somos la Resistencia” \n📧contacto: @fridastrid soytrillocontacto@gmail.com",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DOPdK-oESbr",
+            "text": "@cantinaveinte lo volvería a hacer siempre. Se come delicioso y todo vibra en felicidad.",
+            "likes": 3590,
+            "views": 88938,
+            "comments_count": 118,
+            "engagement_score": 50010.6,
+            "platform": "instagram",
+            "time_posted": "2025-09-05T18:59:52",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "username": "carolchampell",
+        "platform": "instagram",
+        "followers": 140822,
+        "following": 1911,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://instagram.com/carolchampell",
+        "full_name": "Carol Champell",
+        "location": "",
+        "bio": "carol@sparkagency.com.mx\n🌞Recuerda cuando soñabas con lo que ahora tienes y sigue esforzándote.\nFounder of @champell💡🎞\nMi blog foodie⬇️",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DFlT_knxOTm",
+            "text": "Mexa foodie night 🇲🇽🌮\n@cantinaveinte \n\n#ciudaddemexico #cdmx #restaurantescdmx",
+            "likes": 0,
+            "views": 168024,
+            "comments_count": 24,
+            "engagement_score": 92416.8,
+            "platform": "instagram",
+            "time_posted": "2025-02-02T13:59:23",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "username": "fabianbanchero",
+        "platform": "instagram",
+        "followers": 108699,
+        "following": 7392,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://instagram.com/fabianbanchero",
+        "full_name": "Fabián Banchero",
+        "location": "",
+        "bio": "Nota con📲😉⭕️⭕️ A.B.Quintanilla 🎬▶️ Ver👀 En el link de YouTube aquí 👇 Abajo\n🇦🇷🇲🇽DIF Artistas y Turismo  1157136726\nbanchero.contacto@gmail.com",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DHP8lYsNhbu",
+            "text": "#CDMX Muchas gracias @cantinaveinte ❤️ #mexico🇲🇽 \n.\n.\n.\n.\n.\n#fabianbanchero😉⭕️⭕️📲💯",
+            "likes": 14,
+            "views": 3473,
+            "comments_count": 0,
+            "engagement_score": 1914.35,
+            "platform": "instagram",
+            "time_posted": "2025-03-15T23:55:53",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "username": "reformaclub",
+        "platform": "instagram",
+        "followers": 78764,
+        "following": 7495,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 3,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 3
+        },
+        "url": "https://instagram.com/reformaclub",
+        "full_name": "Reforma Club",
+        "location": "",
+        "bio": "Cuenta oficial de Club Social del Periódico Reforma.",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DGEABdmM05G",
+            "text": "Luego de recorrer los pasillos y galerías que conformaron la edición 21 de @zonamaco, los presentes se dieron un delicioso break, literalmente hablando, en los diferentes spots gastronómicos del recin",
+            "likes": 75,
+            "views": 4518,
+            "comments_count": 1,
+            "engagement_score": 2507.55,
+            "platform": "instagram",
+            "time_posted": "2025-02-14T12:00:13",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DOO0bkxjmc9",
+            "text": "Con un concierto acústico de @reikmx y muchos recuerdos entre sus comensales, @cantinaveinte celebró 15 años de servicio y consentir a sus clientes con lo mejor de la música y gastronomía mexicana, co",
+            "likes": 38,
+            "views": 3213,
+            "comments_count": 6,
+            "engagement_score": 1779.45,
+            "platform": "instagram",
+            "time_posted": "2025-09-05T13:01:44",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DEp_EreJGvH",
+            "text": "Con la finalidad de pasar un momento de unión, felicidad y buena comida, familias y parejas acudieron a la @cantinaveinte  para recibir el 2025. \n\nLos comensales disfrutaron de un menú creado por el #",
+            "likes": 31,
+            "views": 2003,
+            "comments_count": 0,
+            "engagement_score": 1110.95,
+            "platform": "instagram",
+            "time_posted": "2025-01-10T13:00:16",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "username": "cantinaveinte",
+        "platform": "instagram",
+        "followers": 74969,
+        "following": 421,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 36,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 36
+        },
+        "url": "https://instagram.com/cantinaveinte",
+        "full_name": "Cantina La 20",
+        "location": "",
+        "bio": "ANTARA I ARTZ I POLANCO I REFORMA I SANTA FE | SATÉLITE I WTC I GUADALAJARA I METEPEC I MONTERREY I MIAMI | PRÓXIMAMENTE NY",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DJki1wRMd90",
+            "text": "Platillos que te hacen decir: “¡Ay qué bueno está esto!” 🤤🇲🇽\nPorque si algo tiene Cantina 20, es que uno prueba… y regresa.\n\nLa sopa de tortilla que te abraza como abuelita en domingo 🍲❤️, los torrezn",
+            "likes": 173,
+            "views": 560470,
+            "comments_count": 0,
+            "engagement_score": 308310.4,
+            "platform": "instagram",
+            "time_posted": "2025-05-12T16:55:45",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DIcgvGeOD49",
+            "text": "No te pierdas este lugar en Ciudad de México… porque Cantina 20 es ese rincón donde la comida sabe a fiesta y el ambiente a México. 🇲🇽🍽️🎉\n\nPlatillos llenos de tradición, cocteles que entran como abraz",
+            "likes": 42,
+            "views": 494738,
+            "comments_count": 1,
+            "engagement_score": 272118.65,
+            "platform": "instagram",
+            "time_posted": "2025-04-14T17:30:00",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DFJaAf1NtyP",
+            "text": "Buen ambiente, comida deliciosa y mariachis en vivo. ¿Necesitas más razones para venir a La Cantina No. 20? 🍻🌮🎶\n\nNuestro menú tiene todo el sabor mexicano que te encanta, y si le sumas unos buenos dri",
+            "likes": 1204,
+            "views": 116181,
+            "comments_count": 10,
+            "engagement_score": 64262.25,
+            "platform": "instagram",
+            "time_posted": "2025-01-22T17:52:05",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DJ7MWxZu-3t",
+            "text": "🍹👀 ¿Trampa o destino?\n\nDepende de qué tan fácil caes cuando ves un camino de drinks con hielo, escarchado y actitud 😏✨\nPorque hay flechazos… y luego está esto: una línea directa al paraíso llamado Can",
+            "likes": 899,
+            "views": 51725,
+            "comments_count": 15,
+            "engagement_score": 28720.7,
+            "platform": "instagram",
+            "time_posted": "2025-05-21T12:00:00",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DJe8OctO79m",
+            "text": "🌮✨🔥 Sazón de nuestras raíces, sabor que se goza con todos los sentidos.\n\nDesde los antojos servidos en molcajete 🫓 hasta el brindis que sabe a fiesta 🍸, así se vive México en La No. 20 🇲🇽.\n\nComida que",
+            "likes": 457,
+            "views": 35673,
+            "comments_count": 0,
+            "engagement_score": 19757.25,
+            "platform": "instagram",
+            "time_posted": "2025-05-10T12:40:43",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "username": "reservandonos",
+        "platform": "instagram",
+        "followers": 56124,
+        "following": 452,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 6,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 6
+        },
+        "url": "https://instagram.com/reservandonos",
+        "full_name": "Reservándonos",
+        "location": "",
+        "bio": "📍 La guía más completa de restaurantes, antros, bares y atracciones turísticas en México, Colombia y más. Únete a Reservándonos 👇🏼",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DNmSgdMO_DN",
+            "text": "¿Planeando una noche por Polanco? 🍹 ¡Guarda este reel porque te traemos el tour que necesitabas! Aquí están 3 lugares que tienes que visitar si amas los buenos drinks.\n\n1️⃣La Sotomayor\n2️⃣Cantina La N",
+            "likes": 32,
+            "views": 1428,
+            "comments_count": 0,
+            "engagement_score": 795.0,
+            "platform": "instagram",
+            "time_posted": "2025-08-21T19:15:00",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DOoufYTiamy",
+            "text": "¿Buscando los mejores restaurantes para dar el Grito en CDMX? 🇲🇽 ¡No te estreses, nosotros te ayudamos!🎇 Prepárate para un festín de sabores y música. Estos 3 lugares son el plan ideal para una noche ",
+            "likes": 0,
+            "views": 712,
+            "comments_count": 0,
+            "engagement_score": 391.6,
+            "platform": "instagram",
+            "time_posted": "2025-09-15T14:30:00",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DNtEv4ZXvNp",
+            "text": "Cantina La N°20: platillos top, drinks únicos y el mejor ambiente. 🍽️🎶 No es la típica cantina... es un viaje a lo mejor de la tradición mexicana con un giro sofisticado y moderno. Aquí, el mezcal se ",
+            "likes": 0,
+            "views": 93,
+            "comments_count": 2,
+            "engagement_score": 51.45,
+            "platform": "instagram",
+            "time_posted": "2025-08-23T10:30:08",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DOoKeT3DLlJ",
+            "text": "¿Dónde comer guacamole en CDMX? 🤤 Te damos 3 ideas para celebrar a este manjar mexicano. ¡Cada uno de estos spots tiene un guacamole que te dejará pidiendo más!\n\n1️⃣ Cantina La No. 20 Reforma\n2️⃣ Guar",
+            "likes": 0,
+            "views": 85,
+            "comments_count": 0,
+            "engagement_score": 46.75,
+            "platform": "instagram",
+            "time_posted": "2025-09-15T09:15:00",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DPWh-KIibxG",
+            "text": "Si buscas un bar en CDMX para celebrar el Día del Vodka, 🍸 la CDMX tiene lugares increíbles para celebrarlo.\n\n1️⃣ Arena Sport Bar\n2️⃣ Cantina La No. 20 Santa Fé\n3️⃣ Xaman Bar Juárez\n\nGuarda este post ",
+            "likes": 0,
+            "views": 66,
+            "comments_count": 0,
+            "engagement_score": 36.3,
+            "platform": "instagram",
+            "time_posted": "2025-10-01T19:25:00",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "username": "tesorosdemexicooficial",
+        "platform": "instagram",
+        "followers": 18561,
+        "following": 73,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://instagram.com/tesorosdemexicooficial",
+        "full_name": "Tesoros de México hoteles y restaurantes 🇲🇽",
+        "location": "",
+        "bio": "Somos la colección de hoteles boutique y restaurantes de mayor prestigio e identidad mexicana. Reserve experiencias únicas: www.tesorosexperiences.com",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DG3W1FzR1UO",
+            "text": "🍹 Restaurante @cantinaveinte CDMX\n\n🎶✨ Sabor, tradición y ambiente en la Cantina No. 20. Vive la esencia de la auténtica cantina mexicana con mixología de autor, sabores inigualables y el mejor ambient",
+            "likes": 0,
+            "views": 32,
+            "comments_count": 0,
+            "engagement_score": 17.6,
+            "platform": "instagram",
+            "time_posted": "2025-03-06T10:40:47",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "username": "hopesegura",
+        "platform": "instagram",
+        "followers": 16727,
+        "following": 1466,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://instagram.com/hopesegura",
+        "full_name": "Hope Segura Arte en Azúcar",
+        "location": "",
+        "bio": "🍩Reposteria + arte comestible + inspiración”+ estilo de vida creativo + foodie  con mis 2 crías 💋\n  📨hopesegura22@gmail.com   Mexico city",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DJNjC8ppPah",
+            "text": "Nos fuimos a comer a la cantina los #20 y la verdad es que el servicio es de primera y la comida está deli el rango de precios es de 300 a 400  por persona aprox  y vale la pena darse una vuelta @cant",
+            "likes": 46,
+            "views": 2562,
+            "comments_count": 9,
+            "engagement_score": 1424.25,
+            "platform": "instagram",
+            "time_posted": "2025-05-03T18:37:09",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 16,
+        "username": "gretamusiqueo",
+        "platform": "instagram",
+        "followers": 15060,
+        "following": 106,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://instagram.com/gretamusiqueo",
+        "full_name": "𝙶𝚛𝚎𝚝𝚊 𝙼𝚎𝚍𝚑𝚎 𝙼𝚞𝚜𝚒𝚚𝚞𝚎 🪶",
+        "location": "",
+        "bio": "Amo la música. Todo lo que siento o soy o quiero ser, lo pongo en la música.🤍🪶\nEventos Privados |  Bares\nFB: gretamusiqueo\nContrataciones: 331011 9340",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DMLa-ftP-jP",
+            "text": "🎤✨ ¡Atención amantes de MENTIRAS!\n\nEste 31 de julio, Cantina La 20 Guadalajara  se convierte en el escenario de tus recuerdos más ochenteros..\n\nPrepárate para una noche de despecho, glamour y cancione",
+            "likes": 7,
+            "views": 74,
+            "comments_count": 0,
+            "engagement_score": 42.8,
+            "platform": "instagram",
+            "time_posted": "2025-07-16T12:18:48",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 18,
+        "username": "cantinaveintegdl",
+        "platform": "instagram",
+        "followers": 13362,
+        "following": 330,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 32,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 32
+        },
+        "url": "https://instagram.com/cantinaveintegdl",
+        "full_name": "Cantina La 20 Guadalajara",
+        "location": "",
+        "bio": "🍽️ Donde se vive el sabor de la cocina mexicana\n🍸🍹 Mixología que enamora\n📖 Reservaciones:",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DLDteKnIPb2",
+            "text": "¡Esta temporada de eventos deportivos vívela en La 20! Pantallas gigantes, mixología de cantina y el mejor ambiente para disfrutar cada jugada. ⚽🍹📺",
+            "likes": 6,
+            "views": 19148,
+            "comments_count": 0,
+            "engagement_score": 10533.2,
+            "platform": "instagram",
+            "time_posted": "2025-06-18T15:55:25",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DFD2wpqv4iy",
+            "text": "¡Cantina La 20: Donde la magia del ambiente te envuelve! 🎶🍹\n\nVive una experiencia inolvidable en el tercer piso de Punto Valle, SPGG, donde cada rincón se llena de buena vibra y energía única:\n\n✨ Un a",
+            "likes": 102,
+            "views": 9355,
+            "comments_count": 0,
+            "engagement_score": 5175.85,
+            "platform": "instagram",
+            "time_posted": "2025-01-20T14:08:12",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DEeLK76sfU5",
+            "text": "✨ Cantina La 20: Donde el ambiente y la atmósfera se vuelven inolvidables. 🍹 Disfruta de una experiencia única con platillos inigualables y drinks excepcionales. \n\n📍¡Te esperamos en Landmark! 🥂",
+            "likes": 64,
+            "views": 6016,
+            "comments_count": 1,
+            "engagement_score": 3328.15,
+            "platform": "instagram",
+            "time_posted": "2025-01-05T22:55:28",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DJr9lDgRwZM",
+            "text": "Cantina La 20 donde el sabor se convierte en recuerdo\n📍#Landmark \n📲 Reserva: +52 33 3959 2901\n#CantinaLa20 #Guadalajara  #Gastronomía #SaborMexicano #Mixología",
+            "likes": 10,
+            "views": 1951,
+            "comments_count": 1,
+            "engagement_score": 1076.2,
+            "platform": "instagram",
+            "time_posted": "2025-05-15T14:03:01",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DHelddZPtGk",
+            "text": "En Cantina La 20 la tradición y la fiesta se encuentran en un solo lugar. Déjate llevar por el mariachi, los sabores auténticos y una experiencia que te hará querer volver. 🍽️🔥\n\n📍 Landmark, Guadalajar",
+            "likes": 18,
+            "views": 1442,
+            "comments_count": 1,
+            "engagement_score": 798.65,
+            "platform": "instagram",
+            "time_posted": "2025-03-21T16:19:22",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 19,
+        "username": "melissaramosglz",
+        "platform": "instagram",
+        "followers": 11549,
+        "following": 3830,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://instagram.com/melissaramosglz",
+        "full_name": "LATINA MAMI.🐉❤️‍🔥🔥",
+        "location": "",
+        "bio": "🇨🇦🇺🇲🇨🇴🇯🇵🇲🇽\n❥CAN📍🍁\n❥BCS🌵🌶️🇲🇽🌮\n❥Licenciada en Negocios Internacionales y Pedagogía🌎👩🏻‍🏫\n❥MUSCLE MAMI.🍑\n#modelo #gym #traveler #cargirl #fitness",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DL5KbkbuOaJ",
+            "text": "Preciosos recuerdos guardados en mi camera roll! 😍💋\n*I LOVED EVERY SECOND.🫶🏻💕\n\n#cancun #mexico #porsche #tulum #playadelcarmen #mexicomagico #love #mexicomiamor #travelling #visitmexico #puertomarinac",
+            "likes": 0,
+            "views": 120,
+            "comments_count": 1,
+            "engagement_score": 66.15,
+            "platform": "instagram",
+            "time_posted": "2025-07-09T10:07:53",
+            "sentiment": "positivo"
+          }
+        ]
+      },
+      {
+        "rank": 20,
+        "username": "cantinaveintemty",
+        "platform": "instagram",
+        "followers": 9460,
+        "following": 205,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 28,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 28
+        },
+        "url": "https://instagram.com/cantinaveintemty",
+        "full_name": "Cantina La 20 Monterrey",
+        "location": "Monterrey, Nuevo Leon, Mexico",
+        "bio": "Aquí se disfruta el sabor de la cocina mexicana.🍽️\nNuestra mixología es tradición y pasión.🍸🍹\nRSV 📱8183960817",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://instagram.com/p/DFD1rvMsX8S",
+            "text": "¡Cantina La 20: Donde la magia del ambiente te envuelve! 🎶🍹\n\nVive una experiencia inolvidable en el tercer piso de Punto Valle, SPGG, donde cada rincón se llena de buena vibra y energía única:\n\n✨ Un a",
+            "likes": 75,
+            "views": 4850,
+            "comments_count": 0,
+            "engagement_score": 2690.0,
+            "platform": "instagram",
+            "time_posted": "2025-01-20T13:58:48",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DJr-BPXs_uu",
+            "text": "Clasico elevado a otro nivel, es algo que solo en Cantina La 20 podras experimentar \n📞 +52 81 8396 0817\n📍 Tercer piso de Punto Valle, San Pedro Garza García.\n\n#NochesInolvidables #CantinaLa20 #Monterr",
+            "likes": 6,
+            "views": 1096,
+            "comments_count": 0,
+            "engagement_score": 604.6,
+            "platform": "instagram",
+            "time_posted": "2025-05-15T14:06:52",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DI39OhqM8HR",
+            "text": "El destino ideal para quienes saben disfrutar cada detalle ✨\nDisfruta de la mejor gastronomía mexicana y mixología de otro nivel. ¡Reserva ya! \n📞 +52 81 8396 0817\n📍 Tercer piso de Punto Valle, San Ped",
+            "likes": 0,
+            "views": 67,
+            "comments_count": 0,
+            "engagement_score": 36.85,
+            "platform": "instagram",
+            "time_posted": "2025-04-25T09:19:06",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DIAPb26M-_q",
+            "text": "El plan perfecto para esta noche está en Cantina La 20. ✨ Disfruta de la mejor gastronomía mexicana y mixología de otro nivel. ¡Reserva ya! 📍🍹\n📞 +52 81 8396 0817\n📍 Tercer piso de Punto Valle, San Pedr",
+            "likes": 5,
+            "views": 57,
+            "comments_count": 0,
+            "engagement_score": 32.85,
+            "platform": "instagram",
+            "time_posted": "2025-04-03T18:00:44",
+            "sentiment": "positivo"
+          },
+          {
+            "url": "https://instagram.com/p/DICcqkUMtZw",
+            "text": "Si no has probado nuestra mixología, ¿realmente has salido en Monterrey? 🍸 Ven por tu cóctel favorito y vive la experiencia. ¡Nos vemos esta noche!\n📞 +52 81 8396 0817\n📍 Tercer piso de Punto Valle, San",
+            "likes": 5,
+            "views": 54,
+            "comments_count": 0,
+            "engagement_score": 31.2,
+            "platform": "instagram",
+            "time_posted": "2025-04-04T14:34:49",
+            "sentiment": "positivo"
+          }
+        ]
+      }
+    ],
+    "facebook": [
+      {
+        "rank": 6,
+        "username": "-LOS-TOURS-DEL-CENTRO-HISTORICO-DE-LA-CIUDAD-DE-M%C3%89XICO",
+        "platform": "facebook",
+        "followers": 213000,
+        "following": 0,
+        "sentimiento_predominante": "positivo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "positivo": 1
+        },
+        "url": "https://www.facebook.com/people/-LOS-TOURS-DEL-CENTRO-HISTORICO-DE-LA-CIUDAD-DE-M%C3%89XICO/100064414580599/",
+        "full_name": "\" LOS TOUR´S  DEL CENTRO HISTORICO DE LA CIUDAD DE MÉXICO",
+        "location": "",
+        "bio": "Tour operadores , Walkingtour ,Experiencias ,Arte, Cultura, Entretenimiento, Recomendaciones, Noticias.",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0kxqckGMQdnqioFiNE87UDGj6Y9uhWDioSJd2ALWbyUCmQPMvyti2TsTBSkDKX6Atl&id=100064414580599",
+            "text": "Cada quien tiene sus formas  😎🍷💃 🎉 en  Crónicas de Cantinas  🥃  Bienvenidos  al Tour Número 1 🏆 de #Cantinas  ⭐️🎉🥂  SÁBADO 20 de SEPTIEMBRE 🇲🇽 🚨iniciando 1 PM 🎊🍷  💥 Tenemos 13 Lugares Disponibles 👫 Ún",
+            "likes": 1102,
+            "views": 159321,
+            "comments_count": 20,
+            "engagement_score": 87960.15,
+            "platform": "Facebook",
+            "time_posted": "2025-09-13T14:33:00",
+            "sentiment": "positivo"
+          }
+        ]
+      }
+    ]
+  },
+  "top_20_negativos": {
+    "facebook": [
+      {
+        "rank": 1,
+        "username": "El-Nuevo-Blog-%C3%9Anico-Estatal-La-Vieja-Guardia",
+        "platform": "facebook",
+        "followers": 54000,
+        "following": 0,
+        "sentimiento_predominante": "negativo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "negativo": 1,
+          "positivo": 0,
+          "neutral": 0
+        },
+        "url": "https://www.facebook.com/people/El-Nuevo-Blog-%C3%9Anico-Estatal-La-Vieja-Guardia/61565980170737/",
+        "full_name": "El Nuevo Blog Único Estatal La Vieja Guardia ",
+        "location": "",
+        "bio": "NOTICIAS CONFIRMADAS  DESDE EL LUGAR DE LOS HECHOS",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02vYwD5nvYcyMArFBU7Naazv2EQcTPEanLg7HWawBL8Wxxe7tuSbqDaMrbKzu79dTDl&id=61565980170737",
+            "text": "REPORTARON.\n\nUn seguidor nos comparte el relato del asalto ocurrido en el bar 'El Escalón’:\n\n“Amistades, quiero contarles que anoche vivimos y presenciamos un asalto a mano armada en la cantina El Esc",
+            "likes": 43,
+            "views": 4498,
+            "comments_count": 6,
+            "engagement_score": 2487.7,
+            "platform": "Facebook",
+            "time_posted": "2025-04-18T15:50:00",
+            "sentiment": "negativo"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "username": "Panorama-San-Luis",
+        "platform": "facebook",
+        "followers": 35000,
+        "following": 0,
+        "sentimiento_predominante": "negativo",
+        "total_posts_analyzed": 1,
+        "confidence_percentage": 100.0,
+        "sentiment_breakdown": {
+          "negativo": 1,
+          "positivo": 0,
+          "neutral": 0
+        },
+        "url": "https://www.facebook.com/people/Panorama-San-Luis/61557818730994/",
+        "full_name": "Panorama San Luis ",
+        "location": "",
+        "bio": "El panorama informativo de San Luis Potosí\n¡Visita nuestro sitio! 👇📲\n\nhttps://panoramasanluis.com/",
+        "verified": false,
+        "mention": "",
+        "top_posts": [
+          {
+            "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid033RLKZ8CPKJwFhZ9nEmK7V7MxExSNzuSV7cxhDJ3zp6pZTmwq2pPtJFoexW6oaK7al&id=61557818730994",
+            "text": "#Reporte // Un seguidor nos comparte el relato del asalto ocurrido en el bar 'El Escalón’:\n\n“Amistades, quiero contarles que anoche vivimos y presenciamos un asalto a mano armada en la cantina El Esca",
+            "likes": 28,
+            "views": 2828,
+            "comments_count": 6,
+            "engagement_score": 1564.7,
+            "platform": "Facebook",
+            "time_posted": "2025-04-18T12:18:00",
+            "sentiment": "negativo"
+          }
+        ]
+      }
+    ]
+  }
+}
